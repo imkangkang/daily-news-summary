@@ -1,10 +1,208 @@
 {
-  "updatedAt": "2026-05-17 06:18",
+  "updatedAt": "2026-05-17 06:24",
   "categories": {
-    "politics": [],
+    "politics": [
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "記者張文馨／台北報導",
+        "title": "外交部：區域嚇阻 美重申對台政策不變",
+        "description": "美國總統川普在離開北京的空軍一號上對記者表示，中國國家主席習近平對台立場非常強硬，未有做出任何承諾，但也提及接下來將決定軍售；外交部發言人蕭光偉表示，台美軍售不只是台灣關係法中對台的安全承諾，更是區域威脅的共同嚇阻，美方多次重申對台政策不變。",
+        "url": "https://tw.news.yahoo.com/%E5%A4%96%E4%BA%A4%E9%83%A8-%E5%8D%80%E5%9F%9F%E5%9A%87%E9%98%BB-%E7%BE%8E%E9%87%8D%E7%94%B3%E5%B0%8D%E5%8F%B0%E6%94%BF%E7%AD%96%E4%B8%8D%E8%AE%8A-222107020.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "publishedAt": "2026-05-15T22:21:07Z",
+        "content": "5142Donald Trump2026......"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "泰國「陸橋計畫」──中國、新加坡與地方政治家族之間的糾葛（2之1）",
+        "description": "洪銘謙／博士、台灣「泰國學」學者、台泰交流協會創會秘書長暨理事、台灣自由選舉觀察協會研究員 4月25日中國外交部長王毅訪問泰國受到相當高規格的接待，由總理阿努廷與外交部長席哈薩親自迎接，甚至中午外出用餐還是由阿努廷親自開車載著王毅去吃飯，完全是「中泰一家親」的最佳體現。隨後媒體也公布雙邊主要洽談的議題，包含：泰國農產品輸入中國、中國企業在泰投資、科技交流合作以及聯手打擊跨境詐騙等。有趣的是，整個公開議題當中完全沒有提到泰國南部「陸橋計畫（Land Bridge）」，但是王毅前腳剛走，隔天阿努廷政府馬上對外宣布陸橋…",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bdbd2d74-f88e-4dc4-a4c7-752a33abacc6",
+        "urlToImage": null,
+        "publishedAt": "2026-05-15T22:20:00Z",
+        "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+1045 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "黃仁勳中國喝豆汁崩潰！變臉喊「什麼東西啊」她笑：回台灣喝永和豆漿吧",
+        "description": "美國總統川普（Donald Trump）剛結束睽違近十年的訪中行程，一舉一動備受全球關注，隨行企業領袖名單中，原本傳出不在名單內的輝達（Nvidia）執行長黃仁勳，也在最後關頭登上「空軍一號」隨團訪華。過程中黃仁勳逮到空檔「放風」，換上招牌皮衣直奔北京胡同，甚至品嚐當地特色小吃，其中喝「豆汁」時竟當場變臉引發討論，政治評論員吳靜怡就笑稱，「回來喝永和豆漿吧」。",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a9acd6c-32a0-434c-9693-780163d3b150",
+        "urlToImage": null,
+        "publishedAt": "2026-05-15T22:15:00Z",
+        "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+1045 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "川習會未有驚豔結果 美股收黑、科技股多跌",
+        "description": "[NOWNEWS今日新聞]美國總統川普與中國國家主席習近平的會晤結束，缺乏明確的重大政策突破，加上科技股下跌、美國公債殖利率上升等因素影響，美股週五普遍收黑，其中科技股在經歷近期的大幅上漲後，投資人紛...",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ce5fb212-7c02-489f-b13b-f52d5bfb9864",
+        "urlToImage": null,
+        "publishedAt": "2026-05-15T22:12:52Z",
+        "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+1045 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "鏡報",
+        "title": "言論自由不應被誤讀為無邊界的免責空間",
+        "description": "陸知益／兩岸政經與公共事務觀察者 台灣社會近年對言論自由的理解，逐漸出現擴張與錯置的現象。從教育工作者、藝人網紅、退役軍人到一般公民，部分意見表達逐漸脫離原本憲政秩序中「自由與責任並存」的結構，而傾向將自由理解為不受任何約束的表態權。然而，依據《憲法》第11條，言論自由的制度目的在於保障思想競爭與民主討論，而非提供否定國家存續或協力敵對政治動員的正當性基礎。 民主法治國家確實無法以強制方式塑造一致的政治認同，但這並不代表國家必須無條件承受任何削弱自身存續基礎的行為。國家存續本身構成憲政秩序的前提，一旦此一前提被侵…",
+        "url": "https://tw.news.yahoo.com/%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1%E4%B8%8D%E6%87%89%E8%A2%AB%E8%AA%A4%E8%AE%80%E7%82%BA%E7%84%A1%E9%82%8A%E7%95%8C%E7%9A%84%E5%85%8D%E8%B2%AC%E7%A9%BA%E9%96%93-221000825.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IuWZSXlCyEa52AEYWWjUFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDM-/https://media.zenfs.com/ko/mirrordaily_390/5d84aedfffece008526c8aaae68d85fa",
+        "publishedAt": "2026-05-15T22:10:00Z",
+        "content": "11\r\n1920\r\nmilitant democracy\r\neditor@mirrordaily.news48\r\n 4.70 ...2"
+      }
+    ],
     "economy": [],
-    "military": [],
+    "military": [
+      {
+        "source": {
+          "id": null,
+          "name": "Voachinese.com"
+        },
+        "author": "chinese@voanews.com (林枫)",
+        "title": "特习北京峰会释放稳定信号，但关键分歧未见突破",
+        "description": "特朗普总统星期五(5月15日)结束对北京的访问后说，他与中国国家主席习近平的会晤取得“历史性”成果，重点提到中国购买波音飞机、通用电气发动机以及美国农产品的承诺。不过，特朗普在返回华盛顿的“空军一号”上对随行记者承认，双方没有正式讨论关税问题。他也拒绝说明，如果台湾遭到攻击，美国是否会出兵防卫台湾。多名分析人士说，这次峰会有助于稳定美中关系，但在贸易休战、台湾、伊朗危机和先进技术等关键问题上，没有看到具有约束力的突破。",
+        "url": "https://www.voachinese.com/a/trump-xi-summit-sends-stablizing-signal-but-key-disputes-unsettled-20260515/8150476.html",
+        "urlToImage": "https://gdb.voanews.com/98e889db-99f7-40da-d24a-08de3bf6f1ff_cx0_cy8_cw0_w1200_h630.jpg",
+        "publishedAt": "2026-05-15T20:50:48Z",
+        "content": "·(Donald Trump)(515)\r\n200400450200750\r\n(Brookings Institution)··(Patricia Kim)\r\n(Stimson Center)\r\n()\r\n40%\r\n--B-2--\r\n·----\r\n(Jessen Huang)·(Tim Cook)·(Elon Musk)H200\r\n10\r\n(Kyle Chan)\r\nThat was sort of… [+108 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hk01.com"
+        },
+        "author": "Google èµ„è®¯",
+        "title": "刚果民主共和国再爆伊波拉疫情246疑似病例65死 乌干达也现个案 - 香港01",
+        "description": "非洲疾病预防控制中心5月15日宣布，刚果民主共和国（Democratic Republic of Congo）东部伊图里省（Ituri）爆发伊波拉疫情，目前有246宗疑似病例，",
+        "url": "https://global.hk01.com/即时国际/60350462/刚果民主共和国再爆伊波拉疫情246疑似病例65死-乌干达也现个案",
+        "urlToImage": "https://cdn.hk01.com/di/media/images/dw/20260516/1132129161725349888814305.jpeg/-_0DZr8WhkNz84mau_BpXqvNlW9djDvgB6W3ZQelt2U?v=w1280r16_9",
+        "publishedAt": "2026-05-15T20:37:37Z",
+        "content": "515Democratic Republic of CongoIturi24665Uganda\r\n20134\r\n15514\r\n50%25%90%1976"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Stheadline.com"
+        },
+        "author": "Google èµ„è®¯",
+        "title": "民主刚果爆发伊波拉疫情65死 - 星島頭條",
+        "description": "非洲疾病预防控制中心昨日宣布，刚果民主共和国东部伊图里省爆发伊波拉疫情，目前已报告246宗疑似病例和65人死亡。 　　非洲疾控中心在声明中说，民主刚果国家生物医学研究所针对20份样本的初步实验室检测结果显示，13份样本确认感染伊波拉病毒，其中包括4宗死亡病例。疾控中心表示，由于受影响地区包括城市、人口流动频繁且安全形势不稳，同时当地密切接触者追踪、感染预防和控制能力不足，加之邻近乌干达和南苏丹",
+        "url": "https://www.stheadline.com/zh-hans/daily-international/3572951/民主刚果爆发伊波拉疫情65死",
+        "urlToImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/d903648094b9f16b055c9907427f43c2/2026-05/INT01P08160526.jpg",
+        "publishedAt": "2026-05-15T20:37:37Z",
+        "content": "24665 20134 2025122025950%90%"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Toodaylab.com"
+        },
+        "author": "吴诗源",
+        "title": "实验室带你过周末：2026.5.16 - 5.17 成都篇",
+        "description": "人在成都的同学们周末好。五一小长假后重新回归正常的工作日和周末安排，天气相当不错（甚至还有些凉），外出的活动、新店的打卡都会很舒服，另外出门前可以留意下天气预报，可能会需要带把伞以防万一。5 月 15 日，Natura Bissé（悦碧施）在春熙路广场带来“橙力觉醒”线下快闪活动，活动围绕维 C 紧致系列展开，现场有苦橙醒肤喷雾、维 C 紧致焕活精华及维 C 紧致焕活面霜的陈列，大家可以体验试用，去感受维 C 鲜活能量和多重复合抗氧因子配合带来的紧致焕亮。同时现场有多个点位可以拍照打卡，也准备了拍立得等互动玩法，…",
+        "url": "https://www.toodaylab.com/84038",
+        "urlToImage": null,
+        "publishedAt": "2026-05-15T18:01:17Z",
+        "content": "5 15 Natura Bissé C C C C \r\n200ml \r\nNatura Bissé·5 15 - 17 10:00 - 22:00 B B \r\nSteven Tang\r\nCederic Yao \r\n488 \r\n 17:30 - 22:00 81 488 /028-62974193\r\n4 8 \r\nMusei Reali 140 \r\n4 30 - 8 23 9:00 - 17:00 2… [+113 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Secretchina.com"
+        },
+        "author": "www.secretchina.com",
+        "title": "川普访华团返美前大清理 中国物品禁上“空军一号”(图)",
+        "description": "美国总统川普（Donald Trump）与中共领导人习近平在北京举行高层会谈，这场被外界视为近年来最敏感的美中会谈之一，不仅涉及台湾、伊朗战争、贸易、人工智能与稀土供应等重大议题，其背后的安保与网络防御措施同样引发国际媒体高度关注。 新闻 美国 - 看中国》是总部设于美国、以复兴传统中华文化为理念的独立媒体。自2001年起，坚持报道最新社会焦点和传统文化专题，中文报纸已在北美、欧洲、澳洲、亚洲等17个国家发行。中国新闻,中国大陆新闻,内幕新闻,中文媒体,新闻评论,时事,财经,博谈,历史,文化,养生,娱乐,奇闻。",
+        "url": "https://www.secretchina.com/news/gb/2026/05/16/1099186.html",
+        "urlToImage": "https://img6.secretchina.com/pic/2026/5-16/p3761651a448754638-ss.jpg",
+        "publishedAt": "2026-05-15T16:44:12Z",
+        "content": "Truth SocialScott Olson/Getty Images \r\n2026516/()Air Force Oneburner phones \r\nEmily Goodin 515X\r\nFaraday bagsclean devices \r\nUSB \r\nMarco Rubio \r\n:\r\n:\r\n."
+      }
+    ],
     "tech": [],
-    "world": []
+    "world": [
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "美味「鰻」分漁業署推鰻魚粽　盼民眾力挺國產鰻農",
+        "description": "（中央社記者姜宜菁雲林縣16日電）為推廣國產鰻魚並拓展國內消費市場，漁業署攜手新東陽等單位，突破以往以豬肉為主的端午粽子印象，鰻魚入粽，一次品嘗到山珍海味，美味「鰻」分，盼民眾用行動支持鰻農。",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a7ec57da-e2eb-4096-b68c-7034f59744a7",
+        "urlToImage": null,
+        "publishedAt": "2026-05-15T22:23:22Z",
+        "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+1045 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "川普指那是很久前的事…美對台六項保證鬆動",
+        "description": "川習會落幕，大陸國家主席習近平期間提出建構「中美建設性戰略穩定關係」，美國總統川普於十四日「川習會」後接受福斯新聞節目「漢尼提秀」受訪時表明，美中是兩個偉大國家，「我稱之為Ｇ２（兩國集團），這就是Ｇ２」。該節目於十五日播出。",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7087ce0d-5297-4c68-bfbe-0ab94e275330",
+        "urlToImage": null,
+        "publishedAt": "2026-05-15T22:21:07Z",
+        "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+1045 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "記者張文馨／台北報導",
+        "title": "外交部：區域嚇阻 美重申對台政策不變",
+        "description": "美國總統川普在離開北京的空軍一號上對記者表示，中國國家主席習近平對台立場非常強硬，未有做出任何承諾，但也提及接下來將決定軍售；外交部發言人蕭光偉表示，台美軍售不只是台灣關係法中對台的安全承諾，更是區域威脅的共同嚇阻，美方多次重申對台政策不變。",
+        "url": "https://tw.news.yahoo.com/%E5%A4%96%E4%BA%A4%E9%83%A8-%E5%8D%80%E5%9F%9F%E5%9A%87%E9%98%BB-%E7%BE%8E%E9%87%8D%E7%94%B3%E5%B0%8D%E5%8F%B0%E6%94%BF%E7%AD%96%E4%B8%8D%E8%AE%8A-222107020.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "publishedAt": "2026-05-15T22:21:07Z",
+        "content": "5142Donald Trump2026......"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "劉揚偉：美中關係沒那麼緊張 電電公會首座TEEMA園區可能落腳墨西哥",
+        "description": "電電公會（TEEMA）理事長暨鴻海董事長劉揚偉昨（15）日表示，觀察目前美中談判最新進度，從外部報導來看情勢「不是那麼緊張」，仍要持續關注後續官方正式公告。",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_60750913-b1d3-4778-9435-6c6025fd319b",
+        "urlToImage": null,
+        "publishedAt": "2026-05-15T22:21:07Z",
+        "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+1045 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "新聞眼／台獨爭議川普表態 台灣面臨美中雙邊壓力",
+        "description": "川習會上有關台灣議論的重頭戲直到昨晚才出現！美國總統川普在川習會後一口氣談了對台軍售、不希望台灣獨立、不需要有一場九千五百英里外的戰爭等話題，句句敏感、句句震撼，台灣勢將面臨近年罕見的美中雙邊壓力。",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5112cc76-c3ad-4456-8b57-e467116c9c5f",
+        "urlToImage": null,
+        "publishedAt": "2026-05-15T22:21:07Z",
+        "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+1045 chars]"
+      }
+    ]
   }
 }

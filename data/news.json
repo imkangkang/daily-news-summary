@@ -1,10 +1,265 @@
 {
-  "updatedAt": "2026-05-17 06:56",
+  "updatedAt": "2026-05-17 07:02",
   "categories": {
-    "politics": [],
-    "economy": [],
-    "military": [],
-    "tech": [],
-    "world": []
+    "politics": [
+      {
+        "title": "政治动荡持续，英国政党酝酿推进不信任动议",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260514/49492329.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-14 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260513/eeaad8d4-5005-4f4f-86ef-8b65ca140379.png"
+      },
+      {
+        "title": "政治加速右转，日本滑向何方",
+        "description": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/f276a6955d.shtml",
+        "source": {
+          "name": "南方社会"
+        },
+        "publishedAt": "2025-12-28 19:39:00",
+        "image": "https://nfassetoss.southcn.com/__asset/edf5bb69a5/f8514f28f1.jpeg?t=1766921949443&amp;w=800&amp;h=450&amp;imageMogr2/thumbnail/214x"
+      },
+      {
+        "title": "政治局会议释放新信号，解读来了",
+        "description": "查看详情",
+        "url": "https://news.southcn.com/node_179d29f1ce/cf5f382c5a.shtml",
+        "source": {
+          "name": "南方社会"
+        },
+        "publishedAt": "2025-12-09 09:21:00",
+        "image": "https://nfassetoss.southcn.com/__asset/4da643e18f/d6a248d749.jpg?w=640&amp;h=360&amp;imageMogr2/thumbnail/214x"
+      },
+      {
+        "title": "政治局召开会议 分析明年经济工作 稳中求进提质增效",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20251208/49056397.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2025-12-08 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20251208/7e7ead0b-c7ab-46ee-97f9-20c9bfb288f1.png"
+      },
+      {
+        "title": "政治僵局会如何拖累法国经济 市场信心减弱经济增长放缓",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20251012/48897096.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2025-10-12 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20251012/f3642bd2-6dfa-4206-9072-f65f6693700b.jpg"
+      }
+    ],
+    "economy": [
+      {
+        "title": "经济日报：智能家电前景广阔 推动制造业数字化转型",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260507/49475537.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-07 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "经济日报：楼市去库存成效正在显现 供需两端齐发力",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260422/49441223.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-04-22 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260422/8ecb7bcd-3b96-4edb-9085-54f9f278fa9e.jpg"
+      },
+      {
+        "title": "经济学家洪灏：未来金价翻倍没有悬念，流动性周期推动上涨",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260422/49440052.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-04-22 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "经济学家：房子将越来越像耐用消费品 市场逻辑重构",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260417/49423408.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-04-17 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260416/e7d57505-281f-4b68-8a11-ae2551445667.jpg"
+      },
+      {
+        "title": "经济学家：现在进入牛市相持阶段，市场聚焦优质技术领域",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260414/49415644.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-04-14 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260414/967dfe1e-67f6-4b60-803a-ad2568916d04.jpg"
+      }
+    ],
+    "military": [
+      {
+        "title": "军事机密泄露竟是因为运动手表 智能设备风险频发",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260401/49374935.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-04-01 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "军事信息技术专家魏正耀院士逝世 享年90岁贡献卓著",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260326/49357939.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-03-26 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "军事问题专家：伊朗宁可挨打也不能屈服",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260302/49283353.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-03-02 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "军事爱好者拍摄军用机场当场被抓 镜头下的泄密雷区",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260212/49246788.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-02-12 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260212/998b759a-0dbe-4dfa-86ac-63d4274b02cc.jpg"
+      },
+      {
+        "title": "军事基地附近农田出现涉外气象站 违规设立引关注",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260129/49206932.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-01-29 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260129/1aabafd2-6133-4ad2-bb46-1c1f35aa29f8.jpg"
+      }
+    ],
+    "tech": [
+      {
+        "title": "科技早报 | iPhone 17 Pro最高降2000元；支付宝",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KT1LOJN40534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-05-16 08:01:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle9477e351deej00tf36zc002bd000sg00iyg.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
+        "title": "科技不断刷新中国快递转运上限",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KSV8HD5A0514R9OJ.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-05-15 09:31:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle44601b8202cj00tf20zh003ld200u000k0g00zk00np.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
+        "title": "科技早报 | 腾讯辟谣“AI一号位离职”传闻；英",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KSV3BSTA0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-05-15 08:01:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0515%2F0cc3db25j00tf1xdp000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
+        "title": "科技股之外美股散户还在炒作什么主线 铜矿与模因股票",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260514/49494254.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-14 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260514/a2957126-515b-4cb4-a285-264a03ad3372.jpg"
+      },
+      {
+        "title": "科技早报 | 刘炽平称腾讯没有大裁员计划；阿里A",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KSSGV6AS0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-05-14 08:01:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0514%2F53ade9fej00tf01a102y9d0068003i0g.jpg&thumbnail=200y140&quality=100&type=jpg"
+      }
+    ],
+    "world": [
+      {
+        "title": "国际足联回应央视世界杯版权费 达成共识",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260515/49496383.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-15 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260515/8a2327cd-a8ff-4030-81a7-f6e481f3c549.jpg"
+      },
+      {
+        "title": "国际足联为啥服软了 版权谈判终妥协",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260515/49496360.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-15 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260515/426bcc72-e406-43d2-8415-f49b06a8c30c.jpg"
+      },
+      {
+        "title": "国际排联A级裁判解读 世界排球联赛试行规则引关注",
+        "description": "",
+        "url": "https://v.zhibo.tv/detail/headerline/1273403.html",
+        "source": {
+          "name": "中国体育"
+        },
+        "publishedAt": "2026-05-15 18:00:02",
+        "image": "https://file02.zhibo.tv/uploads/imgs/2026/05-15/429a291fe579885ed8e4fc00407d8cfa_540x304.jpg"
+      },
+      {
+        "title": "国际足联报价腰斩 重大让步寻求合作",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260515/49495200.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-15 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "国际足联变“商”联了吗 版权谈判现转机",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260514/49494266.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-14 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260514/9bca0a7b-46a3-4523-9038-b28caee3a6e9.jpg"
+      }
+    ]
   }
 }

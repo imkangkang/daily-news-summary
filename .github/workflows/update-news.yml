@@ -23,7 +23,7 @@ jobs:
 
       - name: Fetch news
         env:
-          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          TIANAPI_KEY: ${{ secrets.TIANAPI_KEY }}
         run: python scripts/fetch_news.py
 
       - name: Commit and push if changed

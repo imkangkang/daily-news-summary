@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>每日新闻摘要 · 了解世界，从每一天开始</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='28' font-size='28'>📰</text></svg>">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-inner container">
+      <div class="header-brand">
+        <img src="assets/1.png" alt="小招喵" class="header-logo" onerror="this.style.display='none'">
+        <div class="header-titles">
+          <h1 class="header-title">每日新闻摘要</h1>
+          <p class="header-subtitle">了解世界，从每一天开始</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <span class="header-date" id="currentDate"></span>
+        <span class="update-badge" id="updateBadge">🕕 每日 6:00 更新</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Nav -->
+  <nav class="nav">
+    <div class="nav-inner container">
+      <a href="#politics" class="nav-item">政治</a>
+      <a href="#economy" class="nav-item">经济</a>
+      <a href="#military" class="nav-item">军事</a>
+      <a href="#tech" class="nav-item">科技</a>
+      <a href="#world" class="nav-item">国际</a>
+    </div>
+  </nav>
+
+  <!-- Last Update Bar -->
+  <div class="update-bar" id="updateBar">
+    <span>📡 上次更新：<strong id="updateTime">加载中...</strong></span>
+  </div>
+
+  <!-- Main Content -->
+  <main class="main container">
+
+    <!-- 政治 -->
+    <section id="politics" class="section">
+      <div class="section-header">
+        <span class="section-icon">🏛️</span>
+        <h2 class="section-title">政治</h2>
+        <span class="section-divider"></span>
+      </div>
+      <div class="cards-grid" id="cards-politics"></div>
+    </section>
+
+    <!-- 经济 -->
+    <section id="economy" class="section">
+      <div class="section-header">
+        <span class="section-icon">📊</span>
+        <h2 class="section-title">经济</h2>
+        <span class="section-divider"></span>
+      </div>
+      <div class="cards-grid" id="cards-economy"></div>
+    </section>
+
+    <!-- 军事 -->
+    <section id="military" class="section">
+      <div class="section-header">
+        <span class="section-icon">⚔️</span>
+        <h2 class="section-title">军事</h2>
+        <span class="section-divider"></span>
+      </div>
+      <div class="cards-grid" id="cards-military"></div>
+    </section>
+
+    <!-- 科技 -->
+    <section id="tech" class="section">
+      <div class="section-header">
+        <span class="section-icon">🚀</span>
+        <h2 class="section-title">科技</h2>
+        <span class="section-divider"></span>
+      </div>
+      <div class="cards-grid" id="cards-tech"></div>
+    </section>
+
+    <!-- 国际 -->
+    <section id="world" class="section">
+      <div class="section-header">
+        <span class="section-icon">🌍</span>
+        <h2 class="section-title">国际</h2>
+        <span class="section-divider"></span>
+      </div>
+      <div class="cards-grid" id="cards-world"></div>
+    </section>
+
+  </main>
+
+  <!-- 分隔装饰 -->
+  <div class="cmb-decoration container"></div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-inner container">
+      <div class="footer-text">
+        <p class="footer-brand">每日新闻摘要</p>
+        <p class="footer-info">每天早上 6:00 更新 · 新闻来源 NewsAPI · 仅供参考</p>
+        <p class="footer-copy">© 2026 Daily News Summary</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

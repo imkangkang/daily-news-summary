@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17 07:02",
+  "updatedAt": "2026-05-18 06:57",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际乒联主席高度赞誉国乒 号召向邓亚萍学习",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260517/49498176.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-17 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260517/e6990cc6-7e4a-4eff-a3a6-19cfad1349c1.jpg"
+      },
+      {
         "title": "国际足联回应央视世界杯版权费 达成共识",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260515/49496383.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-05-15 00:00:00",
         "image": ""
-      },
-      {
-        "title": "国际足联变“商”联了吗 版权谈判现转机",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260514/49494266.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-14 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260514/9bca0a7b-46a3-4523-9038-b28caee3a6e9.jpg"
       }
     ]
   }

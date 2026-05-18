@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18 06:57",
+  "updatedAt": "2026-05-19 07:08",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际博物馆日走进大觉寺赴文化之约 感受古刹静谧禅意",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260518/49500814.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-18 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260518/22b32239-c29a-4891-bb59-31b8892fb3fd.jpg"
+      },
+      {
+        "title": "国际金价创4月以来新低 金饰价格下调",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260518/49499181.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-18 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260518/e13ca429-e703-408b-9cb1-125c6af75c7f.jpg"
+      },
+      {
+        "title": "国际刑事法院否认向多名以色列官员发出新逮捕令",
+        "description": "",
+        "url": "https://mil.ifeng.com/c/8tDbxnexNy9",
+        "source": {
+          "name": "凤凰军事"
+        },
+        "publishedAt": "2026-05-18 08:00:05",
+        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_21/87CF2B154A0072E87194905241D4762295CB5EAF_size827_w1035_h582.png"
+      },
+      {
         "title": "国际乒联主席高度赞誉国乒 号召向邓亚萍学习",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260517/49498176.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-05-15 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260515/8a2327cd-a8ff-4030-81a7-f6e481f3c549.jpg"
-      },
-      {
-        "title": "国际足联为啥服软了 版权谈判终妥协",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260515/49496360.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-15 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260515/426bcc72-e406-43d2-8415-f49b06a8c30c.jpg"
-      },
-      {
-        "title": "国际排联A级裁判解读 世界排球联赛试行规则引关注",
-        "description": "",
-        "url": "https://v.zhibo.tv/detail/headerline/1273403.html",
-        "source": {
-          "name": "中国体育"
-        },
-        "publishedAt": "2026-05-15 18:00:02",
-        "image": "https://file02.zhibo.tv/uploads/imgs/2026/05-15/429a291fe579885ed8e4fc00407d8cfa_540x304.jpg"
-      },
-      {
-        "title": "国际足联报价腰斩 重大让步寻求合作",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260515/49495200.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-15 00:00:00",
-        "image": ""
       }
     ]
   }

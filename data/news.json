@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22 07:06",
+  "updatedAt": "2026-05-23 07:07",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济不再是中日关系“压舱石”了吗 政治立场高于共同利益",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260522/49509298.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-22 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260522/116df7b3-3cb0-4799-8672-9113cc5a5e94.jpg"
+      },
+      {
         "title": "经济运行稳中有进 高质量发展向新向优——透视前4个月我国经济数据",
         "description": "2026-05-1909:41",
         "url": "//caijing.chinadaily.com.cn/a/202605/19/WS6a0bc17fa310942cc49aceba.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-04-22 00:00:00",
         "image": ""
-      },
-      {
-        "title": "经济学家：房子将越来越像耐用消费品 市场逻辑重构",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260417/49423408.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-04-17 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260416/e7d57505-281f-4b68-8a11-ae2551445667.jpg"
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股轮番爆发 私募大佬林园踏错“节奏”？ 坚守消费医药承压",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260522/49507557.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-22 00:00:00",
+        "image": ""
+      },
+      {
         "title": "科技股能否成A股长期牛市“芯”引擎 新王当立重塑市值版图",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260520/49505519.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-05-16 08:01:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle9477e351deej00tf36zc002bd000sg00iyg.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技不断刷新中国快递转运上限",
-        "description": "",
-        "url": "https://www.163.com/dy/article/KSV8HD5A0514R9OJ.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-05-15 09:31:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle44601b8202cj00tf20zh003ld200u000k0g00zk00np.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际能源署署长：全球石油市场或将进入“危险区域”",
+        "description": "国际能源署署长法提赫·比罗尔21日说，若供应得不到改善，全球石油市场可能在今年7月或8月进入“危险区域”。2026-05-2210:51",
+        "url": "//caijing.chinadaily.com.cn/a/202605/22/WS6a0fc4d1a310942cc49adaac.html",
+        "source": {
+          "name": "中国日报财经"
+        },
+        "publishedAt": "2026-05-22 10:51:00",
+        "image": "//img3.chinadaily.com.cn/images/202605/22/6a0fc4d1a310942c0d608b3a.jpeg"
+      },
       {
         "title": "国际足联已在探讨2030年世界杯扩军 推动更多国家队加入",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-05-21 00:00:00",
         "image": ""
-      },
-      {
-        "title": "国际油价又直线跳水 特朗普推迟打击伊朗",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260521/49506156.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-21 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260521/bfd942cb-0fae-447e-ae50-35d69214fe98.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23 07:07",
+  "updatedAt": "2026-05-24 06:56",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 微信回应消息为何仅限2分钟内撤回；",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KTJP420N0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-05-23 08:46:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0523%2F0cc3db25j00tfgssp000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技股轮番爆发 私募大佬林园踏错“节奏”？ 坚守消费医药承压",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260522/49507557.html",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-05-19 00:00:00",
         "image": ""
-      },
-      {
-        "title": "科技早报 | iPhone 17 Pro最高降2000元；支付宝",
-        "description": "",
-        "url": "https://www.163.com/dy/article/KT1LOJN40534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-05-16 08:01:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle9477e351deej00tf36zc002bd000sg00iyg.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际金价后市将如何演绎 多重因素影响走势",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260523/49510118.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-23 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260522/3e69c48c-3a9d-4f85-9de1-fc622637bb0c.jpg"
+      },
+      {
+        "title": "国际社会不能被日本的核伪装欺骗 警惕其拥核图谋",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260523/49510000.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-23 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260523/f5e6067d-d003-4130-8cae-936c8f781555.jpg"
+      },
       {
         "title": "国际能源署署长：全球石油市场或将进入“危险区域”",
         "description": "国际能源署署长法提赫·比罗尔21日说，若供应得不到改善，全球石油市场可能在今年7月或8月进入“危险区域”。2026-05-2210:51",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-05-21 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260521/7f745f9e-14a9-47a0-b825-4052e35c2bbe.jpg"
-      },
-      {
-        "title": "国际油价大跌了 跌幅超5%",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260521/49506379.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-21 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "国际油价短线走低 WTI原油跌超4%",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260521/49506057.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-21 00:00:00",
-        "image": ""
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24 06:56",
+  "updatedAt": "2026-05-25 07:02",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际金价与油价何去何从 地缘冲突下的价格震荡",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260524/49510862.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-24 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260524/9436bce6-6fa5-4e63-840b-f9645726a8c3.jpg"
+      },
+      {
         "title": "国际金价后市将如何演绎 多重因素影响走势",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260523/49510118.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-05-21 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260521/9caa6f49-8458-494e-9d73-a057e212a612.png"
-      },
-      {
-        "title": "国际能源署发布年度《全球电动车展望》报告：全球近四分之三电动车产自中国",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260521/49507240.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-21 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260521/7f745f9e-14a9-47a0-b825-4052e35c2bbe.jpg"
       }
     ]
   }

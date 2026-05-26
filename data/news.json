@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26 07:11",
+  "updatedAt": "2026-05-27 07:13",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际油价下跌贵金属上扬 美伊谈判影响市场",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260526/49514328.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-26 00:00:00",
+        "image": ""
+      },
+      {
         "title": "国际金价与油价何去何从 地缘冲突下的价格震荡",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260524/49510862.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-05-22 10:51:00",
         "image": "//img3.chinadaily.com.cn/images/202605/22/6a0fc4d1a310942c0d608b3a.jpeg"
-      },
-      {
-        "title": "国际足联已在探讨2030年世界杯扩军 推动更多国家队加入",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260521/49507258.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-21 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260521/9caa6f49-8458-494e-9d73-a057e212a612.png"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27 07:13",
+  "updatedAt": "2026-05-28 07:20",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技股大幅回调 大消费异动拉升 市场资金结构变化显著",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260527/49517415.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-27 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260527/15895113-3029-450e-91a5-22ff86ffcefd.jpg"
+      },
+      {
+        "title": "科技早报 | 滴滴出行回应系统出现异常；卢伟冰",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KTU04MB10534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-05-27 08:01:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0527%2F8b95959fj00tfnyo9008hd000io00wrg.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技大佬高校演讲，一谈 AI 就被毕业生喝倒彩？谷歌 CEO 皮查伊自称“很乐观”",
         "description": "皮查伊坦言，人们对AI未来感到焦虑“完全合理”。“人类并没有进化到能够处理如此剧烈变化的程度，这种变化规模与过去世界经历过的任何技术变革都不同。”",
         "url": "https://www.ithome.com/0/954/879.htm",
@@ -187,29 +207,19 @@
         },
         "publishedAt": "2026-05-22 00:00:00",
         "image": ""
-      },
-      {
-        "title": "科技股能否成A股长期牛市“芯”引擎 新王当立重塑市值版图",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260520/49505519.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-20 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260520/2d56ad70-f0dc-4471-b83b-8a494b60b48d.jpg"
-      },
-      {
-        "title": "科技牛的基本面如何 业绩驱动持续增长",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260519/49503097.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-19 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260519/65f5162f-a170-4a28-81b1-6cb257ee0b6a.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际金价再度下跌 银价逆势上涨",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260527/49516203.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-27 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260527/764985ff-9b90-4e03-b1ce-ea88da110017.jpg"
+      },
       {
         "title": "国际油价下跌贵金属上扬 美伊谈判影响市场",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-05-23 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260523/f5e6067d-d003-4130-8cae-936c8f781555.jpg"
-      },
-      {
-        "title": "国际能源署署长：全球石油市场或将进入“危险区域”",
-        "description": "国际能源署署长法提赫·比罗尔21日说，若供应得不到改善，全球石油市场可能在今年7月或8月进入“危险区域”。2026-05-2210:51",
-        "url": "//caijing.chinadaily.com.cn/a/202605/22/WS6a0fc4d1a310942cc49adaac.html",
-        "source": {
-          "name": "中国日报财经"
-        },
-        "publishedAt": "2026-05-22 10:51:00",
-        "image": "//img3.chinadaily.com.cn/images/202605/22/6a0fc4d1a310942c0d608b3a.jpeg"
       }
     ]
   }

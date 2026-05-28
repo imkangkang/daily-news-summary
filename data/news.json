@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28 07:20",
+  "updatedAt": "2026-05-29 07:21",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,46 @@
     ],
     "world": [
       {
+        "title": "国际油价大跳水 和平信号引发大跌",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260528/49518813.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-28 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260528/50586689-17a1-424e-848c-6bae373b1414.png"
+      },
+      {
+        "title": "国际油价、金银价格下跌 市场波动加剧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260528/49518522.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-28 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260528/91762108-9634-4fcc-90a0-2843cbe70ce2.jpg"
+      },
+      {
+        "title": "国际油价一夜大跌4% 油价调整迎下跌预期",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260528/49518398.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-28 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260528/65e60da8-099e-4b9f-b563-61fef9c6a352.jpg"
+      },
+      {
+        "title": "国际月经日 正视月经·科学呵护健康",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260528/49518408.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-28 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260528/ec0732ce-d4da-4148-a723-7eb5d67a90d6.jpg"
+      },
+      {
         "title": "国际金价再度下跌 银价逆势上涨",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260527/49516203.html",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-05-27 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260527/764985ff-9b90-4e03-b1ce-ea88da110017.jpg"
-      },
-      {
-        "title": "国际油价下跌贵金属上扬 美伊谈判影响市场",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260526/49514328.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-26 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "国际金价与油价何去何从 地缘冲突下的价格震荡",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260524/49510862.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-24 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260524/9436bce6-6fa5-4e63-840b-f9645726a8c3.jpg"
-      },
-      {
-        "title": "国际金价后市将如何演绎 多重因素影响走势",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260523/49510118.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-23 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260522/3e69c48c-3a9d-4f85-9de1-fc622637bb0c.jpg"
-      },
-      {
-        "title": "国际社会不能被日本的核伪装欺骗 警惕其拥核图谋",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260523/49510000.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-23 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260523/f5e6067d-d003-4130-8cae-936c8f781555.jpg"
       }
     ]
   }

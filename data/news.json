@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29 07:21",
+  "updatedAt": "2026-05-30 07:19",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技如何赋能优质内容创作？听大咖们怎么说",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KU4FT4H60514EGPO.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-05-29 20:32:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle706b03954e7j00tfrx7600hmd002rs01kag.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技股大幅回调 大消费异动拉升 市场资金结构变化显著",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260527/49517415.html",
@@ -197,19 +207,49 @@
         },
         "publishedAt": "2026-05-23 08:46:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0523%2F0cc3db25j00tfgssp000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技股轮番爆发 私募大佬林园踏错“节奏”？ 坚守消费医药承压",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260522/49507557.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-22 00:00:00",
-        "image": ""
       }
     ],
     "world": [
+      {
+        "title": "国际航线燃油费下调 出境游预订热度增三成",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260529/49520623.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-29 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260529/d8b3ff7b-8903-4636-881e-3fdb8c773e2f.jpg"
+      },
+      {
+        "title": "国际足联发售新一批世界杯门票 先到先得售完即止",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260529/49520633.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-29 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260529/f18b649f-736f-4813-ae6a-3019e34b3e10.jpg"
+      },
+      {
+        "title": "国际足联开售新一批世界杯门票 先到先得",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260529/49520693.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-29 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260529/c8e6e0dd-4af5-4ef9-8349-b31bead745aa.png"
+      },
+      {
+        "title": "国际资本为何纷纷“抢筹”中国 押注硬核科技赛道",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260529/49519430.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-29 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260528/b095aa2a-5d82-462e-a4a5-1bcc500f1a9f.jpg"
+      },
       {
         "title": "国际油价大跳水 和平信号引发大跌",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-05-28 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260528/50586689-17a1-424e-848c-6bae373b1414.png"
-      },
-      {
-        "title": "国际油价、金银价格下跌 市场波动加剧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260528/49518522.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-28 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260528/91762108-9634-4fcc-90a0-2843cbe70ce2.jpg"
-      },
-      {
-        "title": "国际油价一夜大跌4% 油价调整迎下跌预期",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260528/49518398.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-28 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260528/65e60da8-099e-4b9f-b563-61fef9c6a352.jpg"
-      },
-      {
-        "title": "国际月经日 正视月经·科学呵护健康",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260528/49518408.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-28 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260528/ec0732ce-d4da-4148-a723-7eb5d67a90d6.jpg"
-      },
-      {
-        "title": "国际金价再度下跌 银价逆势上涨",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260527/49516203.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-27 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260527/764985ff-9b90-4e03-b1ce-ea88da110017.jpg"
       }
     ]
   }

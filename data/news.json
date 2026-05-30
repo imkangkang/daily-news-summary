@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30 07:19",
+  "updatedAt": "2026-05-31 07:03",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济学家章俊谈产业创新 智能经济范式转换",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260530/49521495.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-30 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260530/8bace137-e1b1-4d17-b641-a403f8073b69.jpg"
+      },
+      {
         "title": "经济不再是中日关系“压舱石”了吗 政治立场高于共同利益",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260522/49509298.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-04-22 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260422/8ecb7bcd-3b96-4edb-9085-54f9f278fa9e.jpg"
-      },
-      {
-        "title": "经济学家洪灏：未来金价翻倍没有悬念，流动性周期推动上涨",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260422/49440052.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-04-22 00:00:00",
-        "image": ""
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股突然杀跌意味着什么 市场风格切换信号？",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260530/49521970.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-30 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260530/e4d06dc6-7a54-4418-89ed-8dc9018f2513.jpg"
+      },
+      {
         "title": "科技如何赋能优质内容创作？听大咖们怎么说",
         "description": "",
         "url": "https://www.163.com/dy/article/KU4FT4H60514EGPO.html",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-05-25 16:00:07",
         "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/5/954879_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "科技早报 | 微信回应消息为何仅限2分钟内撤回；",
-        "description": "",
-        "url": "https://www.163.com/dy/article/KTJP420N0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-05-23 08:46:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0523%2F0cc3db25j00tfgssp000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [

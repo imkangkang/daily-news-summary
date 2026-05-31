@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31 07:03",
+  "updatedAt": "2026-06-01 07:05",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际油价大幅回落 国内油价有望回调 美伊和谈推进影响显著",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260531/49522457.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-05-31 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260531/1587133c-693e-4fe5-b838-81298b939275.jpg"
+      },
+      {
         "title": "国际航线燃油费下调 出境游预订热度增三成",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260529/49520623.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-05-29 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260528/b095aa2a-5d82-462e-a4a5-1bcc500f1a9f.jpg"
-      },
-      {
-        "title": "国际油价大跳水 和平信号引发大跌",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260528/49518813.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-28 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260528/50586689-17a1-424e-848c-6bae373b1414.png"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01 07:05",
+  "updatedAt": "2026-06-02 07:38",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技基金“同名不同命” 收益分化明显",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260601/49525136.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-01 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260601/f5902aee-0cfc-46c7-9041-596e05b37877.jpg"
+      },
+      {
         "title": "科技股突然杀跌意味着什么 市场风格切换信号？",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260530/49521970.html",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-05-27 08:01:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0527%2F8b95959fj00tfnyo9008hd000io00wrg.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技大佬高校演讲，一谈 AI 就被毕业生喝倒彩？谷歌 CEO 皮查伊自称“很乐观”",
-        "description": "皮查伊坦言，人们对AI未来感到焦虑“完全合理”。“人类并没有进化到能够处理如此剧烈变化的程度，这种变化规模与过去世界经历过的任何技术变革都不同。”",
-        "url": "https://www.ithome.com/0/954/879.htm",
-        "source": {
-          "name": "IT家人工智能"
-        },
-        "publishedAt": "2026-05-25 16:00:07",
-        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/5/954879_240.jpg?x-bce-process=image/format,f_auto"
       }
     ],
     "world": [
+      {
+        "title": "国际乒联最新世界排名出炉 国乒继续领跑",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260601/49525026.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-01 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260601/cb45b1ce-a8ae-4669-8e24-07b56585f536.jpg"
+      },
+      {
+        "title": "国际组织警告：北半球今夏或面临燃料短缺",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260601/49523189.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-01 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260601/f5074597-c568-467e-a23d-7a70c8634ca5.jpg"
+      },
       {
         "title": "国际油价大幅回落 国内油价有望回调 美伊和谈推进影响显著",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-05-29 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260529/f18b649f-736f-4813-ae6a-3019e34b3e10.jpg"
-      },
-      {
-        "title": "国际足联开售新一批世界杯门票 先到先得",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260529/49520693.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-29 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260529/c8e6e0dd-4af5-4ef9-8349-b31bead745aa.png"
-      },
-      {
-        "title": "国际资本为何纷纷“抢筹”中国 押注硬核科技赛道",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260529/49519430.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-29 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260528/b095aa2a-5d82-462e-a4a5-1bcc500f1a9f.jpg"
       }
     ]
   }

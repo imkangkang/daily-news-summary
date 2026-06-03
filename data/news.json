@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03 07:51",
+  "updatedAt": "2026-06-04 07:48",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际金价加速下跌 中东局势加剧市场波动",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260603/49528564.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-03 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260603/12d66806-ce5a-42ae-9a9f-eeb08658c92e.jpg"
+      },
+      {
         "title": "国际车手驾坦克700环塔夺冠 赛段竞争激烈",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260602/49525320.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-05-31 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260531/1587133c-693e-4fe5-b838-81298b939275.jpg"
-      },
-      {
-        "title": "国际航线燃油费下调 出境游预订热度增三成",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260529/49520623.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-29 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260529/d8b3ff7b-8903-4636-881e-3fdb8c773e2f.jpg"
       }
     ]
   }

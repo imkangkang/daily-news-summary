@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04 07:48",
+  "updatedAt": "2026-06-05 07:13",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际足联更新2026世界杯期间的规定 禁止携带水瓶引发热议",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260604/49530686.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-04 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260604/7092b24b-281b-4766-86c8-fae2064853ab.jpg"
+      },
+      {
         "title": "国际金价加速下跌 中东局势加剧市场波动",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260603/49528564.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-06-01 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260601/f5074597-c568-467e-a23d-7a70c8634ca5.jpg"
-      },
-      {
-        "title": "国际油价大幅回落 国内油价有望回调 美伊和谈推进影响显著",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260531/49522457.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-31 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260531/1587133c-693e-4fe5-b838-81298b939275.jpg"
       }
     ]
   }

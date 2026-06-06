@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06 07:14",
+  "updatedAt": "2026-06-07 07:08",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技股大牛市是否终结 AI交易热潮降温",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260606/49533602.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-06 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260606/95568300-0d2b-4a7e-a758-78f768373e80.jpg"
+      },
+      {
+        "title": "科技如何赋能美丽中国建设 多场景解锁",
+        "description": "",
+        "url": "https://news.china.com/domestic/945/20260606/49533313.html",
+        "source": {
+          "name": "中华国内"
+        },
+        "publishedAt": "2026-06-06 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260606/987bee04-b629-450c-8d24-b4f72eed4fae.jpg"
+      },
+      {
         "title": "科技赋能夏收夏种 助力粮食稳产丰收 智慧农机显身手",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260602/49526886.html",
@@ -187,29 +207,19 @@
         },
         "publishedAt": "2026-05-30 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260530/e4d06dc6-7a54-4418-89ed-8dc9018f2513.jpg"
-      },
-      {
-        "title": "科技如何赋能优质内容创作？听大咖们怎么说",
-        "description": "",
-        "url": "https://www.163.com/dy/article/KU4FT4H60514EGPO.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-05-29 20:32:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle706b03954e7j00tfrx7600hmd002rs01kag.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技股大幅回调 大消费异动拉升 市场资金结构变化显著",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260527/49517415.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-27 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260527/15895113-3029-450e-91a5-22ff86ffcefd.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际足联误发世界杯0元票 技术故障引发争议",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260606/49533565.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-06 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260605/e9f70cfe-4cdc-4030-a1f4-d14c17a61eab.jpg"
+      },
       {
         "title": "国际空间站空气泄漏加剧，NASA 一度下令宇航员进入 SpaceX 龙飞船避险",
         "description": "俄罗斯舱段空气泄漏量突然翻倍，NASA下令5名宇航员进入龙飞船避险。俄方维修作业暂停后，指令解除。双方正就泄漏原因和维修方案持续争论。#国际空间站##NASA##SpaceX#",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-06-02 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260602/a4318d4d-30cd-4251-90df-1c6149508a33.jpg"
-      },
-      {
-        "title": "国际乒联最新世界排名出炉 国乒继续领跑",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260601/49525026.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-01 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260601/cb45b1ce-a8ae-4669-8e24-07b56585f536.jpg"
       }
     ]
   }

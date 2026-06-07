@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07 07:08",
+  "updatedAt": "2026-06-08 07:11",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技赋能环渤海船舶污染专项整治行动",
+        "description": "",
+        "url": "https://news.china.com/domestic/945/20260607/49534188.html",
+        "source": {
+          "name": "中华国内"
+        },
+        "publishedAt": "2026-06-07 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260607/47281477-01cc-456d-80ff-7219375a08e5.jpg"
+      },
+      {
         "title": "科技股大牛市是否终结 AI交易热潮降温",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260606/49533602.html",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-06-01 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260601/f5902aee-0cfc-46c7-9041-596e05b37877.jpg"
-      },
-      {
-        "title": "科技股突然杀跌意味着什么 市场风格切换信号？",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260530/49521970.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-30 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260530/e4d06dc6-7a54-4418-89ed-8dc9018f2513.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际原子能机构再次促成俄乌局部停火 抢修核电站供电线路",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260607/49534748.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-07 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260607/213464e3-54fc-4a67-81e2-f92b9dea3e3f.jpg"
+      },
+      {
+        "title": "国际空间站俄舱段维修，专家称漏气问题加剧但仍安全",
+        "description": "国际空间站的漏气问题最早可以追溯到2019年，之后多年来一直存在，漏气的程度时高时低。在过去几个月里，针对这处长期存在漏气问题的舱段，美俄双方一直就漏气的原因和维修方案展开争论。专家表示，尽管空气泄漏加剧，但是空间站目前仍然是安全的。#国际空间站##太空安全#",
+        "url": "https://www.ithome.com/0/961/023.htm",
+        "source": {
+          "name": "IT家科学探索"
+        },
+        "publishedAt": "2026-06-07 10:00:10",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/961023_240.jpg?x-bce-process=image/format,f_auto"
+      },
       {
         "title": "国际足联误发世界杯0元票 技术故障引发争议",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-06-04 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260604/7092b24b-281b-4766-86c8-fae2064853ab.jpg"
-      },
-      {
-        "title": "国际金价加速下跌 中东局势加剧市场波动",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260603/49528564.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-03 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260603/12d66806-ce5a-42ae-9a9f-eeb08658c92e.jpg"
-      },
-      {
-        "title": "国际车手驾坦克700环塔夺冠 赛段竞争激烈",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260602/49525320.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-02 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260602/a4318d4d-30cd-4251-90df-1c6149508a33.jpg"
       }
     ]
   }

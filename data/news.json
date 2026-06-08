@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08 07:11",
+  "updatedAt": "2026-06-09 07:15",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济日报：补上丘陵山区农机化短板 推进农业现代化进程",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260608/49536706.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-08 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260608/77fee7f2-6379-4e71-b35b-2abb2aee4716.jpg"
+      },
+      {
         "title": "经济学家称 AI 未造成失业，科技行业裁员潮却愈演愈烈",
         "description": "经济学家称AI未引发失业，但科技行业裁员潮却与AI直接相关。Wix、Block等公司因AI技术迭代而大幅裁员，近99%企业高管预计未来两年将用AI缩减人力。技术革新与就业市场的真实关系究竟如何？#人工智能#科技裁员",
         "url": "https://www.ithome.com/0/958/501.htm",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-05-19 09:41:00",
         "image": "//img3.chinadaily.com.cn/images/202605/19/6a0bc17fa310942c0d606591.jpeg"
-      },
-      {
-        "title": "经济日报：智能家电前景广阔 推动制造业数字化转型",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260507/49475537.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-07 00:00:00",
-        "image": ""
       }
     ],
     "military": [
@@ -211,54 +211,54 @@
     ],
     "world": [
       {
-        "title": "国际原子能机构再次促成俄乌局部停火 抢修核电站供电线路",
+        "title": "国际油价持续走高 中东紧张局势升级",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260607/49534748.html",
+        "url": "https://news.china.com/socialgd/10000169/20260608/49536721.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-06-07 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260607/213464e3-54fc-4a67-81e2-f92b9dea3e3f.jpg"
+        "publishedAt": "2026-06-08 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260608/d7e70328-45ce-401f-bcf7-eddef1c3d3a4.jpg"
       },
       {
-        "title": "国际空间站俄舱段维修，专家称漏气问题加剧但仍安全",
-        "description": "国际空间站的漏气问题最早可以追溯到2019年，之后多年来一直存在，漏气的程度时高时低。在过去几个月里，针对这处长期存在漏气问题的舱段，美俄双方一直就漏气的原因和维修方案展开争论。专家表示，尽管空气泄漏加剧，但是空间站目前仍然是安全的。#国际空间站##太空安全#",
-        "url": "https://www.ithome.com/0/961/023.htm",
-        "source": {
-          "name": "IT家科学探索"
-        },
-        "publishedAt": "2026-06-07 10:00:10",
-        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/961023_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "国际足联误发世界杯0元票 技术故障引发争议",
+        "title": "国际油价，显著上涨 地缘政治紧张推升油价",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260606/49533565.html",
+        "url": "https://news.china.com/socialgd/10000169/20260608/49536753.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-06-06 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260605/e9f70cfe-4cdc-4030-a1f4-d14c17a61eab.jpg"
+        "publishedAt": "2026-06-08 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260608/834307af-7c32-4bec-a87b-b59b68e89c5a.jpg"
       },
       {
-        "title": "国际空间站空气泄漏加剧，NASA 一度下令宇航员进入 SpaceX 龙飞船避险",
-        "description": "俄罗斯舱段空气泄漏量突然翻倍，NASA下令5名宇航员进入龙飞船避险。俄方维修作业暂停后，指令解除。双方正就泄漏原因和维修方案持续争论。#国际空间站##NASA##SpaceX#",
-        "url": "https://www.ithome.com/0/960/750.htm",
-        "source": {
-          "name": "IT家科学探索"
-        },
-        "publishedAt": "2026-06-06 00:00:09",
-        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/960750_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "国际足联更新2026世界杯期间的规定 禁止携带水瓶引发热议",
+        "title": "国际油价急速拉升超4% 中东局势紧张推高油价",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260604/49530686.html",
+        "url": "https://news.china.com/socialgd/10000169/20260608/49536759.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-06-04 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260604/7092b24b-281b-4766-86c8-fae2064853ab.jpg"
+        "publishedAt": "2026-06-08 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260608/c1ec1dc4-85af-4489-b0b0-073258ba7420.jpg"
+      },
+      {
+        "title": "国际海运价格接连跳涨 货主“越等越贵”困局怎么破",
+        "description": "2026-06-0809:53",
+        "url": "//caijing.chinadaily.com.cn/a/202606/08/WS6a2620d5a310942cc49b061e.html",
+        "source": {
+          "name": "中国日报财经"
+        },
+        "publishedAt": "2026-06-08 09:53:00",
+        "image": "//img3.chinadaily.com.cn/images/202606/08/6a2620d5a310942c0d611f17.jpeg"
+      },
+      {
+        "title": "国际宇航科学院:不要擅自回复外星人 全球协商后方可回应",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260608/49535123.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-08 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260608/f2023de3-0c31-419a-b1b1-91e24787f912.jpg"
       }
     ]
   }

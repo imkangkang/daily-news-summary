@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09 07:15",
+  "updatedAt": "2026-06-10 07:20",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技基金极致分化背后 基民两难抉择何解",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260609/49538238.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-09 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "科技早报 | 微信灰测朋友圈搜索功能；智能眼镜",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KUVFJ0F20534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-06-09 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0609%2F0cc3db25j00tgc8a0000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技赋能环渤海船舶污染专项整治行动",
         "description": "",
         "url": "https://news.china.com/domestic/945/20260607/49534188.html",
@@ -187,29 +207,49 @@
         },
         "publishedAt": "2026-06-06 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260606/987bee04-b629-450c-8d24-b4f72eed4fae.jpg"
-      },
-      {
-        "title": "科技赋能夏收夏种 助力粮食稳产丰收 智慧农机显身手",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260602/49526886.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-02 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260602/3e65feba-525d-4fa7-be97-4f2f3744d6cc.png"
-      },
-      {
-        "title": "科技基金“同名不同命” 收益分化明显",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260601/49525136.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-01 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260601/f5902aee-0cfc-46c7-9041-596e05b37877.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际刑院首席检察官被停职 性骚扰指控引发震动",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260609/49538935.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-09 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260609/3435729a-fa32-4353-87c3-27a75680d959.jpg"
+      },
+      {
+        "title": "国际足联回应世界杯裁判被美国拒签 审查担忧成障碍",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260609/49538859.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-09 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260609/2f525463-3969-41cf-8bcf-3df2fc29930f.jpg"
+      },
+      {
+        "title": "国际油价微涨 黄金白银下跌 中东局势影响市场",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260609/49538582.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-09 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260609/cef1157d-5ec7-4bdb-8b25-a51fd6b0dd7b.jpg"
+      },
+      {
+        "title": "国际金价跌破4300美元，黄金持续下跌原因 多重利空因素影响",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260609/49537775.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-09 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260609/2a5433eb-17f0-43dc-80d3-b9bc6c5a0330.jpg"
+      },
       {
         "title": "国际油价持续走高 中东紧张局势升级",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-06-08 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260608/d7e70328-45ce-401f-bcf7-eddef1c3d3a4.jpg"
-      },
-      {
-        "title": "国际油价，显著上涨 地缘政治紧张推升油价",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260608/49536753.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-08 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260608/834307af-7c32-4bec-a87b-b59b68e89c5a.jpg"
-      },
-      {
-        "title": "国际油价急速拉升超4% 中东局势紧张推高油价",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260608/49536759.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-08 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260608/c1ec1dc4-85af-4489-b0b0-073258ba7420.jpg"
-      },
-      {
-        "title": "国际海运价格接连跳涨 货主“越等越贵”困局怎么破",
-        "description": "2026-06-0809:53",
-        "url": "//caijing.chinadaily.com.cn/a/202606/08/WS6a2620d5a310942cc49b061e.html",
-        "source": {
-          "name": "中国日报财经"
-        },
-        "publishedAt": "2026-06-08 09:53:00",
-        "image": "//img3.chinadaily.com.cn/images/202606/08/6a2620d5a310942c0d611f17.jpeg"
-      },
-      {
-        "title": "国际宇航科学院:不要擅自回复外星人 全球协商后方可回应",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260608/49535123.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-08 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260608/f2023de3-0c31-419a-b1b1-91e24787f912.jpg"
       }
     ]
   }

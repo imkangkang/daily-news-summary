@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10 07:20",
+  "updatedAt": "2026-06-11 07:38",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济热点快评丨App窗口乱跳转岂能屡禁不止？",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KV3KIF4Q0514R9L4.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-06-10 22:50:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle669c2082a20j00tgf3ac002fd000p000irg.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "经济日报：补上丘陵山区农机化短板 推进农业现代化进程",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260608/49536706.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-05-22 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260522/116df7b3-3cb0-4799-8672-9113cc5a5e94.jpg"
-      },
-      {
-        "title": "经济运行稳中有进 高质量发展向新向优——透视前4个月我国经济数据",
-        "description": "2026-05-1909:41",
-        "url": "//caijing.chinadaily.com.cn/a/202605/19/WS6a0bc17fa310942cc49aceba.html",
-        "source": {
-          "name": "中国日报财经"
-        },
-        "publishedAt": "2026-05-19 09:41:00",
-        "image": "//img3.chinadaily.com.cn/images/202605/19/6a0bc17fa310942c0d606591.jpeg"
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技与AI巨头疯狂通过股债融资 竞逐AI投资竞赛",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260610/49539693.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-10 00:00:00",
+        "image": ""
+      },
+      {
         "title": "科技基金极致分化背后 基民两难抉择何解",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260609/49538238.html",
@@ -197,68 +207,58 @@
         },
         "publishedAt": "2026-06-06 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260606/95568300-0d2b-4a7e-a758-78f768373e80.jpg"
-      },
-      {
-        "title": "科技如何赋能美丽中国建设 多场景解锁",
-        "description": "",
-        "url": "https://news.china.com/domestic/945/20260606/49533313.html",
-        "source": {
-          "name": "中华国内"
-        },
-        "publishedAt": "2026-06-06 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260606/987bee04-b629-450c-8d24-b4f72eed4fae.jpg"
       }
     ],
     "world": [
       {
-        "title": "国际刑院首席检察官被停职 性骚扰指控引发震动",
+        "title": "国际金价连续大跌 美元走强影响显著",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260609/49538935.html",
+        "url": "https://news.china.com/socialgd/10000169/20260610/49540368.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-06-09 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260609/3435729a-fa32-4353-87c3-27a75680d959.jpg"
+        "publishedAt": "2026-06-10 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260610/3dfc522e-f981-47ef-97ca-751d75fd2f82.jpg"
       },
       {
-        "title": "国际足联回应世界杯裁判被美国拒签 审查担忧成障碍",
+        "title": "国际油价9日显著下跌 霍尔木兹海峡局势影响油价",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260609/49538859.html",
+        "url": "https://news.china.com/socialgd/10000169/20260610/49540380.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-06-09 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260609/2f525463-3969-41cf-8bcf-3df2fc29930f.jpg"
+        "publishedAt": "2026-06-10 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260610/374a1e3c-b858-4f3c-8687-84852f0e3fcb.jpg"
       },
       {
-        "title": "国际油价微涨 黄金白银下跌 中东局势影响市场",
+        "title": "国际金价，又跌了！受中东局势紧张影响",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260609/49538582.html",
+        "url": "https://news.china.com/socialgd/10000169/20260610/49540466.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-06-09 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260609/cef1157d-5ec7-4bdb-8b25-a51fd6b0dd7b.jpg"
+        "publishedAt": "2026-06-10 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260610/0ac27335-07e0-43db-a6f8-204de88b4fe3.jpg"
       },
       {
-        "title": "国际金价跌破4300美元，黄金持续下跌原因 多重利空因素影响",
+        "title": "国际油价金价大跌 中东局势推高美元",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260609/49537775.html",
+        "url": "https://news.china.com/socialgd/10000169/20260610/49539808.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-06-09 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260609/2a5433eb-17f0-43dc-80d3-b9bc6c5a0330.jpg"
+        "publishedAt": "2026-06-10 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260610/4f239a91-965c-429f-b934-282c25dfab57.jpg"
       },
       {
-        "title": "国际油价持续走高 中东紧张局势升级",
+        "title": "国际足球友谊赛：中国0-0泰国 双方互交白卷打平 邵佳一国内首秀战平",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260608/49536721.html",
+        "url": "https://news.china.com/socialgd/10000169/20260610/49539172.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-06-08 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260608/d7e70328-45ce-401f-bcf7-eddef1c3d3a4.jpg"
+        "publishedAt": "2026-06-10 00:00:00",
+        "image": ""
       }
     ]
   }

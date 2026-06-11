@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11 07:38",
+  "updatedAt": "2026-06-12 07:40",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技股“过山车” 机构调仓了吗 市场风格切换中",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260611/49542935.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-11 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260611/5745ecc0-0224-4ba7-a5d1-a7e0ba1c87c3.jpg"
+      },
+      {
+        "title": "科技早报 | 阿里：钉钉管理“不是阿里文化该有",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KV4KCEOG0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-06-11 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0611%2F0cc3db25j00tgfxm1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技与AI巨头疯狂通过股债融资 竞逐AI投资竞赛",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260610/49539693.html",
@@ -187,78 +207,58 @@
         },
         "publishedAt": "2026-06-09 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0609%2F0cc3db25j00tgc8a0000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技赋能环渤海船舶污染专项整治行动",
-        "description": "",
-        "url": "https://news.china.com/domestic/945/20260607/49534188.html",
-        "source": {
-          "name": "中华国内"
-        },
-        "publishedAt": "2026-06-07 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260607/47281477-01cc-456d-80ff-7219375a08e5.jpg"
-      },
-      {
-        "title": "科技股大牛市是否终结 AI交易热潮降温",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260606/49533602.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-06 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260606/95568300-0d2b-4a7e-a758-78f768373e80.jpg"
       }
     ],
     "world": [
       {
-        "title": "国际金价连续大跌 美元走强影响显著",
+        "title": "国际足联主席回应签证争议 呼吁理性看待",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260610/49540368.html",
+        "url": "https://news.china.com/socialgd/10000169/20260611/49542878.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-06-10 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260610/3dfc522e-f981-47ef-97ca-751d75fd2f82.jpg"
+        "publishedAt": "2026-06-11 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260611/c163eef9-5954-49c4-a771-a67c9b6302ab.jpg"
       },
       {
-        "title": "国际油价9日显著下跌 霍尔木兹海峡局势影响油价",
+        "title": "国际青年足球邀请赛 中国U23男足收获两连胜",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260610/49540380.html",
+        "url": "https://v.zhibo.tv/detail/headerline/1273530.html",
         "source": {
-          "name": "中华国际"
+          "name": "中国体育"
         },
-        "publishedAt": "2026-06-10 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260610/374a1e3c-b858-4f3c-8687-84852f0e3fcb.jpg"
+        "publishedAt": "2026-06-11 17:00:02",
+        "image": "https://file02.zhibo.tv/uploads/imgs/2026/06-11/b104e04b425273756c6c256d574a1b6e_540x304.jpg"
       },
       {
-        "title": "国际金价，又跌了！受中东局势紧张影响",
+        "title": "国际足联主席：咱还是聊聊足球吧 场外争议不断",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260610/49540466.html",
+        "url": "https://news.china.com/socialgd/10000169/20260611/49542680.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-06-10 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260610/0ac27335-07e0-43db-a6f8-204de88b4fe3.jpg"
+        "publishedAt": "2026-06-11 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260611/50015f43-3698-47d8-ae8f-d1d46659d9e3.jpg"
       },
       {
-        "title": "国际油价金价大跌 中东局势推高美元",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260610/49539808.html",
+        "title": "国际油价大涨 金价跌破每盎司4100美元关口",
+        "description": "2026-06-1111:07",
+        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a26a6a310942cc49b125f.html",
         "source": {
-          "name": "中华国际"
+          "name": "中国日报财经"
         },
-        "publishedAt": "2026-06-10 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260610/4f239a91-965c-429f-b934-282c25dfab57.jpg"
+        "publishedAt": "2026-06-11 11:07:00",
+        "image": "//img3.chinadaily.com.cn/images/202606/11/6a2a26a6a310942c0d613e95.jpeg"
       },
       {
-        "title": "国际足球友谊赛：中国0-0泰国 双方互交白卷打平 邵佳一国内首秀战平",
+        "title": "国际机构看多中国科技资产 新动能吸引全球资本",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260610/49539172.html",
+        "url": "https://news.china.com/socialgd/10000169/20260611/49541150.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-06-10 00:00:00",
-        "image": ""
+        "publishedAt": "2026-06-11 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260611/a9e76339-87f7-4629-9c1d-ea9e75390a2b.jpg"
       }
     ]
   }

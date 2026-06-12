@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12 07:40",
+  "updatedAt": "2026-06-13 07:22",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 微信聊天可合并发图了；90后技术极",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KV76P63S0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-06-12 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0612%2F0cc3db25j00tghsa1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技股“过山车” 机构调仓了吗 市场风格切换中",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260611/49542935.html",
@@ -197,19 +207,49 @@
         },
         "publishedAt": "2026-06-09 00:00:00",
         "image": ""
-      },
-      {
-        "title": "科技早报 | 微信灰测朋友圈搜索功能；智能眼镜",
-        "description": "",
-        "url": "https://www.163.com/dy/article/KUVFJ0F20534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-06-09 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0609%2F0cc3db25j00tgc8a0000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价大涨，金价大跌！金饰克价一夜下跌38元！ 金价回吐年内全部涨幅",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260612/49545393.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-12 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260612/c1f5a755-ff73-4518-9654-581e27ab9167.jpg"
+      },
+      {
+        "title": "国际油价仍低于100美元 伊朗战争未推高油价",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260612/49544100.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-12 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260612/48e7bf8a-aa04-46af-a176-744b03621630.jpg"
+      },
+      {
+        "title": "国际金价为何持续下跌，背后原因是什么？",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260612/49543856.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-12 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260612/771dca75-01c4-40c6-a4d4-03193fc80395.jpg"
+      },
+      {
+        "title": "国际油价大涨，金价下跌 霍尔木兹海峡关闭引发市场动荡",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260612/49543726.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-12 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260612/cc9fb0cc-851f-42d6-957b-78a3c4a48470.jpg"
+      },
       {
         "title": "国际足联主席回应签证争议 呼吁理性看待",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-06-11 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260611/c163eef9-5954-49c4-a771-a67c9b6302ab.jpg"
-      },
-      {
-        "title": "国际青年足球邀请赛 中国U23男足收获两连胜",
-        "description": "",
-        "url": "https://v.zhibo.tv/detail/headerline/1273530.html",
-        "source": {
-          "name": "中国体育"
-        },
-        "publishedAt": "2026-06-11 17:00:02",
-        "image": "https://file02.zhibo.tv/uploads/imgs/2026/06-11/b104e04b425273756c6c256d574a1b6e_540x304.jpg"
-      },
-      {
-        "title": "国际足联主席：咱还是聊聊足球吧 场外争议不断",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260611/49542680.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-11 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260611/50015f43-3698-47d8-ae8f-d1d46659d9e3.jpg"
-      },
-      {
-        "title": "国际油价大涨 金价跌破每盎司4100美元关口",
-        "description": "2026-06-1111:07",
-        "url": "//caijing.chinadaily.com.cn/a/202606/11/WS6a2a26a6a310942cc49b125f.html",
-        "source": {
-          "name": "中国日报财经"
-        },
-        "publishedAt": "2026-06-11 11:07:00",
-        "image": "//img3.chinadaily.com.cn/images/202606/11/6a2a26a6a310942c0d613e95.jpeg"
-      },
-      {
-        "title": "国际机构看多中国科技资产 新动能吸引全球资本",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260611/49541150.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-11 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260611/a9e76339-87f7-4629-9c1d-ea9e75390a2b.jpg"
       }
     ]
   }

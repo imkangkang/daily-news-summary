@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13 07:22",
+  "updatedAt": "2026-06-14 07:11",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调",
+        "description": "AI公司CEO和科技行业领袖正在重新拿捏谈论就业市场的方式。过去那种笼统宣称白领岗位将被大规模淘汰的说法，正在越来越多地被收回或修正。",
+        "url": "https://www.ithome.com/0/963/990.htm",
+        "source": {
+          "name": "IT家人工智能"
+        },
+        "publishedAt": "2026-06-14 00:00:08",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/963990_240.jpg?x-bce-process=image/format,f_auto"
+      },
+      {
+        "title": "科技早报 | 钉钉换帅后《置身钉内》作者再发长",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KV9RF4L20534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-06-13 08:46:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0613%2F0cc3db25j00tgjosp000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技早报 | 微信聊天可合并发图了；90后技术极",
         "description": "",
         "url": "https://www.163.com/dy/article/KV76P63S0534A4SC.html",
@@ -187,29 +207,29 @@
         },
         "publishedAt": "2026-06-11 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0611%2F0cc3db25j00tgfxm1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技与AI巨头疯狂通过股债融资 竞逐AI投资竞赛",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260610/49539693.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-10 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "科技基金极致分化背后 基民两难抉择何解",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260609/49538238.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-09 00:00:00",
-        "image": ""
       }
     ],
     "world": [
+      {
+        "title": "国际足联回应墨西哥赛场出现大量空座 球迷选择通道观赛",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260613/49546285.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-13 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260613/7e78c49b-dfca-41e6-852b-4541be1035e0.jpg"
+      },
+      {
+        "title": "国际金价年内下跌超20% 央行购金与市场波动背离",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260613/49545987.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-13 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260613/01f5029b-012f-4f20-8723-ed434f725834.jpg"
+      },
       {
         "title": "国际油价大涨，金价大跌！金饰克价一夜下跌38元！ 金价回吐年内全部涨幅",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-06-12 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260612/771dca75-01c4-40c6-a4d4-03193fc80395.jpg"
-      },
-      {
-        "title": "国际油价大涨，金价下跌 霍尔木兹海峡关闭引发市场动荡",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260612/49543726.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-12 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260612/cc9fb0cc-851f-42d6-957b-78a3c4a48470.jpg"
-      },
-      {
-        "title": "国际足联主席回应签证争议 呼吁理性看待",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260611/49542878.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-11 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260611/c163eef9-5954-49c4-a771-a67c9b6302ab.jpg"
       }
     ]
   }

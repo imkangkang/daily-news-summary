@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14 07:11",
+  "updatedAt": "2026-06-15 07:13",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技让文物可看可感 数字化赋能文化遗产",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260614/49546700.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-14 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260614/b0bc5255-2f69-42b8-beba-d24d20e0bb96.jpg"
+      },
+      {
         "title": "科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调",
         "description": "AI公司CEO和科技行业领袖正在重新拿捏谈论就业市场的方式。过去那种笼统宣称白领岗位将被大规模淘汰的说法，正在越来越多地被收回或修正。",
         "url": "https://www.ithome.com/0/963/990.htm",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-06-11 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260611/5745ecc0-0224-4ba7-a5d1-a7e0ba1c87c3.jpg"
-      },
-      {
-        "title": "科技早报 | 阿里：钉钉管理“不是阿里文化该有",
-        "description": "",
-        "url": "https://www.163.com/dy/article/KV4KCEOG0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-06-11 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0611%2F0cc3db25j00tgfxm1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [

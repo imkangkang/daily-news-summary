@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15 07:13",
+  "updatedAt": "2026-06-16 07:49",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际乒联公布第25周世界排名 国乒继续领跑",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260615/49549697.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-15 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260615/f0176bd1-7191-4f72-8890-05e38f853760.jpg"
+      },
+      {
+        "title": "国际足联：瑞士造点没越位，技术故障引发争议",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260615/49548863.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-15 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "国际油价显著走低 美伊协议推动",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260615/49548111.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-15 00:00:00",
+        "image": ""
+      },
+      {
         "title": "国际足联回应墨西哥赛场出现大量空座 球迷选择通道观赛",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260613/49546285.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-06-13 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260613/01f5029b-012f-4f20-8723-ed434f725834.jpg"
-      },
-      {
-        "title": "国际油价大涨，金价大跌！金饰克价一夜下跌38元！ 金价回吐年内全部涨幅",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260612/49545393.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-12 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260612/c1f5a755-ff73-4518-9654-581e27ab9167.jpg"
-      },
-      {
-        "title": "国际油价仍低于100美元 伊朗战争未推高油价",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260612/49544100.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-12 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260612/48e7bf8a-aa04-46af-a176-744b03621630.jpg"
-      },
-      {
-        "title": "国际金价为何持续下跌，背后原因是什么？",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260612/49543856.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-12 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260612/771dca75-01c4-40c6-a4d4-03193fc80395.jpg"
       }
     ]
   }

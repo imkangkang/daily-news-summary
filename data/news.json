@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16 07:49",
+  "updatedAt": "2026-06-17 07:26",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际足联主席到更衣室探望伊朗球员 书写历史获赞",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49552814.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-16 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260616/e9c603a2-f0a5-4813-b15b-fe035775dcb7.jpg"
+      },
+      {
+        "title": "国际足联调查世界杯裁判“OK”手势 争议手势引发热议",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49552761.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-16 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260616/afee37dc-9bab-4c6e-a34f-a6233afc45aa.jpg"
+      },
+      {
+        "title": "国际油价大跳水！机构称“地缘风险尚未彻底消除” 供应恢复预期引发市场剧变",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260616/49550330.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-16 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260616/2e14210d-a159-436e-a0bb-81d125a99880.png"
+      },
+      {
         "title": "国际乒联公布第25周世界排名 国乒继续领跑",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260615/49549697.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-06-15 00:00:00",
         "image": ""
-      },
-      {
-        "title": "国际油价显著走低 美伊协议推动",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260615/49548111.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-15 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "国际足联回应墨西哥赛场出现大量空座 球迷选择通道观赛",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49546285.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-13 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260613/7e78c49b-dfca-41e6-852b-4541be1035e0.jpg"
-      },
-      {
-        "title": "国际金价年内下跌超20% 央行购金与市场波动背离",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260613/49545987.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-13 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260613/01f5029b-012f-4f20-8723-ed434f725834.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17 07:26",
+  "updatedAt": "2026-06-18 07:43",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 美团、淘宝闪购和京东外卖再被约谈",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KVK2OORO0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-06-17 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2026%2F0616%2F592865e9j00tgqc240022c000eg00poc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
+        "title": "科技基金收益大涨 现在是上车时机吗 AI浪潮推动增长",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260617/49552946.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-17 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260616/36b0fd36-b055-4415-950a-b85f9f7a6a4e.jpg"
+      },
+      {
         "title": "科技让文物可看可感 数字化赋能文化遗产",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260614/49546700.html",
@@ -187,29 +207,49 @@
         },
         "publishedAt": "2026-06-13 08:46:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0613%2F0cc3db25j00tgjosp000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技早报 | 微信聊天可合并发图了；90后技术极",
-        "description": "",
-        "url": "https://www.163.com/dy/article/KV76P63S0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-06-12 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0612%2F0cc3db25j00tghsa1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技股“过山车” 机构调仓了吗 市场风格切换中",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260611/49542935.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-11 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260611/5745ecc0-0224-4ba7-a5d1-a7e0ba1c87c3.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际足联发布“梅罗马”最新合照 致敬传奇时光流逝",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260617/49555430.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-17 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260617/85b70920-581a-40f6-85c3-4473d5424a8c.jpg"
+      },
+      {
+        "title": "国际传播导向下推动外语人才培养转型 素养本位新范式",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260617/49555250.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-17 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260617/43c63695-2012-4757-a263-a798e1351f33.jpg"
+      },
+      {
+        "title": "国际锐评丨三个关键词读懂中国经济5月报",
+        "description": "",
+        "url": "https://news.china.com/domestic/945/20260617/49553321.html",
+        "source": {
+          "name": "中华国内"
+        },
+        "publishedAt": "2026-06-17 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260617/abf94fe4-a6e9-40fd-b5a1-d3f22957876b.jpg"
+      },
+      {
+        "title": "国际原油跌麻了 供应恢复预期引发油价暴跌",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260617/49553298.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-17 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260617/b0b3d04c-4882-4ced-a5d4-f201c5ae769c.jpg"
+      },
       {
         "title": "国际足联主席到更衣室探望伊朗球员 书写历史获赞",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-06-16 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260616/e9c603a2-f0a5-4813-b15b-fe035775dcb7.jpg"
-      },
-      {
-        "title": "国际足联调查世界杯裁判“OK”手势 争议手势引发热议",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260616/49552761.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-16 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260616/afee37dc-9bab-4c6e-a34f-a6233afc45aa.jpg"
-      },
-      {
-        "title": "国际油价大跳水！机构称“地缘风险尚未彻底消除” 供应恢复预期引发市场剧变",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260616/49550330.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-16 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260616/2e14210d-a159-436e-a0bb-81d125a99880.png"
-      },
-      {
-        "title": "国际乒联公布第25周世界排名 国乒继续领跑",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260615/49549697.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-15 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260615/f0176bd1-7191-4f72-8890-05e38f853760.jpg"
-      },
-      {
-        "title": "国际足联：瑞士造点没越位，技术故障引发争议",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260615/49548863.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-15 00:00:00",
-        "image": ""
       }
     ]
   }

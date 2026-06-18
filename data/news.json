@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18 07:43",
+  "updatedAt": "2026-06-19 07:48",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,26 @@
     ],
     "economy": [
       {
+        "title": "经济大省三方向发力 扩能提质服务业 聚焦生产服务、生活服务与新兴赛道",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260618/49555848.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-18 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "经济第一省 瞄准新万亿级产业集群 AI+制造融合发力",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260618/49555575.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-18 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260618/8d97a02c-4fc4-482c-a239-9cee7b3a1efa.jpg"
+      },
+      {
         "title": "经济热点快评丨App窗口乱跳转岂能屡禁不止？",
         "description": "",
         "url": "https://www.163.com/dy/article/KV3KIF4Q0514R9L4.html",
@@ -83,26 +103,6 @@
         },
         "publishedAt": "2026-06-02 11:00:07",
         "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/958501_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "经济学家章俊谈产业创新 智能经济范式转换",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260530/49521495.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-30 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260530/8bace137-e1b1-4d17-b641-a403f8073b69.jpg"
-      },
-      {
-        "title": "经济不再是中日关系“压舱石”了吗 政治立场高于共同利益",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260522/49509298.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-05-22 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260522/116df7b3-3cb0-4799-8672-9113cc5a5e94.jpg"
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 北京滴滴和美团单车再次涨价；哈啰",
+        "description": "",
+        "url": "https://www.163.com/dy/article/KVML5G220534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-06-18 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0618%2F0cc3db25j00tgswa1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技早报 | 美团、淘宝闪购和京东外卖再被约谈",
         "description": "",
         "url": "https://www.163.com/dy/article/KVK2OORO0534A4SC.html",
@@ -197,19 +207,39 @@
         },
         "publishedAt": "2026-06-14 00:00:08",
         "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/963990_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "科技早报 | 钉钉换帅后《置身钉内》作者再发长",
-        "description": "",
-        "url": "https://www.163.com/dy/article/KV9RF4L20534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-06-13 08:46:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0613%2F0cc3db25j00tgjosp000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际足联回应男子歧视韩国女球迷 种族主义行为遭谴责",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260618/49557074.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-18 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260618/5b65408d-902f-474c-b89a-5ce015d430ac.jpg"
+      },
+      {
+        "title": "国际油价波动为何中国终端价格稳定 机制与调控的双重保障",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260618/49556381.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-18 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260618/f205b9a7-a5f4-4b0d-bf3e-bdf21c36d279.jpg"
+      },
+      {
+        "title": "国际足联强烈谴责 种族歧视行为",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260618/49555933.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-18 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260618/68621af5-f4c9-4a6c-ba16-45630198ba7c.jpg"
+      },
       {
         "title": "国际足联发布“梅罗马”最新合照 致敬传奇时光流逝",
         "description": "",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-06-17 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260617/43c63695-2012-4757-a263-a798e1351f33.jpg"
-      },
-      {
-        "title": "国际锐评丨三个关键词读懂中国经济5月报",
-        "description": "",
-        "url": "https://news.china.com/domestic/945/20260617/49553321.html",
-        "source": {
-          "name": "中华国内"
-        },
-        "publishedAt": "2026-06-17 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260617/abf94fe4-a6e9-40fd-b5a1-d3f22957876b.jpg"
-      },
-      {
-        "title": "国际原油跌麻了 供应恢复预期引发油价暴跌",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260617/49553298.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-17 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260617/b0b3d04c-4882-4ced-a5d4-f201c5ae769c.jpg"
-      },
-      {
-        "title": "国际足联主席到更衣室探望伊朗球员 书写历史获赞",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260616/49552814.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-16 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260616/e9c603a2-f0a5-4813-b15b-fe035775dcb7.jpg"
       }
     ]
   }

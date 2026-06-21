@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21 07:14",
+  "updatedAt": "2026-06-22 07:20",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技赋能 全国夏播粮食进度近七成 种肥同播助力提质增效",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260621/49560385.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-21 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260621/33645353-d307-4457-9739-a6f5902a9bc0.jpg"
+      },
+      {
         "title": "科技早报 | 北京滴滴和美团单车再次涨价；哈啰",
         "description": "",
         "url": "https://www.163.com/dy/article/KVML5G220534A4SC.html",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-06-14 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260614/b0bc5255-2f69-42b8-beba-d24d20e0bb96.jpg"
-      },
-      {
-        "title": "科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调",
-        "description": "AI公司CEO和科技行业领袖正在重新拿捏谈论就业市场的方式。过去那种笼统宣称白领岗位将被大规模淘汰的说法，正在越来越多地被收回或修正。",
-        "url": "https://www.ithome.com/0/963/990.htm",
-        "source": {
-          "name": "IT家人工智能"
-        },
-        "publishedAt": "2026-06-14 00:00:08",
-        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/963990_240.jpg?x-bce-process=image/format,f_auto"
       }
     ],
     "world": [

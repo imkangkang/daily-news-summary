@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22 07:20",
+  "updatedAt": "2026-06-23 07:24",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际足联主席配私人飞机被批不环保 碳足迹引争议",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260622/49561664.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-22 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260622/0a330a03-42ef-4570-88aa-c7ed33cded6a.jpg"
+      },
+      {
+        "title": "国际油价明显走高 伊美谈判前景悲观",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260622/49561021.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-22 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260622/6087a58b-6a81-4824-a8ce-e5fdb82d59dd.jpg"
+      },
+      {
+        "title": "国际出版商协会主席谈刘震云 开放共享亚太学术",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260622/49561067.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-22 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260622/7c6e5daf-300e-4fa6-ad21-cde5a2d30bfa.jpg"
+      },
+      {
         "title": "国际足联回应男子歧视韩国女球迷 种族主义行为遭谴责",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260618/49557074.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-06-18 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260618/f205b9a7-a5f4-4b0d-bf3e-bdf21c36d279.jpg"
-      },
-      {
-        "title": "国际足联强烈谴责 种族歧视行为",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260618/49555933.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-18 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260618/68621af5-f4c9-4a6c-ba16-45630198ba7c.jpg"
-      },
-      {
-        "title": "国际足联发布“梅罗马”最新合照 致敬传奇时光流逝",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260617/49555430.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-17 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260617/85b70920-581a-40f6-85c3-4473d5424a8c.jpg"
-      },
-      {
-        "title": "国际传播导向下推动外语人才培养转型 素养本位新范式",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260617/49555250.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-17 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260617/43c63695-2012-4757-a263-a798e1351f33.jpg"
       }
     ]
   }

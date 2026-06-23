@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23 07:24",
+  "updatedAt": "2026-06-24 07:11",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际金价“高台跳水” 金饰价格降了 购金热潮再现",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260623/49564410.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-23 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260623/54209011-960e-453a-9edd-0ae071887908.jpg"
+      },
+      {
         "title": "国际足联主席配私人飞机被批不环保 碳足迹引争议",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260622/49561664.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-06-18 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260618/5b65408d-902f-474c-b89a-5ce015d430ac.jpg"
-      },
-      {
-        "title": "国际油价波动为何中国终端价格稳定 机制与调控的双重保障",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260618/49556381.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-18 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260618/f205b9a7-a5f4-4b0d-bf3e-bdf21c36d279.jpg"
       }
     ]
   }

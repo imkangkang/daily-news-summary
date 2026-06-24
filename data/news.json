@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24 07:11",
+  "updatedAt": "2026-06-25 07:09",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 小米电视就误报地震预警信息致歉；W",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L063HPBM0534A4SC.html",
+        "source": {
+          "name": "网易科技"
+        },
+        "publishedAt": "2026-06-24 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0624%2F0cc3db25j00th40a0000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技赋能 全国夏播粮食进度近七成 种肥同播助力提质增效",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260621/49560385.html",
@@ -197,19 +207,49 @@
         },
         "publishedAt": "2026-06-17 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260616/36b0fd36-b055-4415-950a-b85f9f7a6a4e.jpg"
-      },
-      {
-        "title": "科技让文物可看可感 数字化赋能文化遗产",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260614/49546700.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-14 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260614/b0bc5255-2f69-42b8-beba-d24d20e0bb96.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际车企巨头 又要减产了 中东局势影响扩大",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260624/49567722.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-24 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260624/e4fcd17f-aa17-44a8-be94-20d5a9c1c729.jpg"
+      },
+      {
+        "title": "国际油价回落至战争爆发前水平 霍尔木兹海峡运输恢复预期推动",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260624/49567671.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-24 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260624/78f411a7-0b11-4c78-a3df-4fb25a0f9ee7.jpg"
+      },
+      {
+        "title": "国际太空科学界：别擅自回复外星信号 《三体》警示照进现实",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260624/49567183.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-24 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "国际原子能机构核查人员重返伊朗？美伊各执一词",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260624/49565882.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-24 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260624/6678a5b0-7932-4386-809e-88e304b1a5c1.png"
+      },
       {
         "title": "国际金价“高台跳水” 金饰价格降了 购金热潮再现",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-06-23 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260623/54209011-960e-453a-9edd-0ae071887908.jpg"
-      },
-      {
-        "title": "国际足联主席配私人飞机被批不环保 碳足迹引争议",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260622/49561664.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-22 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260622/0a330a03-42ef-4570-88aa-c7ed33cded6a.jpg"
-      },
-      {
-        "title": "国际油价明显走高 伊美谈判前景悲观",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260622/49561021.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-22 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260622/6087a58b-6a81-4824-a8ce-e5fdb82d59dd.jpg"
-      },
-      {
-        "title": "国际出版商协会主席谈刘震云 开放共享亚太学术",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260622/49561067.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-22 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260622/7c6e5daf-300e-4fa6-ad21-cde5a2d30bfa.jpg"
-      },
-      {
-        "title": "国际足联回应男子歧视韩国女球迷 种族主义行为遭谴责",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260618/49557074.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-18 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260618/5b65408d-902f-474c-b89a-5ce015d430ac.jpg"
       }
     ]
   }

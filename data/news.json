@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26 07:22",
+  "updatedAt": "2026-06-27 07:12",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际禁毒日：警惕伪装毒品，守护青少年健康成长",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260626/49573080.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-26 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260626/df355d31-9d56-4eac-bae7-6ba3029202fd.jpg"
+      },
+      {
+        "title": "国际禁毒日：致敬“无名”英雄 英雄要藏好",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260626/49572316.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-26 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260626/8272edb6-74fe-42f8-94a5-0c0dab6ba808.jpg"
+      },
+      {
+        "title": "国际刑事法院法官起诉美政府 制裁被判违法且致“金融死刑”",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260626/49572189.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-26 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260626/9c217857-77bd-4fad-9b45-bd092cc69f96.jpg"
+      },
+      {
         "title": "国际车企巨头 又要减产了 中东局势影响扩大",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260624/49567722.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-06-24 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260624/78f411a7-0b11-4c78-a3df-4fb25a0f9ee7.jpg"
-      },
-      {
-        "title": "国际太空科学界：别擅自回复外星信号 《三体》警示照进现实",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260624/49567183.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-24 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "国际原子能机构核查人员重返伊朗？美伊各执一词",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20260624/49565882.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-24 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260624/6678a5b0-7932-4386-809e-88e304b1a5c1.png"
-      },
-      {
-        "title": "国际金价“高台跳水” 金饰价格降了 购金热潮再现",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260623/49564410.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-23 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260623/54209011-960e-453a-9edd-0ae071887908.jpg"
       }
     ]
   }

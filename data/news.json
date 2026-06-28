@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28 07:08",
+  "updatedAt": "2026-06-29 07:08",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技仍是主线？十大券商策略来了 科技与周期共舞",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260628/49575029.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-28 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260628/45845652-31cc-495e-a49b-386cd9176499.jpg"
+      },
+      {
         "title": "科技早报 | 小米电视就误报地震预警信息致歉；W",
         "description": "",
         "url": "https://www.163.com/dy/article/L063HPBM0534A4SC.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-06-17 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2026%2F0616%2F592865e9j00tgqc240022c000eg00poc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技基金收益大涨 现在是上车时机吗 AI浪潮推动增长",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260617/49552946.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-17 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260616/36b0fd36-b055-4415-950a-b85f9f7a6a4e.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际禁毒日：各地开展形式多样的禁毒主题宣传活动",
+        "description": "",
+        "url": "https://news.china.com/social/1007/20260628/49574268.html",
+        "source": {
+          "name": "中华社会"
+        },
+        "publishedAt": "2026-06-28 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260628/e2023b6f-8b40-429f-8099-72c401b65b29.jpg"
+      },
       {
         "title": "国际禁毒日：警惕伪装毒品，守护青少年健康成长",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-06-24 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260624/e4fcd17f-aa17-44a8-be94-20d5a9c1c729.jpg"
-      },
-      {
-        "title": "国际油价回落至战争爆发前水平 霍尔木兹海峡运输恢复预期推动",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260624/49567671.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-24 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260624/78f411a7-0b11-4c78-a3df-4fb25a0f9ee7.jpg"
       }
     ]
   }

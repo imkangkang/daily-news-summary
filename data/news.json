@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29 07:08",
+  "updatedAt": "2026-06-30 07:02",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,46 @@
     ],
     "world": [
       {
+        "title": "国际清算银行警告AI投资热潮 警惕泡沫风险",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260629/49577898.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-29 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260629/007e7ebe-6adc-49d9-ab18-f11a8069bb26.jpg"
+      },
+      {
+        "title": "国际柔联柔道大奖赛青岛站中国队一金三铜收官",
+        "description": "",
+        "url": "https://v.zhibo.tv/detail/headerline/1273659.html",
+        "source": {
+          "name": "中国体育"
+        },
+        "publishedAt": "2026-06-29 16:00:02",
+        "image": "https://file02.zhibo.tv/uploads/imgs/2026/06-29/a37899ff31fbfaad0fbcaae02ca1a5bf_540x304.jpg"
+      },
+      {
+        "title": "国际柔联大奖赛摘铜 黄福春瞄向未来",
+        "description": "",
+        "url": "https://v.zhibo.tv/detail/headerline/1273661.html",
+        "source": {
+          "name": "中国体育"
+        },
+        "publishedAt": "2026-06-29 16:00:02",
+        "image": "https://file02.zhibo.tv/uploads/imgs/2026/06-29/eb46a2cca654a8cfaf767a170eb07224_540x304.jpg"
+      },
+      {
+        "title": "国际清算银行警告全球经济面临多重压力",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260629/49575155.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-29 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260629/a68c4f0b-5995-441f-81f3-28a25536a21b.jpg"
+      },
+      {
         "title": "国际禁毒日：各地开展形式多样的禁毒主题宣传活动",
         "description": "",
         "url": "https://news.china.com/social/1007/20260628/49574268.html",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-06-28 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260628/e2023b6f-8b40-429f-8099-72c401b65b29.jpg"
-      },
-      {
-        "title": "国际禁毒日：警惕伪装毒品，守护青少年健康成长",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260626/49573080.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-26 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260626/df355d31-9d56-4eac-bae7-6ba3029202fd.jpg"
-      },
-      {
-        "title": "国际禁毒日：致敬“无名”英雄 英雄要藏好",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260626/49572316.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-26 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260626/8272edb6-74fe-42f8-94a5-0c0dab6ba808.jpg"
-      },
-      {
-        "title": "国际刑事法院法官起诉美政府 制裁被判违法且致“金融死刑”",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260626/49572189.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-26 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260626/9c217857-77bd-4fad-9b45-bd092cc69f96.jpg"
-      },
-      {
-        "title": "国际车企巨头 又要减产了 中东局势影响扩大",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260624/49567722.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-24 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260624/e4fcd17f-aa17-44a8-be94-20d5a9c1c729.jpg"
       }
     ]
   }

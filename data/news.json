@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30 07:02",
+  "updatedAt": "2026-07-01 07:17",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技巨头闹算力荒 算力瓶颈制约AI发展",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260630/49578589.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-06-30 00:00:00",
+        "image": ""
+      },
+      {
         "title": "科技仍是主线？十大券商策略来了 科技与周期共舞",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260628/49575029.html",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-06-18 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0618%2F0cc3db25j00tgswa1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技早报 | 美团、淘宝闪购和京东外卖再被约谈",
-        "description": "",
-        "url": "https://www.163.com/dy/article/KVK2OORO0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-06-17 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2026%2F0616%2F592865e9j00tgqc240022c000eg00poc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [

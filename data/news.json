@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01 07:17",
+  "updatedAt": "2026-07-02 07:19",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际金价6月下跌逾11% 创八年最大季度跌幅",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260701/49582867.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-01 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260701/2778dde0-a21f-45f3-a9aa-9aeb72a050c9.jpg"
+      },
+      {
+        "title": "国际金价下跌，北京鸡蛋价格微幅下降 生活必需品价格总体回落",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260701/49581620.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-01 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260701/5dc5be68-0577-455e-a3cd-0141122ee485.jpg"
+      },
+      {
         "title": "国际清算银行警告AI投资热潮 警惕泡沫风险",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260629/49577898.html",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-06-29 16:00:02",
         "image": "https://file02.zhibo.tv/uploads/imgs/2026/06-29/eb46a2cca654a8cfaf767a170eb07224_540x304.jpg"
-      },
-      {
-        "title": "国际清算银行警告全球经济面临多重压力",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20260629/49575155.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-29 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260629/a68c4f0b-5995-441f-81f3-28a25536a21b.jpg"
-      },
-      {
-        "title": "国际禁毒日：各地开展形式多样的禁毒主题宣传活动",
-        "description": "",
-        "url": "https://news.china.com/social/1007/20260628/49574268.html",
-        "source": {
-          "name": "中华社会"
-        },
-        "publishedAt": "2026-06-28 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260628/e2023b6f-8b40-429f-8099-72c401b65b29.jpg"
       }
     ]
   }

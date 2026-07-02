@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02 07:19",
+  "updatedAt": "2026-07-03 07:13",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股能否撑住中报“验牌” 市场分歧加剧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260702/49584274.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-02 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260702/ddd0f398-ce09-403d-a303-af2b46bd25b9.jpg"
+      },
+      {
         "title": "科技巨头闹算力荒 算力瓶颈制约AI发展",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260630/49578589.html",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-06-21 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260621/33645353-d307-4457-9739-a6f5902a9bc0.jpg"
-      },
-      {
-        "title": "科技早报 | 北京滴滴和美团单车再次涨价；哈啰",
-        "description": "",
-        "url": "https://www.163.com/dy/article/KVML5G220534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-06-18 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0618%2F0cc3db25j00tgswa1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03 07:13",
+  "updatedAt": "2026-07-04 07:09",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际油价仍未挣脱“海峡困局”",
+        "description": "2026-07-0310:08",
+        "url": "//caijing.chinadaily.com.cn/a/202607/03/WS6a4719b1a310d709c2fbb9fa.html",
+        "source": {
+          "name": "中国日报财经"
+        },
+        "publishedAt": "2026-07-03 10:08:00",
+        "image": "//img3.chinadaily.com.cn/images/202607/03/6a4719b1a310d709a7a03e28.jpeg"
+      },
+      {
+        "title": "国际油价跌回中东冲突前水平 成品油或迎三连跌",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260703/49585976.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-03 00:00:00",
+        "image": ""
+      },
+      {
         "title": "国际金价6月下跌逾11% 创八年最大季度跌幅",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260701/49582867.html",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-06-29 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260629/007e7ebe-6adc-49d9-ab18-f11a8069bb26.jpg"
-      },
-      {
-        "title": "国际柔联柔道大奖赛青岛站中国队一金三铜收官",
-        "description": "",
-        "url": "https://v.zhibo.tv/detail/headerline/1273659.html",
-        "source": {
-          "name": "中国体育"
-        },
-        "publishedAt": "2026-06-29 16:00:02",
-        "image": "https://file02.zhibo.tv/uploads/imgs/2026/06-29/a37899ff31fbfaad0fbcaae02ca1a5bf_540x304.jpg"
-      },
-      {
-        "title": "国际柔联大奖赛摘铜 黄福春瞄向未来",
-        "description": "",
-        "url": "https://v.zhibo.tv/detail/headerline/1273661.html",
-        "source": {
-          "name": "中国体育"
-        },
-        "publishedAt": "2026-06-29 16:00:02",
-        "image": "https://file02.zhibo.tv/uploads/imgs/2026/06-29/eb46a2cca654a8cfaf767a170eb07224_540x304.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04 07:09",
+  "updatedAt": "2026-07-05 07:01",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际原子能机构：扎波罗热核电站第21次失去外部电源",
+        "description": "",
+        "url": "https://mil.ifeng.com/c/8uTiNN73wCB",
+        "source": {
+          "name": "凤凰军事"
+        },
+        "publishedAt": "2026-07-04 18:00:06",
+        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_27/8E7E7836AD3874030C0E640E54D8D91C922CA597_size103_w975_h549.jpg"
+      },
+      {
         "title": "国际油价仍未挣脱“海峡困局”",
         "description": "2026-07-0310:08",
         "url": "//caijing.chinadaily.com.cn/a/202607/03/WS6a4719b1a310d709c2fbb9fa.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-07-01 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260701/5dc5be68-0577-455e-a3cd-0141122ee485.jpg"
-      },
-      {
-        "title": "国际清算银行警告AI投资热潮 警惕泡沫风险",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260629/49577898.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-29 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260629/007e7ebe-6adc-49d9-ab18-f11a8069bb26.jpg"
       }
     ]
   }

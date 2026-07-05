@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05 07:01",
+  "updatedAt": "2026-07-06 07:05",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技监测 双线守护青海湖湟鱼洄游",
+        "description": "",
+        "url": "https://news.china.com/domestic/945/20260705/49589060.html",
+        "source": {
+          "name": "中华国内"
+        },
+        "publishedAt": "2026-07-05 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260705/fa7b08dd-93f8-45b9-9367-ec2bec7b1b97.jpg"
+      },
+      {
         "title": "科技股能否撑住中报“验牌” 市场分歧加剧",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260702/49584274.html",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-06-24 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0624%2F0cc3db25j00th40a0000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技赋能 全国夏播粮食进度近七成 种肥同播助力提质增效",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260621/49560385.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-21 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260621/33645353-d307-4457-9739-a6f5902a9bc0.jpg"
       }
     ],
     "world": [

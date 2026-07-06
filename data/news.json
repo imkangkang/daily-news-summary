@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06 07:05",
+  "updatedAt": "2026-07-07 07:12",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技股何时王者归来 券商看好半导体未来",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260706/49591278.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-06 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260706/08aa1ba2-89ad-48f3-b999-d91d5e76aeb9.png"
+      },
+      {
+        "title": "科技股震荡引发分歧 7月业绩基本面或成定价关键 市场风格再平衡",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260706/49589969.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-06 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260706/c28f7cc4-80a5-4404-b0fc-c2fdd4e798e8.jpg"
+      },
+      {
         "title": "科技监测 双线守护青海湖湟鱼洄游",
         "description": "",
         "url": "https://news.china.com/domestic/945/20260705/49589060.html",
@@ -187,78 +207,58 @@
         },
         "publishedAt": "2026-06-30 00:00:00",
         "image": ""
-      },
-      {
-        "title": "科技仍是主线？十大券商策略来了 科技与周期共舞",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260628/49575029.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-28 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260628/45845652-31cc-495e-a49b-386cd9176499.jpg"
-      },
-      {
-        "title": "科技早报 | 小米电视就误报地震预警信息致歉；W",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L063HPBM0534A4SC.html",
-        "source": {
-          "name": "网易科技"
-        },
-        "publishedAt": "2026-06-24 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0624%2F0cc3db25j00th40a0000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [
       {
-        "title": "国际原子能机构：扎波罗热核电站第21次失去外部电源",
+        "title": "国际乒联更新世界排名 国乒继续领跑",
         "description": "",
-        "url": "https://mil.ifeng.com/c/8uTiNN73wCB",
-        "source": {
-          "name": "凤凰军事"
-        },
-        "publishedAt": "2026-07-04 18:00:06",
-        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_27/8E7E7836AD3874030C0E640E54D8D91C922CA597_size103_w975_h549.jpg"
-      },
-      {
-        "title": "国际油价仍未挣脱“海峡困局”",
-        "description": "2026-07-0310:08",
-        "url": "//caijing.chinadaily.com.cn/a/202607/03/WS6a4719b1a310d709c2fbb9fa.html",
-        "source": {
-          "name": "中国日报财经"
-        },
-        "publishedAt": "2026-07-03 10:08:00",
-        "image": "//img3.chinadaily.com.cn/images/202607/03/6a4719b1a310d709a7a03e28.jpeg"
-      },
-      {
-        "title": "国际油价跌回中东冲突前水平 成品油或迎三连跌",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260703/49585976.html",
+        "url": "https://news.china.com/socialgd/10000169/20260706/49592443.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-07-03 00:00:00",
+        "publishedAt": "2026-07-06 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260706/635b4738-f64c-445a-bf88-deb21c2cad73.jpg"
+      },
+      {
+        "title": "国际足联震惊了全世：当权力开始踢球",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260706/49590796.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-06 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260706/e4754190-d182-4924-bb48-4c9bd701be95.jpg"
+      },
+      {
+        "title": "国际油价下挫，黄金逼近4200美元，比特币涨破63000美元 市场波动加剧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260706/49590437.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-06 00:00:00",
         "image": ""
       },
       {
-        "title": "国际金价6月下跌逾11% 创八年最大季度跌幅",
+        "title": "国际油价暴跌 华尔街过剩警告四起 供应恢复超预期",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260701/49582867.html",
+        "url": "https://news.china.com/socialgd/10000169/20260706/49589853.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-07-01 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260701/2778dde0-a21f-45f3-a9aa-9aeb72a050c9.jpg"
+        "publishedAt": "2026-07-06 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260706/44d4dc98-b104-438e-82d2-282aac7545cd.jpg"
       },
       {
-        "title": "国际金价下跌，北京鸡蛋价格微幅下降 生活必需品价格总体回落",
+        "title": "国际油价跌回战前，华尔街“过剩警告”四起后市如何？一文读懂 供应过剩风险浮现",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260701/49581620.html",
+        "url": "https://news.china.com/socialgd/10000169/20260706/49589919.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-07-01 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260701/5dc5be68-0577-455e-a3cd-0141122ee485.jpg"
+        "publishedAt": "2026-07-06 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260706/9bfb4d57-00db-4eb6-a64f-cb083ee04652.jpg"
       }
     ]
   }

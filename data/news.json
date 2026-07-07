@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07 07:12",
+  "updatedAt": "2026-07-08 07:06",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济热点问答丨欧洲造空调为什么这么难",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260707/49592587.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-07 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260706/7225bd17-feaf-49b6-891a-a5c3367ca5db.jpg"
+      },
+      {
         "title": "经济大省三方向发力 扩能提质服务业 聚焦生产服务、生活服务与新兴赛道",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260618/49555848.html",
@@ -93,19 +103,19 @@
         },
         "publishedAt": "2026-06-08 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260608/77fee7f2-6379-4e71-b35b-2abb2aee4716.jpg"
-      },
-      {
-        "title": "经济学家称 AI 未造成失业，科技行业裁员潮却愈演愈烈",
-        "description": "经济学家称AI未引发失业，但科技行业裁员潮却与AI直接相关。Wix、Block等公司因AI技术迭代而大幅裁员，近99%企业高管预计未来两年将用AI缩减人力。技术革新与就业市场的真实关系究竟如何？#人工智能#科技裁员",
-        "url": "https://www.ithome.com/0/958/501.htm",
-        "source": {
-          "name": "IT家人工智能"
-        },
-        "publishedAt": "2026-06-02 11:00:07",
-        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/6/958501_240.jpg?x-bce-process=image/format,f_auto"
       }
     ],
     "military": [
+      {
+        "title": "军事专家解读俄乌高烈度交锋",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260707/49592608.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-07 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260706/789f5c35-0835-4cad-aa5d-219337866692.jpg"
+      },
       {
         "title": "军事机密泄露竟是因为运动手表 智能设备风险频发",
         "description": "",
@@ -145,16 +155,6 @@
         },
         "publishedAt": "2026-02-12 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260212/998b759a-0dbe-4dfa-86ac-63d4274b02cc.jpg"
-      },
-      {
-        "title": "军事基地附近农田出现涉外气象站 违规设立引关注",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260129/49206932.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-01-29 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260129/1aabafd2-6133-4ad2-bb46-1c1f35aa29f8.jpg"
       }
     ],
     "tech": [
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际海事组织：44名海员仍被索马里海盗等扣押",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260707/49592618.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-07 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260706/a13df472-3cd3-4835-8dda-1f321429a9e1.jpg"
+      },
+      {
         "title": "国际乒联更新世界排名 国乒继续领跑",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260706/49592443.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-07-06 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260706/44d4dc98-b104-438e-82d2-282aac7545cd.jpg"
-      },
-      {
-        "title": "国际油价跌回战前，华尔街“过剩警告”四起后市如何？一文读懂 供应过剩风险浮现",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260706/49589919.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-06 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260706/9bfb4d57-00db-4eb6-a64f-cb083ee04652.jpg"
       }
     ]
   }

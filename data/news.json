@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08 07:06",
+  "updatedAt": "2026-07-09 07:12",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际酒店巨头纷纷在华扩张 加速布局三四线城市",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260708/49595821.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-08 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "国际油价大涨黄金跌破4100美元 中东局势推高能源风险溢价",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260708/49595910.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-08 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260708/9b10d434-bf3a-41a0-b49b-431557fd4ac6.jpg"
+      },
+      {
+        "title": "国际奥委会暂时解除对俄奥委会的禁赛 三年制裁终获缓和",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260708/49595295.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-08 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260707/7f7ea988-a465-4906-99a1-62704272c4cd.jpg"
+      },
+      {
         "title": "国际海事组织：44名海员仍被索马里海盗等扣押",
         "description": "",
         "url": "https://news.china.com/international/1000/20260707/49592618.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-07-06 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260706/635b4738-f64c-445a-bf88-deb21c2cad73.jpg"
-      },
-      {
-        "title": "国际足联震惊了全世：当权力开始踢球",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260706/49590796.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-06 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260706/e4754190-d182-4924-bb48-4c9bd701be95.jpg"
-      },
-      {
-        "title": "国际油价下挫，黄金逼近4200美元，比特币涨破63000美元 市场波动加剧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260706/49590437.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-06 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "国际油价暴跌 华尔街过剩警告四起 供应恢复超预期",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260706/49589853.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-06 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260706/44d4dc98-b104-438e-82d2-282aac7545cd.jpg"
       }
     ]
   }

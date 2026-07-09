@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09 07:12",
+  "updatedAt": "2026-07-10 07:16",
   "categories": {
     "politics": [
       {
@@ -107,6 +107,16 @@
     ],
     "military": [
       {
+        "title": "军事冲突陡然升级 美伊谅解备忘录面临危机",
+        "description": "",
+        "url": "https://mil.ifeng.com/c/8ucCqIBK8KC",
+        "source": {
+          "name": "凤凰军事"
+        },
+        "publishedAt": "2026-07-09 12:00:06",
+        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_28/2DA96D76880D54308676497D3A6D4632AEF05B7B_size87_w975_h549.jpg"
+      },
+      {
         "title": "军事专家解读俄乌高烈度交锋",
         "description": "",
         "url": "https://news.china.com/international/1000/20260707/49592608.html",
@@ -145,19 +155,19 @@
         },
         "publishedAt": "2026-03-02 00:00:00",
         "image": ""
-      },
-      {
-        "title": "军事爱好者拍摄军用机场当场被抓 镜头下的泄密雷区",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260212/49246788.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-02-12 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260212/998b759a-0dbe-4dfa-86ac-63d4274b02cc.jpg"
       }
     ],
     "tech": [
+      {
+        "title": "科技早报 | 阿里预计第一财季闪购减亏快于市场",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L1CNGIS60534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-07-09 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle602c1e8088cj00thv7u9002ud000rs010yg.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
       {
         "title": "科技股何时王者归来 券商看好半导体未来",
         "description": "",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-07-02 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260702/ddd0f398-ce09-403d-a303-af2b46bd25b9.jpg"
-      },
-      {
-        "title": "科技巨头闹算力荒 算力瓶颈制约AI发展",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260630/49578589.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-30 00:00:00",
-        "image": ""
       }
     ],
     "world": [
+      {
+        "title": "国际金价直线下挫 国际油价涨成一条直线",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260709/49598930.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-09 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260709/d5f5a264-c953-4162-84c1-331388256041.jpg"
+      },
+      {
+        "title": "国际油价涨成一条直线 双油期货大幅上涨",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260709/49598346.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-09 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260709/a3323498-67b3-48f6-b5bf-80d3e6cb24f5.jpg"
+      },
       {
         "title": "国际酒店巨头纷纷在华扩张 加速布局三四线城市",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-07-08 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260707/7f7ea988-a465-4906-99a1-62704272c4cd.jpg"
-      },
-      {
-        "title": "国际海事组织：44名海员仍被索马里海盗等扣押",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20260707/49592618.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-07 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260706/a13df472-3cd3-4835-8dda-1f321429a9e1.jpg"
-      },
-      {
-        "title": "国际乒联更新世界排名 国乒继续领跑",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260706/49592443.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-06 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260706/635b4738-f64c-445a-bf88-deb21c2cad73.jpg"
       }
     ]
   }

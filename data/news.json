@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10 07:16",
+  "updatedAt": "2026-07-11 07:01",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济学家称美股正酝酿终极阶段 “爆发式顶部”或将到来",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260710/49602100.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-10 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260710/af22a3c9-b234-4007-9fc7-98d2b1292bb5.jpg"
+      },
+      {
         "title": "经济热点问答丨欧洲造空调为什么这么难",
         "description": "",
         "url": "https://news.china.com/international/1000/20260707/49592587.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-06-10 22:50:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle669c2082a20j00tgf3ac002fd000p000irg.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "经济日报：补上丘陵山区农机化短板 推进农业现代化进程",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260608/49536706.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-08 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260608/77fee7f2-6379-4e71-b35b-2abb2aee4716.jpg"
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股大幅回调原因 全球科技共振下跌",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260710/49602387.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-10 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260710/4dfa8c2f-75d9-418f-a664-b3e585108a93.png"
+      },
+      {
         "title": "科技早报 | 阿里预计第一财季闪购减亏快于市场",
         "description": "",
         "url": "https://www.163.com/dy/article/L1CNGIS60534A4SC.html",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-07-05 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260705/fa7b08dd-93f8-45b9-9367-ec2bec7b1b97.jpg"
-      },
-      {
-        "title": "科技股能否撑住中报“验牌” 市场分歧加剧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260702/49584274.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-02 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260702/ddd0f398-ce09-403d-a303-af2b46bd25b9.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际会议时间变了：现在方便中国 彰显中国AI影响力",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260710/49602766.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-10 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260710/392f76fd-7bd8-446a-889b-c3acea7bc6e6.jpg"
+      },
+      {
+        "title": "国际原子能机构：俄乌冲突给核电站带来持续风险",
+        "description": "",
+        "url": "https://mil.ifeng.com/c/8udg4foocuR",
+        "source": {
+          "name": "凤凰军事"
+        },
+        "publishedAt": "2026-07-10 12:00:06",
+        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_28/2DFE91080A3ACF61151AF8C9E40BD46DECB6DB4E_size1150_w975_h549.png"
+      },
       {
         "title": "国际金价直线下挫 国际油价涨成一条直线",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-07-08 00:00:00",
         "image": ""
-      },
-      {
-        "title": "国际油价大涨黄金跌破4100美元 中东局势推高能源风险溢价",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260708/49595910.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-08 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260708/9b10d434-bf3a-41a0-b49b-431557fd4ac6.jpg"
-      },
-      {
-        "title": "国际奥委会暂时解除对俄奥委会的禁赛 三年制裁终获缓和",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260708/49595295.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-08 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260707/7f7ea988-a465-4906-99a1-62704272c4cd.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 06:55",
+  "updatedAt": "2026-07-13 06:55",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技内部还有哪些低位方向 寻找未被充分定价的机会",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260712/49604175.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-12 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260712/3c1d212e-8058-4a70-96d7-14734fa59527.jpg"
+      },
+      {
         "title": "科技股大幅回调原因 全球科技共振下跌",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260710/49602387.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-07-06 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260706/c28f7cc4-80a5-4404-b0fc-c2fdd4e798e8.jpg"
-      },
-      {
-        "title": "科技监测 双线守护青海湖湟鱼洄游",
-        "description": "",
-        "url": "https://news.china.com/domestic/945/20260705/49589060.html",
-        "source": {
-          "name": "中华国内"
-        },
-        "publishedAt": "2026-07-05 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260705/fa7b08dd-93f8-45b9-9367-ec2bec7b1b97.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际足联计划出售世界杯决赛草皮 预计创收1100万美元",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260712/49604279.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-12 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260712/9469ffdc-f6c7-42e5-863e-249d2fd3c5a9.jpg"
+      },
       {
         "title": "国际会议时间变了：现在方便中国 彰显中国AI影响力",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-07-09 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260709/a3323498-67b3-48f6-b5bf-80d3e6cb24f5.jpg"
-      },
-      {
-        "title": "国际酒店巨头纷纷在华扩张 加速布局三四线城市",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260708/49595821.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-08 00:00:00",
-        "image": ""
       }
     ]
   }

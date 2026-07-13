@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13 06:55",
+  "updatedAt": "2026-07-14 06:59",
   "categories": {
     "politics": [
       {
@@ -211,54 +211,54 @@
     ],
     "world": [
       {
-        "title": "国际足联计划出售世界杯决赛草皮 预计创收1100万美元",
+        "title": "国际足联闹乌龙记者扑空发布会 烈日下阿根廷女球迷苦等球队",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260712/49604279.html",
+        "url": "https://news.china.com/socialgd/10000169/20260713/49607135.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-07-12 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260712/9469ffdc-f6c7-42e5-863e-249d2fd3c5a9.jpg"
+        "publishedAt": "2026-07-13 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260713/4209f3cb-3929-4ed0-ac12-de771683d9b5.jpg"
       },
       {
-        "title": "国际会议时间变了：现在方便中国 彰显中国AI影响力",
+        "title": "国际乒联正式恢复俄运动员参赛资格 2026年7月28日起生效",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260710/49602766.html",
+        "url": "https://news.china.com/socialgd/10000169/20260713/49607184.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-07-10 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260710/392f76fd-7bd8-446a-889b-c3acea7bc6e6.jpg"
+        "publishedAt": "2026-07-13 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260713/41913332-9cc4-421c-8093-3f4c2ebbd55a.png"
       },
       {
-        "title": "国际原子能机构：俄乌冲突给核电站带来持续风险",
+        "title": "国际足联：BBC的3D图像不够精准，无法获取传感器数据",
         "description": "",
-        "url": "https://mil.ifeng.com/c/8udg4foocuR",
-        "source": {
-          "name": "凤凰军事"
-        },
-        "publishedAt": "2026-07-10 12:00:06",
-        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_28/2DFE91080A3ACF61151AF8C9E40BD46DECB6DB4E_size1150_w975_h549.png"
-      },
-      {
-        "title": "国际金价直线下挫 国际油价涨成一条直线",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260709/49598930.html",
+        "url": "https://news.china.com/socialgd/10000169/20260713/49606078.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-07-09 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260709/d5f5a264-c953-4162-84c1-331388256041.jpg"
+        "publishedAt": "2026-07-13 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260713/03a8f99d-7016-4e47-b983-305a92d4cfd9.jpg"
       },
       {
-        "title": "国际油价涨成一条直线 双油期货大幅上涨",
+        "title": "国际油价大涨，黄金跌破4100美元，美军称对伊朗发起新一轮打击 局势紧张升级",
         "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260709/49598346.html",
+        "url": "https://news.china.com/socialgd/10000169/20260713/49606040.html",
         "source": {
           "name": "中华国际"
         },
-        "publishedAt": "2026-07-09 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260709/a3323498-67b3-48f6-b5bf-80d3e6cb24f5.jpg"
+        "publishedAt": "2026-07-13 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260713/0286578b-f0ff-406f-8daf-f7ea87ae3417.jpg"
+      },
+      {
+        "title": "国际油价显著上涨 中东战事推高原油价格",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260713/49605335.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-13 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260713/0c6e8473-c74f-4159-b9fe-a0178fef0540.jpg"
       }
     ]
   }

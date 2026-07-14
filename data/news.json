@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 06:59",
+  "updatedAt": "2026-07-15 07:00",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,36 @@
     ],
     "tech": [
       {
+        "title": "科技股深度回调背后 交易去杠杆效应显现",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260714/49609686.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-14 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260714/163aa9d8-4f87-4b54-9fa2-e9cc7d1f6961.jpg"
+      },
+      {
+        "title": "科技赋能精准布控！便衣警察出击擒获流窜窃贼",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260714/49609343.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-14 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260714/805524ab-3c38-4220-93c0-4543bbdfebd9.jpg"
+      },
+      {
+        "title": "科技股全线大跌 “AI抛售潮”蔓延",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260714/49608175.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-14 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260714/14085af8-4895-417f-bc6a-a85da2dc7d3e.jpg"
+      },
+      {
         "title": "科技内部还有哪些低位方向 寻找未被充分定价的机会",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260712/49604175.html",
@@ -177,39 +207,49 @@
         },
         "publishedAt": "2026-07-10 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260710/4dfa8c2f-75d9-418f-a664-b3e585108a93.png"
-      },
-      {
-        "title": "科技早报 | 阿里预计第一财季闪购减亏快于市场",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L1CNGIS60534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-07-09 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle602c1e8088cj00thv7u9002ud000rs010yg.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技股何时王者归来 券商看好半导体未来",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260706/49591278.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-06 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260706/08aa1ba2-89ad-48f3-b999-d91d5e76aeb9.png"
-      },
-      {
-        "title": "科技股震荡引发分歧 7月业绩基本面或成定价关键 市场风格再平衡",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260706/49589969.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-06 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260706/c28f7cc4-80a5-4404-b0fc-c2fdd4e798e8.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价大涨超9% 能源市场波动加剧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260714/49608661.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-14 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260714/490854da-1371-4ca6-acfe-54e82a841b79.jpg"
+      },
+      {
+        "title": "国际油价持续走高，布油突破80美元大关，黄金跌破4000美元 美伊局势推升通胀预期",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260714/49608574.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-14 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260714/5c146eed-381e-49de-816e-b1e264b0b863.jpg"
+      },
+      {
+        "title": "国际油价狂飙近10% 美伊冲突加剧市场担忧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260714/49608261.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-14 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260714/9faaa665-96b5-4552-b684-834b753b11b6.jpg"
+      },
+      {
+        "title": "国际油价，显著上涨！中东局势再起波澜",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260714/49608266.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-14 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260714/f090a610-0c49-4418-9bf6-1cf8bdc419f8.jpg"
+      },
       {
         "title": "国际足联闹乌龙记者扑空发布会 烈日下阿根廷女球迷苦等球队",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-07-13 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260713/4209f3cb-3929-4ed0-ac12-de771683d9b5.jpg"
-      },
-      {
-        "title": "国际乒联正式恢复俄运动员参赛资格 2026年7月28日起生效",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260713/49607184.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-13 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260713/41913332-9cc4-421c-8093-3f4c2ebbd55a.png"
-      },
-      {
-        "title": "国际足联：BBC的3D图像不够精准，无法获取传感器数据",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260713/49606078.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-13 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260713/03a8f99d-7016-4e47-b983-305a92d4cfd9.jpg"
-      },
-      {
-        "title": "国际油价大涨，黄金跌破4100美元，美军称对伊朗发起新一轮打击 局势紧张升级",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260713/49606040.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-13 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260713/0286578b-f0ff-406f-8daf-f7ea87ae3417.jpg"
-      },
-      {
-        "title": "国际油价显著上涨 中东战事推高原油价格",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260713/49605335.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-13 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260713/0c6e8473-c74f-4159-b9fe-a0178fef0540.jpg"
       }
     ]
   }

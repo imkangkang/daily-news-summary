@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16 07:00",
+  "updatedAt": "2026-07-17 07:01",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际足联主席遭国际奥委会投诉 因支持特朗普引发争议",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260716/49614707.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-16 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260716/2ef4df04-27c1-4d2c-bf4e-99afbef5d00b.jpg"
+      },
+      {
+        "title": "国际酒店积分不值钱了 会员权益缩水引发关注",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260716/49613181.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-16 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260716/993763f3-a2a8-467d-8c3d-e7bb34749cff.jpg"
+      },
+      {
         "title": "国际青少年高尔夫球锦标赛中国队获两项亚军",
         "description": "",
         "url": "https://v.zhibo.tv/detail/headerline/1273723.html",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-07-15 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260715/ab0e330e-0997-4a83-a024-5b83230cd02c.png"
-      },
-      {
-        "title": "国际金银价格走高 避险情绪与降息预期共推",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260715/49610984.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-15 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260715/142980d9-5462-4545-ba5e-47181aabf2c7.jpg"
-      },
-      {
-        "title": "国际油价2天累计涨近12% 国际油价创6年以来最大单日涨幅",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260715/49610620.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-15 00:00:00",
-        "image": ""
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18 06:53",
+  "updatedAt": "2026-07-19 06:55",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技牛市的最后一道防线开始松动了吗 资本开支信仰动摇",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260718/49618343.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-18 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260718/6f2336e9-29f6-4cf5-9c84-02aaa97a443e.jpg"
+      },
+      {
+        "title": "科技和AI是中国治沙的强大工具 创造奇迹全球瞩目",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260718/49618281.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-18 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260718/45312154-1b48-4e8e-934d-1dd451bf73b5.jpg"
+      },
+      {
         "title": "科技股深度回调背后 交易去杠杆效应显现",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260714/49609686.html",
@@ -187,29 +207,19 @@
         },
         "publishedAt": "2026-07-14 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260714/14085af8-4895-417f-bc6a-a85da2dc7d3e.jpg"
-      },
-      {
-        "title": "科技内部还有哪些低位方向 寻找未被充分定价的机会",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260712/49604175.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-12 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260712/3c1d212e-8058-4a70-96d7-14734fa59527.jpg"
-      },
-      {
-        "title": "科技股大幅回调原因 全球科技共振下跌",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260710/49602387.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-10 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260710/4dfa8c2f-75d9-418f-a664-b3e585108a93.png"
       }
     ],
     "world": [
+      {
+        "title": "国际能源署：数周内全球能源安全或亮“红灯”",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260718/49618172.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-18 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260718/f316c092-99ae-4eda-83a8-d8c17f349451.png"
+      },
       {
         "title": "国际足联主席遭国际奥委会投诉 因支持特朗普引发争议",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-07-15 17:00:01",
         "image": "https://file02.zhibo.tv/uploads/imgs/2026/07-15/8e318c10633b5ae939f12f1ec3f6aa72_540x360.png"
-      },
-      {
-        "title": "国际论坛：菲方南海领土扩张主张不产生任何国际法效力",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260715/49611473.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-15 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260715/ab0e330e-0997-4a83-a024-5b83230cd02c.png"
       }
     ]
   }

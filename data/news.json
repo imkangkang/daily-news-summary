@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19 06:55",
+  "updatedAt": "2026-07-20 06:56",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际篮联中国青训女篮夏令营结营 国际化之旅圆满落幕",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260719/49619408.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-19 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260719/8bc881df-f7ba-43e5-a75e-b1d1f1bf31ad.jpg"
+      },
+      {
         "title": "国际能源署：数周内全球能源安全或亮“红灯”",
         "description": "",
         "url": "https://news.china.com/international/1000/20260718/49618172.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-07-15 18:00:01",
         "image": "https://file02.zhibo.tv/uploads/imgs/2026/07-15/50017bbc3e53d0e1ba815c5ba5a26a83_540x360.png"
-      },
-      {
-        "title": "国际青少年高尔夫球锦标赛中国队获两项亚军",
-        "description": "",
-        "url": "https://v.zhibo.tv/detail/headerline/1273721.html",
-        "source": {
-          "name": "中国体育"
-        },
-        "publishedAt": "2026-07-15 17:00:01",
-        "image": "https://file02.zhibo.tv/uploads/imgs/2026/07-15/8e318c10633b5ae939f12f1ec3f6aa72_540x360.png"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20 06:56",
+  "updatedAt": "2026-07-21 07:04",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股为什么还没真正企稳 别急着抄底",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260720/49622442.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-20 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260720/720046fc-3904-48de-96e0-9d112b700ea2.jpg"
+      },
+      {
         "title": "科技牛市的最后一道防线开始松动了吗 资本开支信仰动摇",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260718/49618343.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-07-14 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260714/805524ab-3c38-4220-93c0-4543bbdfebd9.jpg"
-      },
-      {
-        "title": "科技股全线大跌 “AI抛售潮”蔓延",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260714/49608175.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-14 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260714/14085af8-4895-417f-bc6a-a85da2dc7d3e.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价跳涨 美伊冲突推高能源价格",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260720/49622381.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-20 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260720/13eeacf2-9bff-4f89-95c9-38331c6826ba.jpg"
+      },
       {
         "title": "国际篮联中国青训女篮夏令营结营 国际化之旅圆满落幕",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-07-16 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260716/993763f3-a2a8-467d-8c3d-e7bb34749cff.jpg"
-      },
-      {
-        "title": "国际青少年高尔夫球锦标赛中国队获两项亚军",
-        "description": "",
-        "url": "https://v.zhibo.tv/detail/headerline/1273723.html",
-        "source": {
-          "name": "中国体育"
-        },
-        "publishedAt": "2026-07-15 18:00:01",
-        "image": "https://file02.zhibo.tv/uploads/imgs/2026/07-15/50017bbc3e53d0e1ba815c5ba5a26a83_540x360.png"
       }
     ]
   }

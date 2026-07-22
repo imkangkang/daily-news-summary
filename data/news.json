@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22 07:01",
+  "updatedAt": "2026-07-23 07:08",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股抄底机会出现了吗 跌到位了吗？",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260722/49627921.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-22 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260722/a98462a3-f7b9-4be3-ba76-e2ca247a2cdb.jpg"
+      },
+      {
         "title": "科技股终于暴力反弹 政策与业绩双重共振",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260721/49624856.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-07-18 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260718/6f2336e9-29f6-4cf5-9c84-02aaa97a443e.jpg"
-      },
-      {
-        "title": "科技和AI是中国治沙的强大工具 创造奇迹全球瞩目",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260718/49618281.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-18 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260718/45312154-1b48-4e8e-934d-1dd451bf73b5.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价、金价、银价，都涨了 地缘政治风险推高价格",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260722/49627593.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-22 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260722/6d652ab8-cabd-46f1-8466-ab65933dbc41.png"
+      },
       {
         "title": "国际足联发表声明 调查阿西赛后冲突",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-07-18 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260718/f316c092-99ae-4eda-83a8-d8c17f349451.png"
-      },
-      {
-        "title": "国际足联主席遭国际奥委会投诉 因支持特朗普引发争议",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260716/49614707.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-16 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260716/2ef4df04-27c1-4d2c-bf4e-99afbef5d00b.jpg"
       }
     ]
   }

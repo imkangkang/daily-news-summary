@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23 07:08",
+  "updatedAt": "2026-07-24 07:00",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际金银又直线拉升 贵金属连续四日上涨",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260723/49630144.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-23 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260723/8a5eb3a2-3d9a-461e-bfeb-14fddc6d44a9.jpg"
+      },
+      {
+        "title": "国际油价大涨！创六周新高 中东两大外运干道遇阻",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260723/49629613.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-23 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260723/d2fbacc4-39ee-4fa5-8703-2928ccfa691e.jpg"
+      },
+      {
+        "title": "国际论坛：必须高度警惕并坚决遏制日本右翼的拥核图谋",
+        "description": "",
+        "url": "https://news.ifeng.com/c/8uzKn8NJJOP",
+        "source": {
+          "name": "凤凰军事"
+        },
+        "publishedAt": "2026-07-23 12:00:06",
+        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_30/2B8A4162676948C40789CA14916095CD60AF8E9F_size533_w1035_h582.png"
+      },
+      {
         "title": "国际油价、金价、银价，都涨了 地缘政治风险推高价格",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260722/49627593.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-07-21 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260721/d7c93c9b-d1c1-4e31-a0fe-26e64b78be2b.jpg"
-      },
-      {
-        "title": "国际油价跳涨 美伊冲突推高能源价格",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260720/49622381.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-20 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260720/13eeacf2-9bff-4f89-95c9-38331c6826ba.jpg"
-      },
-      {
-        "title": "国际篮联中国青训女篮夏令营结营 国际化之旅圆满落幕",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260719/49619408.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-19 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260719/8bc881df-f7ba-43e5-a75e-b1d1f1bf31ad.jpg"
-      },
-      {
-        "title": "国际能源署：数周内全球能源安全或亮“红灯”",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20260718/49618172.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-18 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260718/f316c092-99ae-4eda-83a8-d8c17f349451.png"
       }
     ]
   }

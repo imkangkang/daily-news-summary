@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24 07:00",
+  "updatedAt": "2026-07-25 07:05",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际原油市场出现剧烈波动 消息疲劳引发市场钝化",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260724/49632162.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-24 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260724/cf532300-23d1-4d22-9f69-9f810b976e1b.jpg"
+      },
+      {
+        "title": "国际油价大幅度上涨 地缘冲突加剧供应风险",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260724/49631943.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-24 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260724/87773f35-c4c8-4ef6-83bf-2e5a7f05caaf.png"
+      },
+      {
+        "title": "国际油价23日大幅上涨 美伊紧张局势推高能源价格",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260724/49631197.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-24 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260724/de9e9948-655f-4f84-aabd-dc4936d06884.jpg"
+      },
+      {
         "title": "国际金银又直线拉升 贵金属连续四日上涨",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260723/49630144.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-07-23 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260723/d2fbacc4-39ee-4fa5-8703-2928ccfa691e.jpg"
-      },
-      {
-        "title": "国际论坛：必须高度警惕并坚决遏制日本右翼的拥核图谋",
-        "description": "",
-        "url": "https://news.ifeng.com/c/8uzKn8NJJOP",
-        "source": {
-          "name": "凤凰军事"
-        },
-        "publishedAt": "2026-07-23 12:00:06",
-        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_30/2B8A4162676948C40789CA14916095CD60AF8E9F_size533_w1035_h582.png"
-      },
-      {
-        "title": "国际油价、金价、银价，都涨了 地缘政治风险推高价格",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260722/49627593.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-22 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260722/6d652ab8-cabd-46f1-8466-ab65933dbc41.png"
-      },
-      {
-        "title": "国际足联发表声明 调查阿西赛后冲突",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260721/49623347.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-21 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260721/d7c93c9b-d1c1-4e31-a0fe-26e64b78be2b.jpg"
       }
     ]
   }

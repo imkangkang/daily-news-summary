@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25 07:05",
+  "updatedAt": "2026-07-26 06:58",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,26 @@
     ],
     "economy": [
       {
+        "title": "经济学家：美国并非国际贸易主导力量，欧洲贸易面向全球",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260725/49633376.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-25 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260725/ce46b6fe-d197-4533-8da4-ed2515e0188d.jpg"
+      },
+      {
+        "title": "经济日报：携程为何挨了最重的罚？",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L2M9E5OS0514R9P4.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-07-25 11:28:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle449dfc61aabj00tipitp003fd000p000irg.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "经济学家称美股正酝酿终极阶段 “爆发式顶部”或将到来",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260710/49602100.html",
@@ -83,26 +103,6 @@
         },
         "publishedAt": "2026-06-18 00:00:00",
         "image": ""
-      },
-      {
-        "title": "经济第一省 瞄准新万亿级产业集群 AI+制造融合发力",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260618/49555575.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-18 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260618/8d97a02c-4fc4-482c-a239-9cee7b3a1efa.jpg"
-      },
-      {
-        "title": "经济热点快评丨App窗口乱跳转岂能屡禁不止？",
-        "description": "",
-        "url": "https://www.163.com/dy/article/KV3KIF4Q0514R9L4.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-06-10 22:50:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle669c2082a20j00tgf3ac002fd000p000irg.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "military": [
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际刑事法院检察官卡里姆·汗被解职 成员国投票罢免",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260725/49633296.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-25 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260725/e146db0b-7851-4b36-91e4-000da37be2bb.jpg"
+      },
+      {
         "title": "国际原油市场出现剧烈波动 消息疲劳引发市场钝化",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260724/49632162.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-07-23 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260723/8a5eb3a2-3d9a-461e-bfeb-14fddc6d44a9.jpg"
-      },
-      {
-        "title": "国际油价大涨！创六周新高 中东两大外运干道遇阻",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260723/49629613.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-23 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260723/d2fbacc4-39ee-4fa5-8703-2928ccfa691e.jpg"
       }
     ]
   }

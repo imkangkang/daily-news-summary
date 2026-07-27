@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27 07:01",
+  "updatedAt": "2026-07-28 07:07",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济学家：当前美股泡沫比1929年更大 美债危机或引爆股市",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260727/49637014.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-27 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260727/f1adb663-b789-464b-a8f2-dfc6f2350f17.jpg"
+      },
+      {
         "title": "经济学家：美国并非国际贸易主导力量，欧洲贸易面向全球",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260725/49633376.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-07-07 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260706/7225bd17-feaf-49b6-891a-a5c3367ca5db.jpg"
-      },
-      {
-        "title": "经济大省三方向发力 扩能提质服务业 聚焦生产服务、生活服务与新兴赛道",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260618/49555848.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-06-18 00:00:00",
-        "image": ""
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技行业力挺开源 AI，Anthropic 因保持沉默遭同行批评",
+        "description": "在科技行业集体签署支持开放权重AI公开信之际，Anthropic的缺席引发广泛质疑。硅谷同行批评其维护商业利益，而中国开源模型如KimiK3的崛起，正让这场关于AI发展路径的争论进一步升温。#AI开源##Anthropic#",
+        "url": "https://www.ithome.com/0/982/260.htm",
+        "source": {
+          "name": "IT家人工智能"
+        },
+        "publishedAt": "2026-07-28 00:00:06",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/7/982260_240.jpg?x-bce-process=image/format,f_auto"
+      },
+      {
         "title": "科技股抄底机会出现了吗 跌到位了吗？",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260722/49627921.html",
@@ -197,19 +207,39 @@
         },
         "publishedAt": "2026-07-20 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260720/720046fc-3904-48de-96e0-9d112b700ea2.jpg"
-      },
-      {
-        "title": "科技牛市的最后一道防线开始松动了吗 资本开支信仰动摇",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260718/49618343.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-18 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260718/6f2336e9-29f6-4cf5-9c84-02aaa97a443e.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际巨头商定超6万亿元合作项目 聚焦AI与半导体领域",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260727/49636565.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-27 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260727/6cf8249d-0173-451c-b401-f8cf62e08381.png"
+      },
+      {
+        "title": "国际金价大幅波动 国内黄金消费呈现分化",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260727/49636338.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-27 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260727/d5a39bd1-f8bc-4b27-8710-2b4570959e70.jpg"
+      },
+      {
+        "title": "国际油价大幅下跌：美伊暂停袭击缓解市场担忧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260727/49636022.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-27 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260727/6b9a187e-b3a5-4aa9-b3f3-34ecec10c3aa.jpg"
+      },
       {
         "title": "国际刑事法院检察官卡里姆·汗被解职 成员国投票罢免",
         "description": "",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-07-24 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260724/cf532300-23d1-4d22-9f69-9f810b976e1b.jpg"
-      },
-      {
-        "title": "国际油价大幅度上涨 地缘冲突加剧供应风险",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260724/49631943.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-24 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260724/87773f35-c4c8-4ef6-83bf-2e5a7f05caaf.png"
-      },
-      {
-        "title": "国际油价23日大幅上涨 美伊紧张局势推高能源价格",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260724/49631197.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-24 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260724/de9e9948-655f-4f84-aabd-dc4936d06884.jpg"
-      },
-      {
-        "title": "国际金银又直线拉升 贵金属连续四日上涨",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260723/49630144.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-23 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260723/8a5eb3a2-3d9a-461e-bfeb-14fddc6d44a9.jpg"
       }
     ]
   }

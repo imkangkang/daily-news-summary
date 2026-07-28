@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28 07:07",
+  "updatedAt": "2026-07-29 07:04",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技股大跌原因 芯片风暴突袭市场",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260728/49639447.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-28 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260728/dc8b871f-244d-4a8a-965c-bcf26c907170.jpg"
+      },
+      {
+        "title": "科技产品成外国游客中国行新期待 智能体验圈粉海外客",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260728/49638713.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-28 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260728/a52cdf83-06d0-4b51-a8f8-2b283da1a9a1.png"
+      },
+      {
         "title": "科技行业力挺开源 AI，Anthropic 因保持沉默遭同行批评",
         "description": "在科技行业集体签署支持开放权重AI公开信之际，Anthropic的缺席引发广泛质疑。硅谷同行批评其维护商业利益，而中国开源模型如KimiK3的崛起，正让这场关于AI发展路径的争论进一步升温。#AI开源##Anthropic#",
         "url": "https://www.ithome.com/0/982/260.htm",
@@ -187,29 +207,19 @@
         },
         "publishedAt": "2026-07-21 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260721/3d17b1c1-ed8f-4128-9024-0a84e0d9b508.jpg"
-      },
-      {
-        "title": "科技助力预警 四川泸定93人成功避险泥石流",
-        "description": "",
-        "url": "https://news.china.com/social/1007/20260721/49622795.html",
-        "source": {
-          "name": "中华社会"
-        },
-        "publishedAt": "2026-07-21 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260720/048fa19c-50c4-41b6-bab2-1fe9d39c5635.jpg"
-      },
-      {
-        "title": "科技股为什么还没真正企稳 别急着抄底",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260720/49622442.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-20 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260720/720046fc-3904-48de-96e0-9d112b700ea2.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际射联全项世界杯杭州站 中国队再入1银1铜",
+        "description": "",
+        "url": "https://v.zhibo.tv/detail/headerline/1273773.html",
+        "source": {
+          "name": "中国体育"
+        },
+        "publishedAt": "2026-07-29 00:00:02",
+        "image": "https://file02.zhibo.tv/uploads/imgs/2026/07-28/4acb3b52e9f7069c225d5647a86337a3_540x360.jpg"
+      },
       {
         "title": "国际巨头商定超6万亿元合作项目 聚焦AI与半导体领域",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-07-25 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260725/e146db0b-7851-4b36-91e4-000da37be2bb.jpg"
-      },
-      {
-        "title": "国际原油市场出现剧烈波动 消息疲劳引发市场钝化",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260724/49632162.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-24 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260724/cf532300-23d1-4d22-9f69-9f810b976e1b.jpg"
       }
     ]
   }

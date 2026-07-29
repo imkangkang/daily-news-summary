@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29 07:04",
+  "updatedAt": "2026-07-30 07:01",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济日报：私域直播不能变成“信任收割机”",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L3063LDP0514R9P4.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-07-29 07:42:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle10204a43ca0j00tiwptc000kd000b400asg.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "经济学家：当前美股泡沫比1929年更大 美债危机或引爆股市",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260727/49637014.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-07-10 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260710/af22a3c9-b234-4007-9fc7-98d2b1292bb5.jpg"
-      },
-      {
-        "title": "经济热点问答丨欧洲造空调为什么这么难",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20260707/49592587.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-07 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260706/7225bd17-feaf-49b6-891a-a5c3367ca5db.jpg"
       }
     ],
     "military": [
@@ -211,6 +211,46 @@
     ],
     "world": [
       {
+        "title": "国际足联亲手卖掉足球“灵魂” 引发多方强烈批评",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260729/49642043.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-29 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260729/bd44ba3c-0ac1-466b-9c66-697840b30f2a.jpg"
+      },
+      {
+        "title": "国际油价深夜跳水，美油跌破80美元 中东局势缓和影响市场",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260729/49641273.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-29 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260729/42249c56-3d12-497d-824b-5f3e859aea36.png"
+      },
+      {
+        "title": "国际原油两连跌 沁价涨幅缩窄：调价窗口临近",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260729/49640726.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-29 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260729/b5d47fad-835b-4b69-a8c6-3815bc3f8523.jpg"
+      },
+      {
+        "title": "国际红树林中心汇聚全球保护力量 实体化运行推动联合科研攻关",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260729/49639989.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-29 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260729/30ec9245-76ca-4a4d-8da6-96a8ab938566.jpg"
+      },
+      {
         "title": "国际射联全项世界杯杭州站 中国队再入1银1铜",
         "description": "",
         "url": "https://v.zhibo.tv/detail/headerline/1273773.html",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-07-29 00:00:02",
         "image": "https://file02.zhibo.tv/uploads/imgs/2026/07-28/4acb3b52e9f7069c225d5647a86337a3_540x360.jpg"
-      },
-      {
-        "title": "国际巨头商定超6万亿元合作项目 聚焦AI与半导体领域",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260727/49636565.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-27 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260727/6cf8249d-0173-451c-b401-f8cf62e08381.png"
-      },
-      {
-        "title": "国际金价大幅波动 国内黄金消费呈现分化",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260727/49636338.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-27 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260727/d5a39bd1-f8bc-4b27-8710-2b4570959e70.jpg"
-      },
-      {
-        "title": "国际油价大幅下跌：美伊暂停袭击缓解市场担忧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260727/49636022.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-27 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260727/6b9a187e-b3a5-4aa9-b3f3-34ecec10c3aa.jpg"
-      },
-      {
-        "title": "国际刑事法院检察官卡里姆·汗被解职 成员国投票罢免",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260725/49633296.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-25 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260725/e146db0b-7851-4b36-91e4-000da37be2bb.jpg"
       }
     ]
   }

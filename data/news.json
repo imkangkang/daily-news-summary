@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-07-30 07:01",
+  "updatedAt": "2026-07-31 07:11",
   "categories": {
     "politics": [
+      {
+        "title": "政治局会议释放哪些重要经济信号 加大逆周期调节力度",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260730/49645100.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-30 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260730/0f0444f4-1bfc-4f20-9d24-7ead78b0afad.png"
+      },
+      {
+        "title": "政治局：继续综合整治“内卷式”竞争 营造公平市场环境",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260730/49644876.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-30 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260730/e9fcf0ed-d070-4973-bc33-3700a83f55ae.jpg"
+      },
       {
         "title": "政治动荡持续，英国政党酝酿推进不信任动议",
         "description": "",
@@ -31,29 +51,19 @@
         },
         "publishedAt": "2025-12-09 09:21:00",
         "image": "https://nfassetoss.southcn.com/__asset/4da643e18f/d6a248d749.jpg?w=640&amp;h=360&amp;imageMogr2/thumbnail/214x"
-      },
-      {
-        "title": "政治局召开会议 分析明年经济工作 稳中求进提质增效",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20251208/49056397.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2025-12-08 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20251208/7e7ead0b-c7ab-46ee-97f9-20c9bfb288f1.png"
-      },
-      {
-        "title": "政治僵局会如何拖累法国经济 市场信心减弱经济增长放缓",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20251012/48897096.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2025-10-12 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20251012/f3642bd2-6dfa-4206-9072-f65f6693700b.jpg"
       }
     ],
     "economy": [
+      {
+        "title": "经济学家：中国股市8月开启秋季行情 似“危”实“机”布局窗口",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260730/49644922.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-30 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260730/2ea80f51-3196-42f3-8ab9-69b6ccecc178.png"
+      },
       {
         "title": "经济日报：私域直播不能变成“信任收割机”",
         "description": "",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-07-25 11:28:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle449dfc61aabj00tipitp003fd000p000irg.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "经济学家称美股正酝酿终极阶段 “爆发式顶部”或将到来",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260710/49602100.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-10 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260710/af22a3c9-b234-4007-9fc7-98d2b1292bb5.jpg"
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 美团客服回应多名用户被批量盗刷上",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L32PRLIV0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-07-30 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0730%2F0cc3db25j00tiyoa1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技股大跌原因 芯片风暴突袭市场",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260728/49639447.html",
@@ -197,19 +207,39 @@
         },
         "publishedAt": "2026-07-22 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260722/a98462a3-f7b9-4be3-ba76-e2ca247a2cdb.jpg"
-      },
-      {
-        "title": "科技股终于暴力反弹 政策与业绩双重共振",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260721/49624856.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-21 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260721/3d17b1c1-ed8f-4128-9024-0a84e0d9b508.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价飙涨超7% 中东局势紧张推升油价",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260730/49642708.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-30 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "国际足联官宣成立商业子公司 引发足球界争议",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260730/49642325.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-30 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260730/d250890c-1418-432c-9c41-52f6c0df232f.jpg"
+      },
+      {
+        "title": "国际足联正式对阿根廷足协启动调查",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260730/49642383.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-30 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260730/ff972de3-b15b-41a2-b406-be2610e4c27b.jpg"
+      },
       {
         "title": "国际足联亲手卖掉足球“灵魂” 引发多方强烈批评",
         "description": "",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-07-29 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260729/42249c56-3d12-497d-824b-5f3e859aea36.png"
-      },
-      {
-        "title": "国际原油两连跌 沁价涨幅缩窄：调价窗口临近",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260729/49640726.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-29 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260729/b5d47fad-835b-4b69-a8c6-3815bc3f8523.jpg"
-      },
-      {
-        "title": "国际红树林中心汇聚全球保护力量 实体化运行推动联合科研攻关",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260729/49639989.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-29 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260729/30ec9245-76ca-4a4d-8da6-96a8ab938566.jpg"
-      },
-      {
-        "title": "国际射联全项世界杯杭州站 中国队再入1银1铜",
-        "description": "",
-        "url": "https://v.zhibo.tv/detail/headerline/1273773.html",
-        "source": {
-          "name": "中国体育"
-        },
-        "publishedAt": "2026-07-29 00:00:02",
-        "image": "https://file02.zhibo.tv/uploads/imgs/2026/07-28/4acb3b52e9f7069c225d5647a86337a3_540x360.jpg"
       }
     ]
   }

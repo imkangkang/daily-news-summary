@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-07-31 07:11",
+  "updatedAt": "2026-08-01 07:06",
   "categories": {
     "politics": [
+      {
+        "title": "政治局会议对货币政策有新提法 强调综合运用与调整工具",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260731/49645606.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-31 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260731/222bbe17-33ad-4dc4-8f0f-e808eeb11c3b.jpg"
+      },
       {
         "title": "政治局会议释放哪些重要经济信号 加大逆周期调节力度",
         "description": "",
@@ -41,16 +51,6 @@
         },
         "publishedAt": "2025-12-28 19:39:00",
         "image": "https://nfassetoss.southcn.com/__asset/edf5bb69a5/f8514f28f1.jpeg?t=1766921949443&amp;w=800&amp;h=450&amp;imageMogr2/thumbnail/214x"
-      },
-      {
-        "title": "政治局会议释放新信号，解读来了",
-        "description": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/cf5f382c5a.shtml",
-        "source": {
-          "name": "南方社会"
-        },
-        "publishedAt": "2025-12-09 09:21:00",
-        "image": "https://nfassetoss.southcn.com/__asset/4da643e18f/d6a248d749.jpg?w=640&amp;h=360&amp;imageMogr2/thumbnail/214x"
       }
     ],
     "economy": [
@@ -159,6 +159,36 @@
     ],
     "tech": [
       {
+        "title": "科技股反弹能走多远 三重引擎点燃市场信心",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260801/49647522.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-01 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260731/23add19f-c6ae-40a0-9bde-32398f97297b.jpg"
+      },
+      {
+        "title": "科技股已成明日黄花了吗 AI叙事逻辑转变引发关注",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260731/49647449.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-31 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260731/0437afd6-09a7-48dd-8f8e-a6f7afbe6bc4.jpg"
+      },
+      {
+        "title": "科技股的反攻能持续吗 全球股市共振反弹",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260731/49647393.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-07-31 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260731/04130dee-8831-4474-92a2-ba27e5923736.jpg"
+      },
+      {
         "title": "科技早报 | 美团客服回应多名用户被批量盗刷上",
         "description": "",
         "url": "https://www.163.com/dy/article/L32PRLIV0534A4SC.html",
@@ -177,36 +207,6 @@
         },
         "publishedAt": "2026-07-28 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260728/dc8b871f-244d-4a8a-965c-bcf26c907170.jpg"
-      },
-      {
-        "title": "科技产品成外国游客中国行新期待 智能体验圈粉海外客",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260728/49638713.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-28 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260728/a52cdf83-06d0-4b51-a8f8-2b283da1a9a1.png"
-      },
-      {
-        "title": "科技行业力挺开源 AI，Anthropic 因保持沉默遭同行批评",
-        "description": "在科技行业集体签署支持开放权重AI公开信之际，Anthropic的缺席引发广泛质疑。硅谷同行批评其维护商业利益，而中国开源模型如KimiK3的崛起，正让这场关于AI发展路径的争论进一步升温。#AI开源##Anthropic#",
-        "url": "https://www.ithome.com/0/982/260.htm",
-        "source": {
-          "name": "IT家人工智能"
-        },
-        "publishedAt": "2026-07-28 00:00:06",
-        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/7/982260_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "科技股抄底机会出现了吗 跌到位了吗？",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260722/49627921.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-22 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260722/a98462a3-f7b9-4be3-ba76-e2ca247a2cdb.jpg"
       }
     ],
     "world": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02 06:58",
+  "updatedAt": "2026-08-03 06:59",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技退潮之后谁来扛起8月A股市场 券商共识指向风格平衡",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260802/49649175.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-02 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260802/817f2e3a-d5e9-4ae7-b38d-749cb6a44e88.jpg"
+      },
+      {
         "title": "科技巨头AI竞赛进入“分化期” 微软(MSFT.US)、",
         "description": "",
         "url": "https://www.163.com/dy/article/L37UQMRG0519QIKK.html",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-07-31 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260731/04130dee-8831-4474-92a2-ba27e5923736.jpg"
-      },
-      {
-        "title": "科技早报 | 美团客服回应多名用户被批量盗刷上",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L32PRLIV0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-07-30 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0730%2F0cc3db25j00tiyoa1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03 06:59",
+  "updatedAt": "2026-08-04 07:06",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济学家汉克：AI 成本极高，难以大规模取代人力",
+        "description": "约翰斯&#183;霍普金斯大学教授史蒂夫&#183;汉克批评“AI将免费”的观点脱离现实，指出AI运行需要消耗大量水电和GPU，成本极高。他认为AI取代人类工作尚不现实，因为使用AI成本可能比雇人更高。#AI成本#你怎么看？",
+        "url": "https://www.ithome.com/0/984/835.htm",
+        "source": {
+          "name": "IT家人工智能"
+        },
+        "publishedAt": "2026-08-03 08:00:07",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/984835_240.jpg?x-bce-process=image/format,f_auto"
+      },
+      {
         "title": "经济学家：中国股市8月开启秋季行情 似“危”实“机”布局窗口",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260730/49644922.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-07-25 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260725/ce46b6fe-d197-4533-8da4-ed2515e0188d.jpg"
-      },
-      {
-        "title": "经济日报：携程为何挨了最重的罚？",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L2M9E5OS0514R9P4.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-07-25 11:28:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle449dfc61aabj00tipitp003fd000p000irg.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技巨头立下豪赌打造AI未来 2万亿资本竞逐",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260803/49650723.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-03 00:00:00",
+        "image": ""
+      },
+      {
         "title": "科技退潮之后谁来扛起8月A股市场 券商共识指向风格平衡",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260802/49649175.html",
@@ -197,19 +207,49 @@
         },
         "publishedAt": "2026-07-31 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260731/0437afd6-09a7-48dd-8f8e-a6f7afbe6bc4.jpg"
-      },
-      {
-        "title": "科技股的反攻能持续吗 全球股市共振反弹",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260731/49647393.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-31 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260731/04130dee-8831-4474-92a2-ba27e5923736.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际刑警组织：AI 已成非洲网络犯罪核心驱动力",
+        "description": "国际刑警组织最新报告显示，AI已参与非洲55%网络犯罪案件，经济损失两年内翻番。东非成移动支付诈骗中心，南非成全球攻击焦点。#非洲网络犯罪#各国正联手打击，已逮捕超1500人。",
+        "url": "https://www.ithome.com/0/985/252.htm",
+        "source": {
+          "name": "IT家人工智能"
+        },
+        "publishedAt": "2026-08-04 01:00:07",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/985252_240.jpg?x-bce-process=image/format,f_auto"
+      },
+      {
+        "title": "国际足联为何得罪各大洲足联 打破利益平衡惹争议",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260803/49651867.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-03 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260803/9dc64625-e238-43d1-89a1-f9be545d1361.jpg"
+      },
+      {
+        "title": "国际油价显著下跌 美伊谈判预期影响市场",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260803/49649703.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-03 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260803/9db89dba-fcbf-4da7-8671-faa66f99196c.jpg"
+      },
+      {
+        "title": "国际油价暗盘闪崩 特朗普取消对伊朗打击",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260803/49649471.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-03 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260802/2d79e58a-0bb4-4543-93a0-29c6ea719a1e.jpg"
+      },
       {
         "title": "国际油价31日上涨 国内成品油价格将上调",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-08-01 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260801/b1aed020-29e9-4eb1-bc75-9f575ae64572.jpg"
-      },
-      {
-        "title": "国际油价飙涨超7% 中东局势紧张推升油价",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260730/49642708.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-30 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "国际足联官宣成立商业子公司 引发足球界争议",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260730/49642325.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-30 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260730/d250890c-1418-432c-9c41-52f6c0df232f.jpg"
-      },
-      {
-        "title": "国际足联正式对阿根廷足协启动调查",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20260730/49642383.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-30 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260730/ff972de3-b15b-41a2-b406-be2610e4c27b.jpg"
-      },
-      {
-        "title": "国际足联亲手卖掉足球“灵魂” 引发多方强烈批评",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260729/49642043.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-29 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260729/bd44ba3c-0ac1-466b-9c66-697840b30f2a.jpg"
       }
     ]
   }

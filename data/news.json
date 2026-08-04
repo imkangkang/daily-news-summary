@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04 07:06",
+  "updatedAt": "2026-08-05 07:06",
   "categories": {
     "politics": [
       {
@@ -107,6 +107,16 @@
     ],
     "military": [
       {
+        "title": "军事爱好者爆料国产航母密件获刑!警惕境外间谍这些套路 无孔不入的策略",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260804/49652267.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-04 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260804/66e1f5f1-5a5f-41d3-b623-1c4bbfe99c18.jpg"
+      },
+      {
         "title": "军事冲突陡然升级 美伊谅解备忘录面临危机",
         "description": "",
         "url": "https://mil.ifeng.com/c/8ucCqIBK8KC",
@@ -145,19 +155,19 @@
         },
         "publishedAt": "2026-03-26 00:00:00",
         "image": ""
-      },
-      {
-        "title": "军事问题专家：伊朗宁可挨打也不能屈服",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260302/49283353.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-03-02 00:00:00",
-        "image": ""
       }
     ],
     "tech": [
+      {
+        "title": "科技早报 | iPhone最高或涨价1350元；微信公众",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L3FLR9730534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-08-04 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0804%2F0cc3db25j00tj7xm1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
       {
         "title": "科技巨头立下豪赌打造AI未来 2万亿资本竞逐",
         "description": "",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-08-01 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260731/23add19f-c6ae-40a0-9bde-32398f97297b.jpg"
-      },
-      {
-        "title": "科技股已成明日黄花了吗 AI叙事逻辑转变引发关注",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260731/49647449.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-31 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260731/0437afd6-09a7-48dd-8f8e-a6f7afbe6bc4.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际足联否认因凡蒂诺求助特朗普 求援美方接连遇冷",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260804/49654043.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-04 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260804/ed7db251-9c35-4891-bb62-99f01a21316f.jpg"
+      },
+      {
+        "title": "国际油价重挫7% 中国资产走强",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260804/49653134.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-04 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260804/5a6fab0b-3826-43cb-811b-8585f767acf2.jpg"
+      },
       {
         "title": "国际刑警组织：AI 已成非洲网络犯罪核心驱动力",
         "description": "国际刑警组织最新报告显示，AI已参与非洲55%网络犯罪案件，经济损失两年内翻番。东非成移动支付诈骗中心，南非成全球攻击焦点。#非洲网络犯罪#各国正联手打击，已逮捕超1500人。",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-08-03 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260803/9db89dba-fcbf-4da7-8671-faa66f99196c.jpg"
-      },
-      {
-        "title": "国际油价暗盘闪崩 特朗普取消对伊朗打击",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260803/49649471.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-03 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260802/2d79e58a-0bb4-4543-93a0-29c6ea719a1e.jpg"
-      },
-      {
-        "title": "国际油价31日上涨 国内成品油价格将上调",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260801/49647673.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-01 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260801/b1aed020-29e9-4eb1-bc75-9f575ae64572.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05 07:06",
+  "updatedAt": "2026-08-06 07:04",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,26 @@
     ],
     "economy": [
       {
+        "title": "经济日报：新旧动能转换带来新机遇 新动能挑起大梁",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260805/49655211.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-05 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260805/8016987e-2afd-4e4f-b6e4-e46bbce8bb4b.jpg"
+      },
+      {
+        "title": "经济学家：鼓励大家投资金融资产 流动性为王",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260805/49654715.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-05 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260805/dbad8b99-b33a-4d45-83fc-95ec3812c436.jpg"
+      },
+      {
         "title": "经济学家汉克：AI 成本极高，难以大规模取代人力",
         "description": "约翰斯&#183;霍普金斯大学教授史蒂夫&#183;汉克批评“AI将免费”的观点脱离现实，指出AI运行需要消耗大量水电和GPU，成本极高。他认为AI取代人类工作尚不现实，因为使用AI成本可能比雇人更高。#AI成本#你怎么看？",
         "url": "https://www.ithome.com/0/984/835.htm",
@@ -83,26 +103,6 @@
         },
         "publishedAt": "2026-07-29 07:42:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle10204a43ca0j00tiwptc000kd000b400asg.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "经济学家：当前美股泡沫比1929年更大 美债危机或引爆股市",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260727/49637014.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-27 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260727/f1adb663-b789-464b-a8f2-dfc6f2350f17.jpg"
-      },
-      {
-        "title": "经济学家：美国并非国际贸易主导力量，欧洲贸易面向全球",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260725/49633376.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-25 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260725/ce46b6fe-d197-4533-8da4-ed2515e0188d.jpg"
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 三星发布下一代AI存储路线图；智元",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L3I87VSR0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-08-05 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0805%2F0cc3db25j00tj9sa1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技早报 | iPhone最高或涨价1350元；微信公众",
         "description": "",
         "url": "https://www.163.com/dy/article/L3FLR9730534A4SC.html",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-08-01 08:09:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle2633f8eaedfj00tj0iae00b5d000xc00hig.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技股反弹能走多远 三重引擎点燃市场信心",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260801/49647522.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-01 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260731/23add19f-c6ae-40a0-9bde-32398f97297b.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价下跌超5% 受霍尔木兹协议预期影响",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260805/49655532.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-05 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260805/3854f30b-a086-442d-9993-03f8ed3b7537.jpg"
+      },
+      {
+        "title": "国际排联：俄罗斯男女排国家队将参加明年的世界联赛 女排或参加世界杯！",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260805/49654387.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-05 00:00:00",
+        "image": ""
+      },
       {
         "title": "国际足联否认因凡蒂诺求助特朗普 求援美方接连遇冷",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-08-04 01:00:07",
         "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/985252_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "国际足联为何得罪各大洲足联 打破利益平衡惹争议",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260803/49651867.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-03 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260803/9dc64625-e238-43d1-89a1-f9be545d1361.jpg"
-      },
-      {
-        "title": "国际油价显著下跌 美伊谈判预期影响市场",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260803/49649703.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-03 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260803/9db89dba-fcbf-4da7-8671-faa66f99196c.jpg"
       }
     ]
   }

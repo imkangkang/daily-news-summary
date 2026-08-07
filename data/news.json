@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07 09:31",
+  "updatedAt": "2026-08-08 06:41",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际金价，大涨！多重因素刺激金价",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260807/49660858.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-07 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260807/1930bdd9-ee20-45b2-8681-d0f78bbabb9b.jpg"
+      },
+      {
         "title": "国际足联：向理事会和会员协会致歉 承认提案推进失误",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260807/49659330.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-08-06 00:00:00",
         "image": ""
-      },
-      {
-        "title": "国际油价下跌超5% 受霍尔木兹协议预期影响",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260805/49655532.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-05 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260805/3854f30b-a086-442d-9993-03f8ed3b7537.jpg"
       }
     ]
   }

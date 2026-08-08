@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08 06:41",
+  "updatedAt": "2026-08-09 06:34",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际猫咪日 猫咪经济蓬勃发展",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260808/49661675.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-08 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260807/78f3d538-8a9f-4a32-81ef-9a5671afb287.jpg"
+      },
+      {
         "title": "国际金价，大涨！多重因素刺激金价",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260807/49660858.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-08-06 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260806/5eba9581-dc2d-48d7-865b-572137e18c2f.jpg"
-      },
-      {
-        "title": "国际名校扎堆来中国 主客易位新趋势",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260806/49657221.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-06 00:00:00",
-        "image": ""
       }
     ]
   }

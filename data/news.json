@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10 06:35",
+  "updatedAt": "2026-08-11 06:42",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技领袖宣称 AI 将带来四天工作制，然而员工每周还要工作 90 小时",
+        "description": "谷歌、OpenAI等巨头称AI普及后可实现四天工作制，不少员工实际每周工时超90小时，研究显示AI节省的时间反而被新增工作填满，工时进一步拉长。",
+        "url": "https://www.ithome.com/0/987/888.htm",
+        "source": {
+          "name": "IT家人工智能"
+        },
+        "publishedAt": "2026-08-10 17:00:07",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/987888_240.jpg?x-bce-process=image/format,f_auto"
+      },
+      {
         "title": "科技基金深度调整是否已近尾声 市场或将转入震荡磨底",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260806/49657567.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-08-03 00:00:00",
         "image": ""
-      },
-      {
-        "title": "科技退潮之后谁来扛起8月A股市场 券商共识指向风格平衡",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260802/49649175.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-02 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260802/817f2e3a-d5e9-4ae7-b38d-749cb6a44e88.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际乒联2026年第33周世界排名 国乒领跑四项第一",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260810/49666206.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-10 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260810/c081bbc3-fc4d-4119-b7dd-335a3fdd54fe.jpg"
+      },
       {
         "title": "国际猫咪日 猫咪经济蓬勃发展",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-08-06 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260806/27182a32-99f3-4207-90a0-f4795691a900.jpg"
-      },
-      {
-        "title": "国际足联认错了！",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260806/49658010.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-06 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260806/5eba9581-dc2d-48d7-865b-572137e18c2f.jpg"
       }
     ]
   }

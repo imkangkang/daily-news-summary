@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11 06:42",
+  "updatedAt": "2026-08-12 06:49",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 拼多多“最快明天达”切入美团、京",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L41MK9DQ0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-08-11 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0811%2F0cc3db25j00tjkwa0000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技领袖宣称 AI 将带来四天工作制，然而员工每周还要工作 90 小时",
         "description": "谷歌、OpenAI等巨头称AI普及后可实现四天工作制，不少员工实际每周工时超90小时，研究显示AI节省的时间反而被新增工作填满，工时进一步拉长。",
         "url": "https://www.ithome.com/0/987/888.htm",
@@ -197,19 +207,39 @@
         },
         "publishedAt": "2026-08-04 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0804%2F0cc3db25j00tj7xm1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技巨头立下豪赌打造AI未来 2万亿资本竞逐",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260803/49650723.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-03 00:00:00",
-        "image": ""
       }
     ],
     "world": [
+      {
+        "title": "国际油价下半年或高位震荡 地缘风险与供需博弈",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260811/49667921.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-11 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260811/97f4d04f-0c20-4fcd-add5-89352333e682.jpg"
+      },
+      {
+        "title": "国际油价8月10日显著上涨 涨幅超4%",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260811/49667602.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-11 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260811/e00c7951-19b5-49e0-bb39-1fe90b269b87.jpg"
+      },
+      {
+        "title": "国际黄金继续大涨 就业数据疲软助推",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260811/49667121.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-11 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260811/aafa2cb4-4fe5-481d-89d8-235b0ba4c927.jpg"
+      },
       {
         "title": "国际乒联2026年第33周世界排名 国乒领跑四项第一",
         "description": "",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-08-08 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260807/78f3d538-8a9f-4a32-81ef-9a5671afb287.jpg"
-      },
-      {
-        "title": "国际金价，大涨！多重因素刺激金价",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260807/49660858.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-07 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260807/1930bdd9-ee20-45b2-8681-d0f78bbabb9b.jpg"
-      },
-      {
-        "title": "国际足联：向理事会和会员协会致歉 承认提案推进失误",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260807/49659330.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-07 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260807/101c491a-763e-4038-82e4-5d7dde715d4f.jpg"
-      },
-      {
-        "title": "国际足联主席首次公开道歉 承认世界杯投资计划失误",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260806/49658543.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-06 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260806/27182a32-99f3-4207-90a0-f4795691a900.jpg"
       }
     ]
   }

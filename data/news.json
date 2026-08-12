@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12 06:49",
+  "updatedAt": "2026-08-13 06:46",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技成长股主导缩量普涨 市场热点快速轮动",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260812/49670835.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-12 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260812/f1be03c0-e103-4722-8e0d-9fee44fec039.jpg"
+      },
+      {
+        "title": "科技早报 | 淘宝闪购在上海、杭州内测到家餐饮",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L44911EO0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-08-12 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle15483b015bfj00tjmpnk000zd000mi00i2g.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技早报 | 拼多多“最快明天达”切入美团、京",
         "description": "",
         "url": "https://www.163.com/dy/article/L41MK9DQ0534A4SC.html",
@@ -187,26 +207,6 @@
         },
         "publishedAt": "2026-08-06 00:00:00",
         "image": ""
-      },
-      {
-        "title": "科技早报 | 三星发布下一代AI存储路线图；智元",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L3I87VSR0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-08-05 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0805%2F0cc3db25j00tj9sa1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技早报 | iPhone最高或涨价1350元；微信公众",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L3FLR9730534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-08-04 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0804%2F0cc3db25j00tj7xm1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [

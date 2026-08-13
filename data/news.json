@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13 06:46",
+  "updatedAt": "2026-08-14 06:49",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际金价重回4400美元 专家提示短期“追高”风险",
+        "description": "2026-08-1311:50",
+        "url": "//caijing.chinadaily.com.cn/a/202608/13/WS6a7d3f09a310099e0fc7b885.html",
+        "source": {
+          "name": "中国日报财经"
+        },
+        "publishedAt": "2026-08-13 11:50:00",
+        "image": "//img3.chinadaily.com.cn/images/202608/13/6a7d3f09a310099eac509ce3.jpeg"
+      },
+      {
         "title": "国际油价下半年或高位震荡 地缘风险与供需博弈",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260811/49667921.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-08-10 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260810/c081bbc3-fc4d-4119-b7dd-335a3fdd54fe.jpg"
-      },
-      {
-        "title": "国际猫咪日 猫咪经济蓬勃发展",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260808/49661675.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-08 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260807/78f3d538-8a9f-4a32-81ef-9a5671afb287.jpg"
       }
     ]
   }

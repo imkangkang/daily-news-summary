@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17 06:26",
+  "updatedAt": "2026-08-18 06:28",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际社会对华认知持续向好 中国外交赢得认可",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260817/49679969.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-17 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260817/40dfe3f3-37b4-498b-ab00-83293fbbb6e4.jpg"
+      },
+      {
+        "title": "国际金价重返4400美元 消费结构悄然变化",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260817/49679851.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-17 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260817/7eb6d0f3-8391-4a72-b2fa-c07daca7c4dd.jpg"
+      },
+      {
         "title": "国际金价跌落4400美元 短期回调未改中期偏强格局",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260814/49675370.html",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-08-11 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260811/97f4d04f-0c20-4fcd-add5-89352333e682.jpg"
-      },
-      {
-        "title": "国际油价8月10日显著上涨 涨幅超4%",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260811/49667602.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-11 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260811/e00c7951-19b5-49e0-bb39-1fe90b269b87.jpg"
-      },
-      {
-        "title": "国际黄金继续大涨 就业数据疲软助推",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260811/49667121.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-11 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260811/aafa2cb4-4fe5-481d-89d8-235b0ba4c927.jpg"
       }
     ]
   }

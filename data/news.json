@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18 06:28",
+  "updatedAt": "2026-08-19 06:28",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济学家贬损胖东来被判赔30万 名誉权侵权成立",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260818/49681638.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-18 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260818/56449877-4e33-454c-9d10-99eae43739f2.jpg"
+      },
+      {
         "title": "经济日报：新旧动能转换带来新机遇 新动能挑起大梁",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260805/49655211.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-07-30 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260730/2ea80f51-3196-42f3-8ab9-69b6ccecc178.png"
-      },
-      {
-        "title": "经济日报：私域直播不能变成“信任收割机”",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L3063LDP0514R9P4.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-07-29 07:42:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle10204a43ca0j00tiwptc000kd000b400asg.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "military": [

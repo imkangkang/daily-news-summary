@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19 06:28",
+  "updatedAt": "2026-08-20 06:28",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济日报：管好餐饮老板的“麦克风”",
+        "description": "",
+        "url": "https://news.china.com/social/1007/20260819/49685611.html",
+        "source": {
+          "name": "中华社会"
+        },
+        "publishedAt": "2026-08-19 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260819/1444e26a-e6f0-4ef7-973b-0a8ed332a7ab.jpg"
+      },
+      {
         "title": "经济学家贬损胖东来被判赔30万 名誉权侵权成立",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260818/49681638.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-08-03 08:00:07",
         "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/984835_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "经济学家：中国股市8月开启秋季行情 似“危”实“机”布局窗口",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260730/49644922.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-07-30 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260730/2ea80f51-3196-42f3-8ab9-69b6ccecc178.png"
       }
     ],
     "military": [
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际原子能机构称扎波罗热核电站遭遇最严重事件",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260819/49685560.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-19 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260819/be5b9e71-89b0-4bc5-8dae-e347ce7768cc.jpg"
+      },
+      {
         "title": "国际社会对华认知持续向好 中国外交赢得认可",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260817/49679969.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-08-13 11:50:00",
         "image": "//img3.chinadaily.com.cn/images/202608/13/6a7d3f09a310099eac509ce3.jpeg"
-      },
-      {
-        "title": "国际油价下半年或高位震荡 地缘风险与供需博弈",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260811/49667921.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-11 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260811/97f4d04f-0c20-4fcd-add5-89352333e682.jpg"
       }
     ]
   }

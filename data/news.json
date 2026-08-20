@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20 06:28",
+  "updatedAt": "2026-08-21 06:32",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际首台：IP-SAFE 超导直线加速器装置成功出束，我国实现重要医用同位素量产",
+        "description": "装置全面建成后，将实现阿尔法放射性同位素量产关键核心技术突破及装备自主可控，从源头夯实我国核药产业链供应链，提升我国核医学诊疗综合水平。",
+        "url": "https://www.ithome.com/0/991/915.htm",
+        "source": {
+          "name": "IT家科学探索"
+        },
+        "publishedAt": "2026-08-20 10:00:09",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/991915_240.jpg?x-bce-process=image/format,f_auto"
+      },
+      {
         "title": "国际原子能机构称扎波罗热核电站遭遇最严重事件",
         "description": "",
         "url": "https://news.china.com/international/1000/20260819/49685560.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-08-14 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260814/d0773909-d1d4-41b0-b6b6-afeb76208aec.png"
-      },
-      {
-        "title": "国际金价重回4400美元 专家提示短期“追高”风险",
-        "description": "2026-08-1311:50",
-        "url": "//caijing.chinadaily.com.cn/a/202608/13/WS6a7d3f09a310099e0fc7b885.html",
-        "source": {
-          "name": "中国日报财经"
-        },
-        "publishedAt": "2026-08-13 11:50:00",
-        "image": "//img3.chinadaily.com.cn/images/202608/13/6a7d3f09a310099eac509ce3.jpeg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21 06:32",
+  "updatedAt": "2026-08-22 06:29",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际足联对阿根廷足协作出处罚 重罚32.1万美元并限观众数量",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260822/49691610.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-22 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260821/6d545a9e-a53a-43cc-8c04-afc06dc52ff0.jpg"
+      },
+      {
+        "title": "国际金价站稳4500美元 美债政策调整推升行情",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260821/49691284.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-21 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260821/b847c1ce-dbc3-49eb-a633-1079b818848e.jpg"
+      },
+      {
         "title": "国际首台：IP-SAFE 超导直线加速器装置成功出束，我国实现重要医用同位素量产",
         "description": "装置全面建成后，将实现阿尔法放射性同位素量产关键核心技术突破及装备自主可控，从源头夯实我国核药产业链供应链，提升我国核医学诊疗综合水平。",
         "url": "https://www.ithome.com/0/991/915.htm",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-08-17 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260817/40dfe3f3-37b4-498b-ab00-83293fbbb6e4.jpg"
-      },
-      {
-        "title": "国际金价重返4400美元 消费结构悄然变化",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260817/49679851.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-17 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260817/7eb6d0f3-8391-4a72-b2fa-c07daca7c4dd.jpg"
-      },
-      {
-        "title": "国际金价跌落4400美元 短期回调未改中期偏强格局",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260814/49675370.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-14 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260814/d0773909-d1d4-41b0-b6b6-afeb76208aec.png"
       }
     ]
   }

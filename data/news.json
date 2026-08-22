@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22 06:29",
+  "updatedAt": "2026-08-23 06:26",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技赋能县域农业 南亚所与云南红河共建成果转化示范基地",
+        "description": "近日，中国热带农业科学院南亚热带作物研究所（以下简称“南亚所”）所长杜丽清率专家团队赴云南省红河县，开展“一所对一县”农业产业调研与科技服务对接工作，并为“中国热科院南亚所红河县科技成果示范基地”揭牌，探索所地合作新模式。【详细】",
+        "url": "https://kepu.gmw.cn/agri/2026-08/03/content_38924428.htm",
+        "source": {
+          "name": "农业新闻"
+        },
+        "publishedAt": "2026-08-03 12:12:00",
+        "image": ""
+      },
+      {
         "title": "科技成长股主导缩量普涨 市场热点快速轮动",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260812/49670835.html",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-08-10 17:00:07",
         "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/987888_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "科技基金深度调整是否已近尾声 市场或将转入震荡磨底",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260806/49657567.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-06 00:00:00",
-        "image": ""
       }
     ],
     "world": [
+      {
+        "title": "国际金价创三个月新高 涨幅有望超5.6%",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260822/49692008.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-22 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260822/94c31005-c6fb-44c2-8698-aff3de263c34.jpg"
+      },
+      {
+        "title": "国际足联重罚阿根廷队 多项违规受严惩",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260822/49691664.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-22 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260821/f62e52dc-0e7c-468a-9e86-4c13d675e47a.jpg"
+      },
       {
         "title": "国际足联对阿根廷足协作出处罚 重罚32.1万美元并限观众数量",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-08-20 10:00:09",
         "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/991915_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "国际原子能机构称扎波罗热核电站遭遇最严重事件",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20260819/49685560.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-19 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260819/be5b9e71-89b0-4bc5-8dae-e347ce7768cc.jpg"
-      },
-      {
-        "title": "国际社会对华认知持续向好 中国外交赢得认可",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260817/49679969.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-17 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260817/40dfe3f3-37b4-498b-ab00-83293fbbb6e4.jpg"
       }
     ]
   }

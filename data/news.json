@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26 06:31",
+  "updatedAt": "2026-08-27 11:01",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济学家称宇树上市吸走大量资金 新股虹吸效应显现",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260826/49699200.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-26 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260826/2d0763df-4b15-4eea-8155-3a26bbfc2e74.jpg"
+      },
+      {
         "title": "经济日报：管好餐饮老板的“麦克风”",
         "description": "",
         "url": "https://news.china.com/social/1007/20260819/49685611.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-08-05 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260805/dbad8b99-b33a-4d45-83fc-95ec3812c436.jpg"
-      },
-      {
-        "title": "经济学家汉克：AI 成本极高，难以大规模取代人力",
-        "description": "约翰斯&#183;霍普金斯大学教授史蒂夫&#183;汉克批评“AI将免费”的观点脱离现实，指出AI运行需要消耗大量水电和GPU，成本极高。他认为AI取代人类工作尚不现实，因为使用AI成本可能比雇人更高。#AI成本#你怎么看？",
-        "url": "https://www.ithome.com/0/984/835.htm",
-        "source": {
-          "name": "IT家人工智能"
-        },
-        "publishedAt": "2026-08-03 08:00:07",
-        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/984835_240.jpg?x-bce-process=image/format,f_auto"
       }
     ],
     "military": [
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际油价，跌超3%",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260826/49699933.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-26 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260826/fe8667e7-a0a5-4346-a9e3-89237863bd4f.jpg"
+      },
+      {
         "title": "国际巨头来华“抢单”，“超级买家”购物清单上新 进口生意越做越热",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260825/49696953.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-08-22 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260822/94c31005-c6fb-44c2-8698-aff3de263c34.jpg"
-      },
-      {
-        "title": "国际足联重罚阿根廷队 多项违规受严惩",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260822/49691664.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-22 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260821/f62e52dc-0e7c-468a-9e86-4c13d675e47a.jpg"
       }
     ]
   }

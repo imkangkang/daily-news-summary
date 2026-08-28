@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27 11:01",
+  "updatedAt": "2026-08-28 14:01",
   "categories": {
     "politics": [
       {
@@ -107,6 +107,16 @@
     ],
     "military": [
       {
+        "title": "军事手段能压住狂飙的美债吗？",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260828/49704600.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-28 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260828/baaf0635-c3b5-4071-882f-d1a1583a3a3c.jpg"
+      },
+      {
         "title": "军事爱好者爆料国产航母密件获刑!警惕境外间谍这些套路 无孔不入的策略",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260804/49652267.html",
@@ -145,19 +155,19 @@
         },
         "publishedAt": "2026-04-01 00:00:00",
         "image": ""
-      },
-      {
-        "title": "军事信息技术专家魏正耀院士逝世 享年90岁贡献卓著",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260326/49357939.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-03-26 00:00:00",
-        "image": ""
       }
     ],
     "tech": [
+      {
+        "title": "科技守护！腾讯、百度、阿里、滴滴、等多家公司",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L5CL4EFP05118HA4.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-08-28 00:27:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle28806b17711j00tkfro6003md200u0013yg02d4035b.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
       {
         "title": "科技赋能县域农业 南亚所与云南红河共建成果转化示范基地",
         "description": "近日，中国热带农业科学院南亚热带作物研究所（以下简称“南亚所”）所长杜丽清率专家团队赴云南省红河县，开展“一所对一县”农业产业调研与科技服务对接工作，并为“中国热科院南亚所红河县科技成果示范基地”揭牌，探索所地合作新模式。【详细】",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-08-11 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0811%2F0cc3db25j00tjkwa0000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技领袖宣称 AI 将带来四天工作制，然而员工每周还要工作 90 小时",
-        "description": "谷歌、OpenAI等巨头称AI普及后可实现四天工作制，不少员工实际每周工时超90小时，研究显示AI节省的时间反而被新增工作填满，工时进一步拉长。",
-        "url": "https://www.ithome.com/0/987/888.htm",
-        "source": {
-          "name": "IT家人工智能"
-        },
-        "publishedAt": "2026-08-10 17:00:07",
-        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/8/987888_240.jpg?x-bce-process=image/format,f_auto"
       }
     ],
     "world": [
+      {
+        "title": "国际人士谈多国对华好感度攀升原因",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260827/49703941.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-27 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260827/5b8bb900-4582-4e3d-b578-057ba2326d53.jpg"
+      },
+      {
+        "title": "国际油价深夜上涨！",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260827/49702397.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-08-27 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260827/857434cb-fa41-47de-9273-518bb36f23d6.jpg"
+      },
       {
         "title": "国际油价，跌超3%",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-08-24 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260824/11c6c01b-dea4-4272-85bd-2b492ceb3457.jpg"
-      },
-      {
-        "title": "国际金价连涨三周 多因素推动上涨态势",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260823/49693603.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-23 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260823/0056336b-ccd4-4d43-855e-3e57f5a1683a.jpg"
-      },
-      {
-        "title": "国际金价创三个月新高 涨幅有望超5.6%",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260822/49692008.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-22 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260822/94c31005-c6fb-44c2-8698-aff3de263c34.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01 09:07",
+  "updatedAt": "2026-09-02 07:53",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技助力田管 推动粮食稳产增收 智慧农业显成效",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260901/49712201.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-01 00:00:00",
+        "image": ""
+      },
+      {
         "title": "科技守护！腾讯、百度、阿里、滴滴、等多家公司",
         "description": "",
         "url": "https://www.163.com/dy/article/L5CL4EFP05118HA4.html",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-08-12 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle15483b015bfj00tjmpnk000zd000mi00i2g.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技早报 | 拼多多“最快明天达”切入美团、京",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L41MK9DQ0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-08-11 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0811%2F0cc3db25j00tjkwa0000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [

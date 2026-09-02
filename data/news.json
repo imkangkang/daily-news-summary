@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02 07:53",
+  "updatedAt": "2026-09-03 07:55",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技部部长率团赴美国出席G20会议 共议人工智能发展机遇与挑战",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260902/49716006.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-02 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260902/f3d322d6-92b7-40ab-8e2d-fa5e19fb6a0a.jpg"
+      },
+      {
         "title": "科技助力田管 推动粮食稳产增收 智慧农业显成效",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260901/49712201.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-08-12 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260812/f1be03c0-e103-4722-8e0d-9fee44fec039.jpg"
-      },
-      {
-        "title": "科技早报 | 淘宝闪购在上海、杭州内测到家餐饮",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L44911EO0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-08-12 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle15483b015bfj00tjmpnk000zd000mi00i2g.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价深夜大涨超5% 能源股走强",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260902/49714043.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-02 00:00:00",
+        "image": ""
+      },
       {
         "title": "国际原子能机构：扎波罗热核电站或全面停电",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-08-26 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260826/fe8667e7-a0a5-4346-a9e3-89237863bd4f.jpg"
-      },
-      {
-        "title": "国际巨头来华“抢单”，“超级买家”购物清单上新 进口生意越做越热",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260825/49696953.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-25 00:00:00",
-        "image": ""
       }
     ]
   }

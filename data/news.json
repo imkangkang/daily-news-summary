@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03 07:55",
+  "updatedAt": "2026-09-04 07:52",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技巨头转型废品回收？谷歌正在从退役服务器中拆出DDR4使用",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260903/49717913.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-03 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260903/024094a6-4d5b-406f-bc72-2b25b31d94f6.png"
+      },
+      {
         "title": "科技部部长率团赴美国出席G20会议 共议人工智能发展机遇与挑战",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260902/49716006.html",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-08-03 12:12:00",
         "image": ""
-      },
-      {
-        "title": "科技成长股主导缩量普涨 市场热点快速轮动",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260812/49670835.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-12 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260812/f1be03c0-e103-4722-8e0d-9fee44fec039.jpg"
       }
     ],
     "world": [

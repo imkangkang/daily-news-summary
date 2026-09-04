@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04 07:52",
+  "updatedAt": "2026-09-05 07:50",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济舱最后的羊毛被航司盯上了 免费躺平时代终结",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260904/49718975.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-04 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260904/111db411-9822-4ec4-9e98-c11dd2a17cd5.jpg"
+      },
+      {
         "title": "经济日报：适老化改造不应只是放大字体",
         "description": "",
         "url": "https://www.163.com/dy/article/L5NNQVD40514R9P4.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-08-19 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260819/1444e26a-e6f0-4ef7-973b-0a8ed332a7ab.jpg"
-      },
-      {
-        "title": "经济学家贬损胖东来被判赔30万 名誉权侵权成立",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260818/49681638.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-18 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260818/56449877-4e33-454c-9d10-99eae43739f2.jpg"
       }
     ],
     "military": [
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技创新成果展亮点提前看 智媒工具引领未来",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260904/49719649.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-04 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260904/d6618fb6-be65-49e0-b604-9efca205dfeb.jpg"
+      },
+      {
+        "title": "科技早报 | 微信公关总监回应“好友超1万可查看",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L5VG5HIL0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-09-04 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0904%2F0cc3db25j00tktca1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技巨头转型废品回收？谷歌正在从退役服务器中拆出DDR4使用",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260903/49717913.html",
@@ -187,29 +207,49 @@
         },
         "publishedAt": "2026-09-01 00:00:00",
         "image": ""
-      },
-      {
-        "title": "科技守护！腾讯、百度、阿里、滴滴、等多家公司",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L5CL4EFP05118HA4.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-08-28 00:27:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle28806b17711j00tkfro6003md200u0013yg02d4035b.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技赋能县域农业 南亚所与云南红河共建成果转化示范基地",
-        "description": "近日，中国热带农业科学院南亚热带作物研究所（以下简称“南亚所”）所长杜丽清率专家团队赴云南省红河县，开展“一所对一县”农业产业调研与科技服务对接工作，并为“中国热科院南亚所红河县科技成果示范基地”揭牌，探索所地合作新模式。【详细】",
-        "url": "https://kepu.gmw.cn/agri/2026-08/03/content_38924428.htm",
-        "source": {
-          "name": "农业新闻"
-        },
-        "publishedAt": "2026-08-03 12:12:00",
-        "image": ""
       }
     ],
     "world": [
+      {
+        "title": "国际金价又要起飞了吗 美联储加息预期降温提振金价",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260904/49720630.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-04 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260904/5f5c194d-a41b-497b-bc9f-fe1632cc90b8.jpg"
+      },
+      {
+        "title": "国际篮联世界排名中国男篮仍居第30 积分增加排名未变",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260904/49720039.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-04 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260904/475b0296-8df3-4e5c-8c6c-fb25439ea7b3.png"
+      },
+      {
+        "title": "国际学生为荷兰带来了财政收益 毕业后留荷工作贡献税收",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260904/49719574.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-04 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260904/551ca43a-264c-4e42-b8b1-eb85c0b43cfb.jpg"
+      },
+      {
+        "title": "国际品牌把中国生意收回到天猫",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L5VP2QSG0519DDQ2.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-09-04 10:42:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle213daad2b9bj00tktjhm00icd200n200fqg00n200fq.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
       {
         "title": "国际油价深夜大涨超5% 能源股走强",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-09-02 00:00:00",
         "image": ""
-      },
-      {
-        "title": "国际原子能机构：扎波罗热核电站或全面停电",
-        "description": "",
-        "url": "https://mil.ifeng.com/c/8w13ZSdPlnf",
-        "source": {
-          "name": "凤凰军事"
-        },
-        "publishedAt": "2026-08-31 12:00:05",
-        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_36/267DA5FE7917947CD58BC1B29D58918A0B63D4B3_size869_w975_h549.png"
-      },
-      {
-        "title": "国际人士谈多国对华好感度攀升原因",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260827/49703941.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-27 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260827/5b8bb900-4582-4e3d-b578-057ba2326d53.jpg"
-      },
-      {
-        "title": "国际油价深夜上涨！",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260827/49702397.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-27 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260827/857434cb-fa41-47de-9273-518bb36f23d6.jpg"
-      },
-      {
-        "title": "国际油价，跌超3%",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260826/49699933.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-26 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260826/fe8667e7-a0a5-4346-a9e3-89237863bd4f.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06 07:40",
+  "updatedAt": "2026-09-07 07:39",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技巨头密集更新 AI 模型，“模型疲劳”问题凸显",
+        "description": "Anthropic、Meta、谷歌、OpenAI等巨头一周内密集推出AI模型更新，行业竞争愈发激烈，专家指出过快迭代催生模型疲劳，也带来安全风险隐患。#人工智能##AI模型#",
+        "url": "https://www.ithome.com/0/999/036.htm",
+        "source": {
+          "name": "IT家人工智能"
+        },
+        "publishedAt": "2026-09-06 23:00:07",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/9/999036_240.jpg?x-bce-process=image/format,f_auto"
+      },
+      {
+        "title": "科技巨头密集更新AI模型，“模型疲劳”问题凸显",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L663QP390511B8LM.html",
+        "source": {
+          "name": "网易科技"
+        },
+        "publishedAt": "2026-09-06 21:45:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle220989232cej00tkxk5400rud0014000mig.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技创新成果展亮点提前看 智媒工具引领未来",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260904/49719649.html",
@@ -187,26 +207,6 @@
         },
         "publishedAt": "2026-09-03 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260903/024094a6-4d5b-406f-bc72-2b25b31d94f6.png"
-      },
-      {
-        "title": "科技部部长率团赴美国出席G20会议 共议人工智能发展机遇与挑战",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260902/49716006.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-02 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260902/f3d322d6-92b7-40ab-8e2d-fa5e19fb6a0a.jpg"
-      },
-      {
-        "title": "科技助力田管 推动粮食稳产增收 智慧农业显成效",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260901/49712201.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-01 00:00:00",
-        "image": ""
       }
     ],
     "world": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08 08:05",
+  "updatedAt": "2026-09-09 07:56",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股冲高回落 何时发起攻击 静待外部压制消退",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260908/49728056.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-08 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260908/bf5c39c2-53c6-4351-a08b-4b381fb1efe2.jpg"
+      },
+      {
         "title": "科技巨头密集更新 AI 模型，“模型疲劳”问题凸显",
         "description": "Anthropic、Meta、谷歌、OpenAI等巨头一周内密集推出AI模型更新，行业竞争愈发激烈，专家指出过快迭代催生模型疲劳，也带来安全风险隐患。#人工智能##AI模型#",
         "url": "https://www.ithome.com/0/999/036.htm",
@@ -197,19 +207,49 @@
         },
         "publishedAt": "2026-09-04 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0904%2F0cc3db25j00tktca1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技巨头转型废品回收？谷歌正在从退役服务器中拆出DDR4使用",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260903/49717913.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-03 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260903/024094a6-4d5b-406f-bc72-2b25b31d94f6.png"
       }
     ],
     "world": [
+      {
+        "title": "国际铜价大涨原因 供需变化推高价格",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260908/49728166.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-08 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260908/5fd06fde-0ad6-4764-a6b0-cc0fcf718606.jpg"
+      },
+      {
+        "title": "国际原糖月涨逾两成 多只糖业股涨停 糖业股集体走强",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260908/49728054.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-08 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260908/bcc3169b-dadb-496b-bbbe-7f70a28f4c02.jpg"
+      },
+      {
+        "title": "国际油价集体上涨，黄金白银下挫 地缘局势与供应收紧推动油价",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260908/49726989.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-08 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260908/7a790042-a936-4ee4-9545-a6cbf7b66739.jpg"
+      },
+      {
+        "title": "国际大行集体押注美联储9月加息 通胀压力未减",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260908/49727040.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-08 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260908/78563e52-3186-4928-9e48-e1e604307d52.jpg"
+      },
       {
         "title": "国际出行更省心，东航海外版App 2.0上线",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-09-07 16:43:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle6759a9127cbj00tkzk0g001gd000p000e2g.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "国际金价又要起飞了吗 美联储加息预期降温提振金价",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260904/49720630.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-04 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260904/5f5c194d-a41b-497b-bc9f-fe1632cc90b8.jpg"
-      },
-      {
-        "title": "国际篮联世界排名中国男篮仍居第30 积分增加排名未变",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260904/49720039.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-04 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260904/475b0296-8df3-4e5c-8c6c-fb25439ea7b3.png"
-      },
-      {
-        "title": "国际学生为荷兰带来了财政收益 毕业后留荷工作贡献税收",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260904/49719574.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-04 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260904/551ca43a-264c-4e42-b8b1-eb85c0b43cfb.jpg"
-      },
-      {
-        "title": "国际品牌把中国生意收回到天猫",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L5VP2QSG0519DDQ2.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-09-04 10:42:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle213daad2b9bj00tktjhm00icd200n200fqg00n200fq.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ]
   }

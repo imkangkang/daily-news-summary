@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07 07:39",
+  "updatedAt": "2026-09-08 08:05",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际出行更省心，东航海外版App 2.0上线",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L684VI67055040N3.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-09-07 16:43:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle6759a9127cbj00tkzk0g001gd000p000e2g.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "国际金价又要起飞了吗 美联储加息预期降温提振金价",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260904/49720630.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-09-04 10:42:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle213daad2b9bj00tktjhm00icd200n200fqg00n200fq.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "国际油价深夜大涨超5% 能源股走强",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260902/49714043.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-02 00:00:00",
-        "image": ""
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09 07:56",
+  "updatedAt": "2026-09-10 07:56",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济学家谈折叠屏手机“三国杀” 创新战与价格战加剧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260909/49730539.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-09 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260909/2a97e4d1-2ada-48a9-b675-9772411c85bf.jpg"
+      },
+      {
         "title": "经济舱最后的羊毛被航司盯上了 免费躺平时代终结",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260904/49718975.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-08-26 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260826/2d0763df-4b15-4eea-8155-3a26bbfc2e74.jpg"
-      },
-      {
-        "title": "经济日报：管好餐饮老板的“麦克风”",
-        "description": "",
-        "url": "https://news.china.com/social/1007/20260819/49685611.html",
-        "source": {
-          "name": "中华社会"
-        },
-        "publishedAt": "2026-08-19 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260819/1444e26a-e6f0-4ef7-973b-0a8ed332a7ab.jpg"
       }
     ],
     "military": [
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技赛道领涨 A股全线高开 结构性修复行情显现",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260909/49730566.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-09 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260909/4505248a-0394-49dd-8718-5f46145db331.png"
+      },
+      {
+        "title": "科技创新有力助推，中国外贸增势稳定",
+        "description": "",
+        "url": "https://news.china.com/domestic/945/20260909/49728443.html",
+        "source": {
+          "name": "中华国内"
+        },
+        "publishedAt": "2026-09-09 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260909/1243cb15-abe9-4f87-b349-e5e7803811ef.jpg"
+      },
+      {
         "title": "科技股冲高回落 何时发起攻击 静待外部压制消退",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260908/49728056.html",
@@ -187,29 +207,19 @@
         },
         "publishedAt": "2026-09-06 21:45:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle220989232cej00tkxk5400rud0014000mig.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技创新成果展亮点提前看 智媒工具引领未来",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260904/49719649.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-04 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260904/d6618fb6-be65-49e0-b604-9efca205dfeb.jpg"
-      },
-      {
-        "title": "科技早报 | 微信公关总监回应“好友超1万可查看",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L5VG5HIL0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-09-04 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0904%2F0cc3db25j00tktca1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价徘徊在六周高位 地缘政治风险溢价攀升",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260909/49728364.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-09 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260909/a668f4ed-5cd9-4294-a984-6ddc8ca80ba6.jpg"
+      },
       {
         "title": "国际铜价大涨原因 供需变化推高价格",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-09-08 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260908/78563e52-3186-4928-9e48-e1e604307d52.jpg"
-      },
-      {
-        "title": "国际出行更省心，东航海外版App 2.0上线",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L684VI67055040N3.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-09-07 16:43:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle6759a9127cbj00tkzk0g001gd000p000e2g.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ]
   }

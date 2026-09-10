@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10 07:56",
+  "updatedAt": "2026-09-11 07:52",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济日报：托举亿万老人的幸福晚年 银发经济蓬勃兴起",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260910/49732872.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-10 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260910/53a9553b-b487-4a11-95e8-921a7c359c6c.jpg"
+      },
+      {
         "title": "经济学家谈折叠屏手机“三国杀” 创新战与价格战加剧",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260909/49730539.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-08-31 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260831/d4d02e68-93eb-45d8-b710-a21368a66658.jpg"
-      },
-      {
-        "title": "经济学家称宇树上市吸走大量资金 新股虹吸效应显现",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260826/49699200.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-08-26 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260826/2d0763df-4b15-4eea-8155-3a26bbfc2e74.jpg"
       }
     ],
     "military": [
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际金价重返4400美元/盎司！金ETF广发（518600）持续获资金增持",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260910/49733323.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-10 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260910/5b2df2d8-9acc-4348-86bb-5f9ba7977f83.jpg"
+      },
+      {
+        "title": "国际组织点赞中国服务贸易：中国服务贸易为全球创造新机遇",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260910/49732861.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-10 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260910/74462cc7-6173-40db-a761-b4073ab3e657.jpg"
+      },
+      {
+        "title": "国际油价创近期新高 中东局势推升价格",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260910/49732477.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-10 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260910/bf24c47d-3af8-4da7-9814-c9efdde8452b.jpg"
+      },
+      {
         "title": "国际油价徘徊在六周高位 地缘政治风险溢价攀升",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260909/49728364.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-09-08 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260908/5fd06fde-0ad6-4764-a6b0-cc0fcf718606.jpg"
-      },
-      {
-        "title": "国际原糖月涨逾两成 多只糖业股涨停 糖业股集体走强",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260908/49728054.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-08 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260908/bcc3169b-dadb-496b-bbbe-7f70a28f4c02.jpg"
-      },
-      {
-        "title": "国际油价集体上涨，黄金白银下挫 地缘局势与供应收紧推动油价",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260908/49726989.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-08 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260908/7a790042-a936-4ee4-9545-a6cbf7b66739.jpg"
-      },
-      {
-        "title": "国际大行集体押注美联储9月加息 通胀压力未减",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260908/49727040.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-08 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260908/78563e52-3186-4928-9e48-e1e604307d52.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11 07:52",
+  "updatedAt": "2026-09-12 07:59",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际打击电诈联盟在中国成立 多国代表共襄盛举",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260911/49735607.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-11 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260911/9d86e2e3-78f3-4d02-a50a-b550bc946dcd.jpg"
+      },
+      {
+        "title": "国际糖价大涨25% 全球减产预期推高糖市",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260911/49735350.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-11 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260911/5e12a5cb-2cfd-48e2-98cb-fb2619e5113e.jpg"
+      },
+      {
+        "title": "国际快递价格为何经常变动？运费受什么因素影响",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L6HQHJE70512D71I.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-09-11 10:55:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0911%2Fb627f2f4j00tl6irv0045d000ku00cdp.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "国际金价重返4400美元/盎司！金ETF广发（518600）持续获资金增持",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260910/49733323.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-09-10 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260910/74462cc7-6173-40db-a761-b4073ab3e657.jpg"
-      },
-      {
-        "title": "国际油价创近期新高 中东局势推升价格",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260910/49732477.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-10 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260910/bf24c47d-3af8-4da7-9814-c9efdde8452b.jpg"
-      },
-      {
-        "title": "国际油价徘徊在六周高位 地缘政治风险溢价攀升",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260909/49728364.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-09 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260909/a668f4ed-5cd9-4294-a984-6ddc8ca80ba6.jpg"
-      },
-      {
-        "title": "国际铜价大涨原因 供需变化推高价格",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260908/49728166.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-08 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260908/5fd06fde-0ad6-4764-a6b0-cc0fcf718606.jpg"
       }
     ]
   }

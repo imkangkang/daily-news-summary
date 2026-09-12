@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12 07:59",
+  "updatedAt": "2026-09-13 07:52",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技板块回撤幅度为何这么大 多重因素引发市场担忧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260912/49736605.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-12 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260912/40d4463b-3bdb-4f63-a69c-bf88a101f21e.jpg"
+      },
+      {
         "title": "科技赛道领涨 A股全线高开 结构性修复行情显现",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260909/49730566.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-09-06 23:00:07",
         "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/9/999036_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "科技巨头密集更新AI模型，“模型疲劳”问题凸显",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L663QP390511B8LM.html",
-        "source": {
-          "name": "网易科技"
-        },
-        "publishedAt": "2026-09-06 21:45:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle220989232cej00tkxk5400rud0014000mig.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价上涨点燃成本导火索 化工品价格普涨",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260912/49737298.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-12 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260912/1054ac7e-0d5e-4051-b210-630d1a586e73.jpg"
+      },
       {
         "title": "国际打击电诈联盟在中国成立 多国代表共襄盛举",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-09-10 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260910/5b2df2d8-9acc-4348-86bb-5f9ba7977f83.jpg"
-      },
-      {
-        "title": "国际组织点赞中国服务贸易：中国服务贸易为全球创造新机遇",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260910/49732861.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-10 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260910/74462cc7-6173-40db-a761-b4073ab3e657.jpg"
       }
     ]
   }

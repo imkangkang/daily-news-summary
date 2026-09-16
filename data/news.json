@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15 08:24",
+  "updatedAt": "2026-09-16 08:03",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济学家震撼预言：2027年美经济、股市“双崩”，纳指跌回“万元大关” AI泡沫破裂预警",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260915/49741726.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-15 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260915/0df10ecc-a579-4d29-aaee-a14bcd56b217.jpg"
+      },
+      {
         "title": "经济学家预言2027年美经济股市双崩 AI泡沫破裂引担忧",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260914/49740282.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-09-04 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260904/111db411-9822-4ec4-9e98-c11dd2a17cd5.jpg"
-      },
-      {
-        "title": "经济日报：适老化改造不应只是放大字体",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L5NNQVD40514R9P4.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-09-01 07:46:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0901%2Fa4ed1540j00tknops001zd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "military": [
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际乒联2026年第38周世界排名 王曼昱首登顶",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260915/49741778.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-15 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260915/ab1858ae-5107-4be7-bfc5-1f5bdb9348d6.jpg"
+      },
+      {
+        "title": "国际篮球专家：中国篮球应多学习欧洲而非照搬美国 聚焦青训体系建设",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260915/49741895.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-15 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260915/609eaf34-ef0d-4025-967e-51c4e9ff9d0e.jpg"
+      },
+      {
         "title": "国际油价上涨点燃成本导火索 化工品价格普涨",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260912/49737298.html",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-09-11 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260911/5e12a5cb-2cfd-48e2-98cb-fb2619e5113e.jpg"
-      },
-      {
-        "title": "国际快递价格为何经常变动？运费受什么因素影响",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L6HQHJE70512D71I.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-09-11 10:55:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0911%2Fb627f2f4j00tl6irv0045d000ku00cdp.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "国际金价重返4400美元/盎司！金ETF广发（518600）持续获资金增持",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260910/49733323.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-10 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260910/5b2df2d8-9acc-4348-86bb-5f9ba7977f83.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19 08:01",
+  "updatedAt": "2026-09-20 07:58",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际原子能机构：俄罗斯一核电冷却塔被无人机击中",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20260919/49752591.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-19 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260918/4849efb4-8438-4f0c-b2b0-c2bb626a2e14.jpg"
+      },
+      {
         "title": "国际滑联花滑青年大奖赛土耳其站打响",
         "description": "",
         "url": "https://v.zhibo.tv/detail/headerline/1273996.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-09-16 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260916/31830508-3a74-43ac-8e4d-4829416980c9.jpg"
-      },
-      {
-        "title": "国际油价14日上涨 多重因素推动涨幅",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260916/49744425.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-16 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260916/e0deb30d-ceeb-4afb-b366-d303d7a4ce77.jpg"
       }
     ]
   }

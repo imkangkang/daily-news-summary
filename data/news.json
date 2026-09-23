@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22 08:39",
+  "updatedAt": "2026-09-23 08:10",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 闲鱼回应涉黄：成立专项小组严打色",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L7DRAG5K0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-09-22 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle388c95a209aj00tlq4yw0019d200j600csg00j600cs.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技巨头因AI购物起争端：亚马逊封禁Meta Muse",
         "description": "",
         "url": "https://www.163.com/dy/article/L7CHJPJ90511B8LM.html",
@@ -197,19 +207,49 @@
         },
         "publishedAt": "2026-09-16 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260916/2600572d-2134-4d22-b19f-4f7fe1303e15.jpg"
-      },
-      {
-        "title": "科技巨头呼吁AI减速，马斯克、奥特曼等罕见赞同 安全优先成共识",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260916/49745853.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-16 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260916/69f61357-5d66-45b3-82d3-6617aa5cbbbb.png"
       }
     ],
     "world": [
+      {
+        "title": "国际原子能机构发出严厉警告 必须立即停止袭击",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260922/49759834.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-22 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260922/59222a8e-c3f2-419d-aaaa-60ecaa869675.png"
+      },
+      {
+        "title": "国际金价跌超0.8% 市场波动加剧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260922/49758964.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-22 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "国际油价21日显著下跌 供应增加缓解担忧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260922/49758694.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-22 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "国际粮食价格持续上涨 中国粮仓稳如磐石",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260922/49758427.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-22 00:00:00",
+        "image": ""
+      },
       {
         "title": "国际移民组织：也门近13万人流离失所",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-09-22 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260921/9d2576d9-7c0b-4547-b2b8-415aca3e7b6f.jpg"
-      },
-      {
-        "title": "国际奥委会主席回应日本亚运村挨批 住宿条件引争议",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260921/49757622.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-21 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260921/d1f53952-aa3c-467c-bbbc-5b71342cdba5.jpg"
-      },
-      {
-        "title": "国际油价直线下挫，布伦特原油向下触及98美元/桶 美伊谈判预期影响市场",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260921/49757401.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-21 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260921/5eef47d2-089e-425c-99be-a360b80b3559.jpg"
-      },
-      {
-        "title": "国际奥委会主席：中国的表现极其出色，期待持续佳绩",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260921/49755977.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-21 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260921/9761efc7-fa9e-4fbc-b9b3-80215898acf3.jpg"
-      },
-      {
-        "title": "国际原子能机构：俄罗斯一核电冷却塔被无人机击中",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20260919/49752591.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-19 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260918/4849efb4-8438-4f0c-b2b0-c2bb626a2e14.jpg"
       }
     ]
   }

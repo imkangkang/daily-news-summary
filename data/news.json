@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23 08:10",
+  "updatedAt": "2026-09-24 08:19",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际油价深夜拉升超2%，比特币直线跳水跌破85000美元，黄金白银集体下挫 市场情绪波动加剧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260924/49762941.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-24 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260924/859cf333-19c3-4b12-a999-d5ad81363576.jpg"
+      },
+      {
+        "title": "国际顶级电竞战队PRX宣布与中国品牌西伯利亚合作！",
+        "description": "近日，国际顶级VALORANT战队PaperRex（PRX）正式宣布与中国电竞声学品牌西伯利亚XIBERIA达成合作。未来，双方将围...",
+        "url": "//dj.sina.com.cn/article/nisvqcx5306311.shtml",
+        "source": {
+          "name": "新浪电竞"
+        },
+        "publishedAt": "2026-09-23 22:00:10",
+        "image": "https://n.sinaimg.cn/games/639/w400h239/20260923/9781-b1c6f99b67021fbbae574bcab892445c.jpg"
+      },
+      {
+        "title": "国际油价大幅下跌原因找到了 供需紧张支撑价格",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260923/49762691.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-23 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260923/869620d7-0606-4b9e-bc88-a60ef126e87b.jpg"
+      },
+      {
         "title": "国际原子能机构发出严厉警告 必须立即停止袭击",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260922/49759834.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-09-22 00:00:00",
         "image": ""
-      },
-      {
-        "title": "国际油价21日显著下跌 供应增加缓解担忧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260922/49758694.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-22 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "国际粮食价格持续上涨 中国粮仓稳如磐石",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260922/49758427.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-22 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "国际移民组织：也门近13万人流离失所",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20260922/49758336.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-22 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260921/9d2576d9-7c0b-4547-b2b8-415aca3e7b6f.jpg"
       }
     ]
   }

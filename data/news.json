@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24 08:19",
+  "updatedAt": "2026-09-25 08:22",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济降速，物价却在狂飙，英国正陷入可怕的“滞胀”陷阱？服务业降温制造业仍扩张",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260924/49763200.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-24 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260924/daf0cf43-ab8c-4e98-94a6-40c3bdb40aec.jpg"
+      },
+      {
         "title": "经济学家预言明年美经济股市双崩 AI泡沫破裂在即",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260916/49744476.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-09-10 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260910/53a9553b-b487-4a11-95e8-921a7c359c6c.jpg"
-      },
-      {
-        "title": "经济学家谈折叠屏手机“三国杀” 创新战与价格战加剧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260909/49730539.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-09 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260909/2a97e4d1-2ada-48a9-b675-9772411c85bf.jpg"
       }
     ],
     "military": [
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际巨头看好中国市场机遇 数贸会AI链接全球商机",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260924/49763852.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-24 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260924/680063d9-883d-4bb9-b4d0-55a444f4c660.jpg"
+      },
+      {
+        "title": "国际金价银价跳水了 美元走强压制贵金属",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260924/49763259.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-24 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260924/818a2d3f-c451-445f-bca3-25e417c7fa62.jpg"
+      },
+      {
         "title": "国际油价深夜拉升超2%，比特币直线跳水跌破85000美元，黄金白银集体下挫 市场情绪波动加剧",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260924/49762941.html",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-09-23 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260923/869620d7-0606-4b9e-bc88-a60ef126e87b.jpg"
-      },
-      {
-        "title": "国际原子能机构发出严厉警告 必须立即停止袭击",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260922/49759834.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-22 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260922/59222a8e-c3f2-419d-aaaa-60ecaa869675.png"
-      },
-      {
-        "title": "国际金价跌超0.8% 市场波动加剧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260922/49758964.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-22 00:00:00",
-        "image": ""
       }
     ]
   }

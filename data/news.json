@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27 08:22",
+  "updatedAt": "2026-09-28 08:26",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技周报|米哈游前员工受贿被捕；微信加入双11",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L7RA0O5M0519DDQ2.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-09-27 13:33:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle1002053a417j00tm09ms0029d200u000crg01hf00mp.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技早报 | 闲鱼回应涉黄：成立专项小组严打色",
         "description": "",
         "url": "https://www.163.com/dy/article/L7DRAG5K0534A4SC.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-09-21 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260921/36f50763-87a5-4526-9b26-2187350a93f4.jpg"
-      },
-      {
-        "title": "科技当不了算命先生 AI本无立场",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260916/49746493.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-16 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260916/2600572d-2134-4d22-b19f-4f7fe1303e15.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际象棋奥赛 中国女队全程不败夺冠 第七次捧杯",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260927/49767065.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-27 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260927/14327ac6-1177-4709-83b2-9711ac722f3f.jpg"
+      },
       {
         "title": "国际油价25日下跌 美油布油跌幅超2%",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-09-24 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260924/680063d9-883d-4bb9-b4d0-55a444f4c660.jpg"
-      },
-      {
-        "title": "国际金价银价跳水了 美元走强压制贵金属",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260924/49763259.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-24 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260924/818a2d3f-c451-445f-bca3-25e417c7fa62.jpg"
       }
     ]
   }

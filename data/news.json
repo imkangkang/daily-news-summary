@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29 09:39",
+  "updatedAt": "2026-09-30 09:09",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,36 @@
     ],
     "tech": [
       {
+        "title": "科技部：我国世界一流科技期刊建设取得积极进展",
+        "description": "科技部龙腾副部长介绍，加快培育世界一流科技期刊是实现高水平科技自立自强、建设科技强国的重要组成部分。科技部会同相关部门采取了一系列举措，推动我国世界一流科技期刊建设取得积极进展，呈现良好发展态势。",
+        "url": "https://www.ithome.com/1/008/332.htm",
+        "source": {
+          "name": "IT家科学探索"
+        },
+        "publishedAt": "2026-09-29 17:00:10",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/9/1008332_240.jpg?x-bce-process=image/format,f_auto"
+      },
+      {
+        "title": "科技部：我国成为创新力上升最快的国家之一",
+        "description": "中国科技发展战略研究院《国家创新指数报告2025》显示，我国国家创新能力综合排名位居全球第9位。我国正从全球科技参与者、贡献者向开拓者、引领者加速转变，成为创新力上升最快的国家之一。",
+        "url": "https://www.ithome.com/1/008/307.htm",
+        "source": {
+          "name": "IT家科学探索"
+        },
+        "publishedAt": "2026-09-29 16:00:09",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/9/1008307_240.jpg?x-bce-process=image/format,f_auto"
+      },
+      {
+        "title": "科技股调整何时结束 市场情绪待企稳",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260929/49771005.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-29 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260929/8f743928-4247-4fb7-ade2-64a0a916d9e4.png"
+      },
+      {
         "title": "科技周报|米哈游前员工受贿被捕；微信加入双11",
         "description": "",
         "url": "https://www.163.com/dy/article/L7RA0O5M0519DDQ2.html",
@@ -177,39 +207,29 @@
         },
         "publishedAt": "2026-09-22 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle388c95a209aj00tlq4yw0019d200j600csg00j600cs.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技巨头因AI购物起争端：亚马逊封禁Meta Muse",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L7CHJPJ90511B8LM.html",
-        "source": {
-          "name": "网易科技"
-        },
-        "publishedAt": "2026-09-21 19:57:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle62507622b9cj00tlpqc400yjd000z000jpg.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技新一称小米18Pro防窥效果太牛 硬件级防窥屏揭秘",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260921/49757606.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-21 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260921/788689c8-bf1f-4179-9c28-0aaf70ba9b47.jpg"
-      },
-      {
-        "title": "科技固海、蓝海兴粤 广东书写海洋强国新答卷",
-        "description": "",
-        "url": "https://news.china.com/domestic/945/20260921/49755983.html",
-        "source": {
-          "name": "中华国内"
-        },
-        "publishedAt": "2026-09-21 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260921/36f50763-87a5-4526-9b26-2187350a93f4.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价微涨：小幅波动再现",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260929/49771094.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-29 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260929/f60ca66b-717f-4722-9aa2-1b306dcd5775.jpg"
+      },
+      {
+        "title": "国际油价大幅反弹近3% 布油重回100美元",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260929/49770426.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-29 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260929/debab596-beb6-414e-8a92-865168548f9d.jpg"
+      },
       {
         "title": "国际乒联最新世界排名公布 国乒依旧强势领先",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-09-28 00:00:00",
         "image": ""
-      },
-      {
-        "title": "国际柴油价格大涨 经济冲击几何 全球供应链承压",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260928/49767643.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-28 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "国际象棋奥赛 中国女队全程不败夺冠 第七次捧杯",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260927/49767065.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-27 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260927/14327ac6-1177-4709-83b2-9711ac722f3f.jpg"
       }
     ]
   }

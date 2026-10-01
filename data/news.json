@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30 09:09",
+  "updatedAt": "2026-10-01 09:09",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际油价显著下跌，金银涨跌不一 贵金属市场波动加剧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260930/49773987.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-30 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260930/b80f5e51-1a4e-479d-af0f-90d9b642d147.jpg"
+      },
+      {
+        "title": "国际油价显著回落 金价小幅上行 供应恢复预期驱动",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20260930/49773527.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-09-30 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260930/46d81e53-0ad7-4c52-9518-01c0486a027a.jpg"
+      },
+      {
         "title": "国际油价微涨：小幅波动再现",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20260929/49771094.html",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-09-28 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260928/66a029db-2e67-41d6-8970-afa84f0c8966.jpg"
-      },
-      {
-        "title": "国际油价暴涨！金银齐跌！美股科技股受挫",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260928/49768714.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-28 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260928/e6d671a3-c5ed-4784-a408-5f52d78320f0.jpg"
-      },
-      {
-        "title": "国际油价高开，金银价格齐跌",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260928/49768417.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-28 00:00:00",
-        "image": ""
       }
     ]
   }

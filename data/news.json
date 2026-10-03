@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02 09:27",
+  "updatedAt": "2026-10-03 09:00",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技公司让人形机器人跳进钢水 独特销毁方式引发热议",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261002/49775630.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-02 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261002/11b924f1-4527-4f63-b4f1-800839815eeb.jpg"
+      },
+      {
         "title": "科技小院里的年轻人 把青春华章写在田间地头",
         "description": "",
         "url": "https://news.china.com/social/1007/20261001/49774234.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-09-29 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260929/8f743928-4247-4fb7-ade2-64a0a916d9e4.png"
-      },
-      {
-        "title": "科技周报|米哈游前员工受贿被捕；微信加入双11",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L7RA0O5M0519DDQ2.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-09-27 13:33:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle1002053a417j00tm09ms0029d200u000crg01hf00mp.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际金价银价上涨 通胀数据疲软助推",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261002/49775614.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-02 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261002/79c87a1c-8c15-4a62-bbd3-8f7ed6dd4c36.jpg"
+      },
       {
         "title": "国际油价大涨 中东局势推高布油至百元关口",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-09-29 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260929/f60ca66b-717f-4722-9aa2-1b306dcd5775.jpg"
-      },
-      {
-        "title": "国际油价大幅反弹近3% 布油重回100美元",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260929/49770426.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-29 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260929/debab596-beb6-414e-8a92-865168548f9d.jpg"
       }
     ]
   }

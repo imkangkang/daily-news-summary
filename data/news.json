@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03 09:00",
+  "updatedAt": "2026-10-04 08:24",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际油价下跌 七国集团释放战略储备缓解压力",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261003/49776796.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-03 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261003/14c23552-ea90-485e-9cb0-e4bc4d7347c1.jpg"
+      },
+      {
+        "title": "国际原子能机构：扎波罗热核电站仍存在安全风险",
+        "description": "",
+        "url": "https://mil.ifeng.com/c/8wtiQMvBGpu",
+        "source": {
+          "name": "凤凰军事"
+        },
+        "publishedAt": "2026-10-03 10:00:04",
+        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_40/9E1CC52B25F08D9408B201D550B0341428D7C2AF_size899_w975_h549.png"
+      },
+      {
         "title": "国际金价银价上涨 通胀数据疲软助推",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261002/49775614.html",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-09-30 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260930/b80f5e51-1a4e-479d-af0f-90d9b642d147.jpg"
-      },
-      {
-        "title": "国际油价显著回落 金价小幅上行 供应恢复预期驱动",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260930/49773527.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-30 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260930/46d81e53-0ad7-4c52-9518-01c0486a027a.jpg"
-      },
-      {
-        "title": "国际油价微涨：小幅波动再现",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260929/49771094.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-29 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260929/f60ca66b-717f-4722-9aa2-1b306dcd5775.jpg"
       }
     ]
   }

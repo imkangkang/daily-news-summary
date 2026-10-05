@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04 08:24",
+  "updatedAt": "2026-10-05 08:36",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技板块后续能否重拾涨势 市场关注结构性机会",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261004/49777468.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-04 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261004/b837381b-68b7-445f-824a-c58f34e82079.jpg"
+      },
+      {
         "title": "科技公司让人形机器人跳进钢水 独特销毁方式引发热议",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261002/49775630.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-09-29 16:00:09",
         "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/9/1008307_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "科技股调整何时结束 市场情绪待企稳",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260929/49771005.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-29 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260929/8f743928-4247-4fb7-ade2-64a0a916d9e4.png"
       }
     ],
     "world": [
+      {
+        "title": "国际能源署：已释放约3.25亿桶战略石油储备",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20261004/49777144.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-04 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261004/8123a08d-bba7-4591-b06b-0b54693240e5.jpg"
+      },
       {
         "title": "国际油价下跌 七国集团释放战略储备缓解压力",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-10-01 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20261001/521d7440-86e7-4539-901e-f89c9e5863d8.jpg"
-      },
-      {
-        "title": "国际油价显著下跌，金银涨跌不一 贵金属市场波动加剧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260930/49773987.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-30 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260930/b80f5e51-1a4e-479d-af0f-90d9b642d147.jpg"
       }
     ]
   }

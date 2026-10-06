@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05 08:36",
+  "updatedAt": "2026-10-06 10:08",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际乒联最新世界排名公布 松岛辉空成最年轻世界第一",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261005/49778501.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-05 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261005/59d12905-6e2b-4ff7-9a2f-3ffea8345e4e.jpg"
+      },
+      {
         "title": "国际能源署：已释放约3.25亿桶战略石油储备",
         "description": "",
         "url": "https://news.china.com/international/1000/20261004/49777144.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-10-02 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20261002/79c87a1c-8c15-4a62-bbd3-8f7ed6dd4c36.jpg"
-      },
-      {
-        "title": "国际油价大涨 中东局势推高布油至百元关口",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261001/49774675.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-01 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261001/521d7440-86e7-4539-901e-f89c9e5863d8.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09 09:52",
+  "updatedAt": "2026-10-10 09:34",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际观察｜冲绳命案凸显日本倚美恶果",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20261010/49785627.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-10 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261010/bc52e5f6-76d1-4b2b-9434-4d91bbaaba11.jpg"
+      },
+      {
+        "title": "国际金价重回4200美元 涨势强劲引发关注",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261009/49785092.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-09 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261009/d8ff7141-980c-460c-b743-b5c26f959edc.jpg"
+      },
+      {
         "title": "国际油价大涨了 地缘局势紧张推高价格",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261009/49783314.html",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-10-09 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20261008/28cd2755-16da-4b7b-9be5-de6c8a835da1.jpg"
-      },
-      {
-        "title": "国际油价涨幅持续扩大 柴油短缺形势严峻",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261009/49783232.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-09 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261008/b7b57807-1380-425a-b1c6-a6089eaee363.jpg"
-      },
-      {
-        "title": "国际原油期货价格涨超5% 油价持续攀升",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261008/49783168.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-08 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261008/76c2e62b-8c16-42ed-88b9-5f0f08c76d48.jpg"
       }
     ]
   }

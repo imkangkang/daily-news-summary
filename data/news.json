@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10 09:34",
+  "updatedAt": "2026-10-11 08:44",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际金价三季度上涨3.74% 四季度或维持高波动",
+        "description": "2026-10-1009:45",
+        "url": "//caijing.chinadaily.com.cn/a/202610/10/WS6ac998c5e4b09a165c78e852.html",
+        "source": {
+          "name": "中国日报财经"
+        },
+        "publishedAt": "2026-10-10 09:45:00",
+        "image": "//img3.chinadaily.com.cn/images/202610/10/6ac998c5e4b09a16728696c5.jpeg"
+      },
+      {
         "title": "国际观察｜冲绳命案凸显日本倚美恶果",
         "description": "",
         "url": "https://news.china.com/international/1000/20261010/49785627.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-10-09 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261009/bfddea81-27e7-4e90-a81a-98aca003f43d.jpg"
-      },
-      {
-        "title": "国际生留美实习最高要交10万美元 新规引发争议",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261009/49783222.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-09 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261008/28cd2755-16da-4b7b-9be5-de6c8a835da1.jpg"
       }
     ]
   }

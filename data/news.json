@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13 10:55",
+  "updatedAt": "2026-10-14 09:00",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股回调谁在卖出 保险资管巨头减持引发热议",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261014/49792925.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-14 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261014/1b4f1efa-53c2-48c3-b156-d0001b05ee3a.jpg"
+      },
+      {
         "title": "科技股存在继续回调风险 险资止损争议引发关注",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261013/49790923.html",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-10-02 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20261002/11b924f1-4527-4f63-b4f1-800839815eeb.jpg"
-      },
-      {
-        "title": "科技小院里的年轻人 把青春华章写在田间地头",
-        "description": "",
-        "url": "https://news.china.com/social/1007/20261001/49774234.html",
-        "source": {
-          "name": "中华社会"
-        },
-        "publishedAt": "2026-10-01 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260930/70822101-ca56-4958-ab9c-fd0637591c58.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际锐评丨日本右翼新伎俩包藏多重祸心 篡改历史认知",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261013/49791941.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-13 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261013/99950cbf-f7eb-4507-aecb-8cbe5a0ec108.jpg"
+      },
+      {
+        "title": "国际存储巨头，集体大跌！供需预期变化引发调整",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261013/49791953.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-13 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261013/309b92ee-2a53-4755-87a7-50f1219ab281.jpg"
+      },
       {
         "title": "国际乒联最新世界排名公布 国乒单打位次更新",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-10-12 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261012/1c7be081-17fd-4d9c-a8b9-66717ab59f1d.jpg"
-      },
-      {
-        "title": "国际金价三季度上涨3.74% 四季度或维持高波动",
-        "description": "2026-10-1009:45",
-        "url": "//caijing.chinadaily.com.cn/a/202610/10/WS6ac998c5e4b09a165c78e852.html",
-        "source": {
-          "name": "中国日报财经"
-        },
-        "publishedAt": "2026-10-10 09:45:00",
-        "image": "//img3.chinadaily.com.cn/images/202610/10/6ac998c5e4b09a16728696c5.jpeg"
-      },
-      {
-        "title": "国际观察｜冲绳命案凸显日本倚美恶果",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20261010/49785627.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-10 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261010/bc52e5f6-76d1-4b2b-9434-4d91bbaaba11.jpg"
       }
     ]
   }

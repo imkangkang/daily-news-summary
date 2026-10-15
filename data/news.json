@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14 09:00",
+  "updatedAt": "2026-10-15 08:21",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际锐评丨日本右翼新伎俩包藏多重祸心",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20261014/49793161.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-14 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261014/8f5f2134-11c0-499a-b6e5-9120a4de8596.jpg"
+      },
+      {
         "title": "国际锐评丨日本右翼新伎俩包藏多重祸心 篡改历史认知",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261013/49791941.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-10-12 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20261012/140d627b-860b-4826-8ebf-008fa4bc6eb5.jpg"
-      },
-      {
-        "title": "国际油价拉升 黄金下跌 市场波动加剧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261012/49789020.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-12 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261012/1c7be081-17fd-4d9c-a8b9-66717ab59f1d.jpg"
       }
     ]
   }

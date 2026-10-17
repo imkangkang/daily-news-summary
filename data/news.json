@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16 08:09",
+  "updatedAt": "2026-10-17 08:13",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股回调真相 多重因素共振解析",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261016/49797523.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-16 00:00:00",
+        "image": ""
+      },
+      {
         "title": "科技股回调谁在卖出 保险资管巨头减持引发热议",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261014/49792925.html",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-10-04 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20261004/b837381b-68b7-445f-824a-c58f34e82079.jpg"
-      },
-      {
-        "title": "科技公司让人形机器人跳进钢水 独特销毁方式引发热议",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261002/49775630.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-02 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261002/11b924f1-4527-4f63-b4f1-800839815eeb.jpg"
       }
     ],
     "world": [

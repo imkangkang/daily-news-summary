@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17 08:13",
+  "updatedAt": "2026-10-18 07:52",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际航联：非传统风险推高航运成本 中东局势加剧不确定性",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261018/49799959.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-18 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261017/b388493b-8e91-4887-a1f4-3f15b384a703.jpg"
+      },
+      {
+        "title": "国际油价16日显著上涨 地缘冲突推高价格",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261017/49799625.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-17 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261017/22ddb2db-45b6-4d81-bc3b-c1f0474d2ebe.jpg"
+      },
+      {
         "title": "国际能源署：全球柴油供应紧张将持续至2027年",
         "description": "",
         "url": "https://news.china.com/international/1000/20261015/49795253.html",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-10-13 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20261013/99950cbf-f7eb-4507-aecb-8cbe5a0ec108.jpg"
-      },
-      {
-        "title": "国际存储巨头，集体大跌！供需预期变化引发调整",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261013/49791953.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-13 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261013/309b92ee-2a53-4755-87a7-50f1219ab281.jpg"
-      },
-      {
-        "title": "国际乒联最新世界排名公布 国乒单打位次更新",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261013/49790630.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-13 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261012/6a5ee720-40d9-4056-aec6-ed2627744376.jpg"
       }
     ]
   }

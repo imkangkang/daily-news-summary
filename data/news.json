@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18 07:52",
+  "updatedAt": "2026-10-19 08:01",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济学家香帅：AI成为生产要素，重构未来生产方式",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261018/49800658.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-18 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261018/03e367c1-009a-445b-be1a-c61221487e04.jpg"
+      },
+      {
         "title": "经济日报：“红灯停表”释放外卖平台破内卷信号",
         "description": "",
         "url": "https://www.163.com/dy/article/L7VQRLFI0514R9P4.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-09-15 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20260915/0df10ecc-a579-4d29-aaee-a14bcd56b217.jpg"
-      },
-      {
-        "title": "经济学家预言2027年美经济股市双崩 AI泡沫破裂引担忧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260914/49740282.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-14 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20260914/590fcf51-8d41-465b-a3b4-0bab82a6b05c.jpg"
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技龙头业绩高增换不来股价上涨吗 资金借利好兑现",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261019/49800882.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-19 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261018/3a603ae5-3214-4fc6-9094-4ec3fb504dea.jpg"
+      },
+      {
         "title": "科技股回调真相 多重因素共振解析",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261016/49797523.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-10-12 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261012/0dd23c92-83b3-43ef-a67a-9a6f445797ca.jpg"
-      },
-      {
-        "title": "科技板块后续能否重拾涨势 市场关注结构性机会",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261004/49777468.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-04 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261004/b837381b-68b7-445f-824a-c58f34e82079.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20261018/49800205.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-18 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261018/9cc79268-2cac-4f20-9d36-4e217b408215.jpg"
+      },
       {
         "title": "国际航联：非传统风险推高航运成本 中东局势加剧不确定性",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-10-14 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20261014/8f5f2134-11c0-499a-b6e5-9120a4de8596.jpg"
-      },
-      {
-        "title": "国际锐评丨日本右翼新伎俩包藏多重祸心 篡改历史认知",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261013/49791941.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-13 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261013/99950cbf-f7eb-4507-aecb-8cbe5a0ec108.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19 08:01",
+  "updatedAt": "2026-10-20 08:58",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技新一谈iPhoneDuo商家订单遭压价 溢价行情急转直下",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261019/49801913.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-19 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261019/314a0220-8d9d-46d6-9525-1c4d2528516a.png"
+      },
+      {
         "title": "科技龙头业绩高增换不来股价上涨吗 资金借利好兑现",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261019/49800882.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-10-13 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20261013/48361b19-48b8-4985-9f04-23de10886a89.jpg"
-      },
-      {
-        "title": "科技大跌谁在砸盘 机构追涨杀跌引发调整",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261012/49790416.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-12 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261012/0dd23c92-83b3-43ef-a67a-9a6f445797ca.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际乒联最新排名：男单王楚钦第5 国乒多名选手排名上升",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261019/49803776.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-19 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261019/c1b3773e-39f1-47c9-9007-3ed886df623c.jpg"
+      },
       {
         "title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-10-15 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20261015/56c1d681-6ca4-4bac-8b40-41df20c934ec.jpg"
-      },
-      {
-        "title": "国际锐评丨日本右翼新伎俩包藏多重祸心",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20261014/49793161.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-14 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261014/8f5f2134-11c0-499a-b6e5-9120a4de8596.jpg"
       }
     ]
   }

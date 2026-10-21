@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20 08:58",
+  "updatedAt": "2026-10-21 08:27",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技新一谈iPhone18外观 色彩与质感的视觉盛宴",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261020/49805408.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-20 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261020/cd8ca27b-8811-471c-9465-25d58df556c2.jpg"
+      },
+      {
         "title": "科技新一谈iPhoneDuo商家订单遭压价 溢价行情急转直下",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261019/49801913.html",
@@ -197,19 +207,49 @@
         },
         "publishedAt": "2026-10-14 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20261014/1b4f1efa-53c2-48c3-b156-d0001b05ee3a.jpg"
-      },
-      {
-        "title": "科技股存在继续回调风险 险资止损争议引发关注",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261013/49790923.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-13 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261013/48361b19-48b8-4985-9f04-23de10886a89.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际乒联主席与帕金森球友交流切磋 乒乓康复的力量",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261020/49806041.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-20 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261020/4b0336c5-af7e-447c-99f0-db0ec0aaf2ca.jpg"
+      },
+      {
+        "title": "国际金价小幅回落 贵金属市场承压明显",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261020/49805402.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-20 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261020/26ad2577-39f2-44b1-901e-bd659d421f49.jpg"
+      },
+      {
+        "title": "国际乒联秘书长确认收到举报信，将启动调查程序 乒坛治理架构受质疑",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261020/49805099.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-20 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261020/af5b65fa-5f10-44a0-8a5c-2ceb7851260f.png"
+      },
+      {
+        "title": "国际乒联主席索林乒乓球打得怎么样？她与王励勤比试了双打 体医融合助力康复",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261020/49804016.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-20 00:00:00",
+        "image": ""
+      },
       {
         "title": "国际乒联最新排名：男单王楚钦第5 国乒多名选手排名上升",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-10-19 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20261019/c1b3773e-39f1-47c9-9007-3ed886df623c.jpg"
-      },
-      {
-        "title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20261018/49800205.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-18 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261018/9cc79268-2cac-4f20-9d36-4e217b408215.jpg"
-      },
-      {
-        "title": "国际航联：非传统风险推高航运成本 中东局势加剧不确定性",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261018/49799959.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-18 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261017/b388493b-8e91-4887-a1f4-3f15b384a703.jpg"
-      },
-      {
-        "title": "国际油价16日显著上涨 地缘冲突推高价格",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261017/49799625.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-17 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261017/22ddb2db-45b6-4d81-bc3b-c1f0474d2ebe.jpg"
-      },
-      {
-        "title": "国际能源署：全球柴油供应紧张将持续至2027年",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20261015/49795253.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-15 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261015/56c1d681-6ca4-4bac-8b40-41df20c934ec.jpg"
       }
     ]
   }

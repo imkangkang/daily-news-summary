@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21 08:27",
+  "updatedAt": "2026-10-22 08:30",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,26 @@
     ],
     "world": [
       {
+        "title": "国际油价跳水：调价机制解析",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261021/49808469.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-21 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261021/50ebcbf2-7f02-43cc-ab76-5b5885002633.jpg"
+      },
+      {
+        "title": "国际油价高位震荡 相关资产配置面临风险敞口",
+        "description": "2026-10-2109:24",
+        "url": "//caijing.chinadaily.com.cn/a/202610/21/WS6ad8145fe4b09a165c790715.html",
+        "source": {
+          "name": "中国日报财经"
+        },
+        "publishedAt": "2026-10-21 09:24:00",
+        "image": "//img3.chinadaily.com.cn/images/202610/21/6ad8145fe4b09a167286f5b0.jpeg"
+      },
+      {
         "title": "国际乒联主席与帕金森球友交流切磋 乒乓康复的力量",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261020/49806041.html",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-10-20 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261020/af5b65fa-5f10-44a0-8a5c-2ceb7851260f.png"
-      },
-      {
-        "title": "国际乒联主席索林乒乓球打得怎么样？她与王励勤比试了双打 体医融合助力康复",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261020/49804016.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-20 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "国际乒联最新排名：男单王楚钦第5 国乒多名选手排名上升",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261019/49803776.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-19 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261019/c1b3773e-39f1-47c9-9007-3ed886df623c.jpg"
       }
     ]
   }

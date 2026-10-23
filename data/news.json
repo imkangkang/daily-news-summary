@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22 08:30",
+  "updatedAt": "2026-10-23 08:28",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | iPhone Duo开启全球限购；爱奇艺向B",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L9R382O80534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-10-22 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1022%2F277638acj00tna7fq0006d0009c007ac.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技新一谈iPhone18外观 色彩与质感的视觉盛宴",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261020/49805408.html",
@@ -197,19 +207,19 @@
         },
         "publishedAt": "2026-10-16 00:00:00",
         "image": ""
-      },
-      {
-        "title": "科技股回调谁在卖出 保险资管巨头减持引发热议",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261014/49792925.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-14 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261014/1b4f1efa-53c2-48c3-b156-d0001b05ee3a.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际具身智能技能大赛将举办 聚焦九大真实场景挑战",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261022/49809854.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-22 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261022/6f000345-89b3-4def-9a67-8535dcd0c19e.jpg"
+      },
       {
         "title": "国际油价跳水：调价机制解析",
         "description": "",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-10-20 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261020/26ad2577-39f2-44b1-901e-bd659d421f49.jpg"
-      },
-      {
-        "title": "国际乒联秘书长确认收到举报信，将启动调查程序 乒坛治理架构受质疑",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261020/49805099.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-20 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261020/af5b65fa-5f10-44a0-8a5c-2ceb7851260f.png"
       }
     ]
   }

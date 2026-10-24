@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23 08:28",
+  "updatedAt": "2026-10-24 08:24",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,36 @@
     ],
     "tech": [
       {
+        "title": "科技股砸出“订单底”了吗 市场仍在重新校准预期",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261024/49814525.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-24 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261023/e3d1d21b-b1be-412b-846b-6184a726ba4c.jpg"
+      },
+      {
+        "title": "科技新一后悔买iPhoneDuo了 苹果创新不再？",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261023/49813866.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-23 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261023/9a29b089-e1e7-430f-9cd8-a8c5d291cc66.png"
+      },
+      {
+        "title": "科技早报 | 编程语言PHP高危漏洞或冲击全球七成",
+        "description": "",
+        "url": "https://www.163.com/dy/article/L9TLKP6L0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-10-23 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1023%2Fa4ed1540j00tnbznt001zd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技早报 | iPhone Duo开启全球限购；爱奇艺向B",
         "description": "",
         "url": "https://www.163.com/dy/article/L9R382O80534A4SC.html",
@@ -177,39 +207,49 @@
         },
         "publishedAt": "2026-10-20 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261020/cd8ca27b-8811-471c-9465-25d58df556c2.jpg"
-      },
-      {
-        "title": "科技新一谈iPhoneDuo商家订单遭压价 溢价行情急转直下",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261019/49801913.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-19 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261019/314a0220-8d9d-46d6-9525-1c4d2528516a.png"
-      },
-      {
-        "title": "科技龙头业绩高增换不来股价上涨吗 资金借利好兑现",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261019/49800882.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-19 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261018/3a603ae5-3214-4fc6-9094-4ec3fb504dea.jpg"
-      },
-      {
-        "title": "科技股回调真相 多重因素共振解析",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261016/49797523.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-16 00:00:00",
-        "image": ""
       }
     ],
     "world": [
+      {
+        "title": "国际油价大涨突破百元 生活成本上升压力增大",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261023/49814437.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-23 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261023/52b35796-5255-4f9f-bddd-6926b0a88283.jpg"
+      },
+      {
+        "title": "国际油价又大幅上涨 美以计划打击伊朗引发担忧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261023/49813934.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-23 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261023/c8018df5-a9d3-4cea-81cf-612159cbcb41.jpg"
+      },
+      {
+        "title": "国际油价，涨跌不一 纽约跌伦敦微涨",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261023/49813624.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-23 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261023/d3d1f05d-56d1-4d34-aab6-290403b325ec.jpg"
+      },
+      {
+        "title": "国际劳工组织首席经济学家谈AI与就业 关注收益分配难题",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261023/49813459.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-23 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261023/1b0b752f-e85f-477f-aa01-c681a95ab61f.jpg"
+      },
       {
         "title": "国际具身智能技能大赛将举办 聚焦九大真实场景挑战",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-10-22 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20261022/6f000345-89b3-4def-9a67-8535dcd0c19e.jpg"
-      },
-      {
-        "title": "国际油价跳水：调价机制解析",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261021/49808469.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-21 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261021/50ebcbf2-7f02-43cc-ab76-5b5885002633.jpg"
-      },
-      {
-        "title": "国际油价高位震荡 相关资产配置面临风险敞口",
-        "description": "2026-10-2109:24",
-        "url": "//caijing.chinadaily.com.cn/a/202610/21/WS6ad8145fe4b09a165c790715.html",
-        "source": {
-          "name": "中国日报财经"
-        },
-        "publishedAt": "2026-10-21 09:24:00",
-        "image": "//img3.chinadaily.com.cn/images/202610/21/6ad8145fe4b09a167286f5b0.jpeg"
-      },
-      {
-        "title": "国际乒联主席与帕金森球友交流切磋 乒乓康复的力量",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261020/49806041.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-20 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261020/4b0336c5-af7e-447c-99f0-db0ec0aaf2ca.jpg"
-      },
-      {
-        "title": "国际金价小幅回落 贵金属市场承压明显",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261020/49805402.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-20 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261020/26ad2577-39f2-44b1-901e-bd659d421f49.jpg"
       }
     ]
   }

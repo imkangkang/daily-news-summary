@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24 08:24",
+  "updatedAt": "2026-10-25 08:07",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际油价23日显著上涨",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20261024/49815147.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-24 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261024/bdf638c6-214b-47b6-9111-9462d5f381f6.jpg"
+      },
+      {
         "title": "国际油价大涨突破百元 生活成本上升压力增大",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261023/49814437.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-10-23 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261023/1b0b752f-e85f-477f-aa01-c681a95ab61f.jpg"
-      },
-      {
-        "title": "国际具身智能技能大赛将举办 聚焦九大真实场景挑战",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261022/49809854.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-22 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261022/6f000345-89b3-4def-9a67-8535dcd0c19e.jpg"
       }
     ]
   }

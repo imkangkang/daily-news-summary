@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26 07:58",
+  "updatedAt": "2026-10-27 09:18",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技新一谈多客户取消iPhoneDuo订单 品控问题引发退订潮",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261026/49818875.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-26 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261026/de7c9fa1-8b6d-41ba-8edb-a29d94c0b72a.jpg"
+      },
+      {
         "title": "科技股砸出“订单底”了吗 市场仍在重新校准预期",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261024/49814525.html",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-10-22 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1022%2F277638acj00tna7fq0006d0009c007ac.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技新一谈iPhone18外观 色彩与质感的视觉盛宴",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261020/49805408.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-20 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261020/cd8ca27b-8811-471c-9465-25d58df556c2.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际乒联最新世界排名公布 松岛辉空男单登顶",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261026/49819463.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-26 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261026/77356065-0055-40f0-8e38-8cb32e041eea.png"
+      },
+      {
+        "title": "国际油价直线下挫，黄金重回4000美元 市场波动加剧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261026/49819144.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-26 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261026/cfef0603-9a73-4d2c-b9c7-d7d4c1e6c86e.jpg"
+      },
       {
         "title": "国际油价23日显著上涨",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-10-23 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261023/c8018df5-a9d3-4cea-81cf-612159cbcb41.jpg"
-      },
-      {
-        "title": "国际油价，涨跌不一 纽约跌伦敦微涨",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261023/49813624.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-23 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261023/d3d1f05d-56d1-4d34-aab6-290403b325ec.jpg"
-      },
-      {
-        "title": "国际劳工组织首席经济学家谈AI与就业 关注收益分配难题",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261023/49813459.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-23 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261023/1b0b752f-e85f-477f-aa01-c681a95ab61f.jpg"
       }
     ]
   }

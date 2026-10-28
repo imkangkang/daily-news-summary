@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27 09:18",
+  "updatedAt": "2026-10-28 09:02",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济日报：没了最低价的“双11”还有啥",
+        "description": "",
+        "url": "https://www.163.com/dy/article/LAAFPPEG0514R9P4.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-10-28 07:34:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1028%2Fa4ed1540j00tnl8vt001zd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "经济学家香帅：AI成为生产要素，重构未来生产方式",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261018/49800658.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-09-16 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20260916/d60cbbfa-812a-4362-acb3-90a63f946b40.jpg"
-      },
-      {
-        "title": "经济学家震撼预言：2027年美经济、股市“双崩”，纳指跌回“万元大关” AI泡沫破裂预警",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260915/49741726.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-15 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20260915/0df10ecc-a579-4d29-aaee-a14bcd56b217.jpg"
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 抖音李亮：腾讯短剧、短视频增速远",
+        "description": "",
+        "url": "https://www.163.com/dy/article/LAAHKC2R0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-10-28 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1028%2F0cc3db25j00tnlca1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技新一谈多客户取消iPhoneDuo订单 品控问题引发退订潮",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261026/49818875.html",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-10-23 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1023%2Fa4ed1540j00tnbznt001zd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技早报 | iPhone Duo开启全球限购；爱奇艺向B",
-        "description": "",
-        "url": "https://www.163.com/dy/article/L9R382O80534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-10-22 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1022%2F277638acj00tna7fq0006d0009c007ac.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [

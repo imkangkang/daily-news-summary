@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28 09:02",
+  "updatedAt": "2026-10-29 09:38",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际原油降价国内油价为何上涨 调价机制解析",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261028/49823490.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-28 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261028/50e7f022-c9e3-4559-b8b6-dabdc90b2e4b.jpg"
+      },
+      {
         "title": "国际乒联最新世界排名公布 松岛辉空男单登顶",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261026/49819463.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-10-23 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261023/52b35796-5255-4f9f-bddd-6926b0a88283.jpg"
-      },
-      {
-        "title": "国际油价又大幅上涨 美以计划打击伊朗引发担忧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261023/49813934.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-23 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261023/c8018df5-a9d3-4cea-81cf-612159cbcb41.jpg"
       }
     ]
   }

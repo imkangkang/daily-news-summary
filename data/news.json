@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30 09:44",
+  "updatedAt": "2026-10-31 09:27",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股跌到头了吗 估值已处历史低位区间",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261030/49828517.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-30 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261030/fda48a14-f2e5-4141-8e67-9def7b38e9d3.jpg"
+      },
+      {
         "title": "科技育繁花 种芯绽杨凌",
         "description": "科技育繁花种芯绽杨凌【详细】",
         "url": "https://kepu.gmw.cn/agri/2026-10/29/content_39072809.htm",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-10-24 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20261023/e3d1d21b-b1be-412b-846b-6184a726ba4c.jpg"
-      },
-      {
-        "title": "科技新一后悔买iPhoneDuo了 苹果创新不再？",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261023/49813866.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-23 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261023/9a29b089-e1e7-430f-9cd8-a8c5d291cc66.png"
       }
     ],
     "world": [

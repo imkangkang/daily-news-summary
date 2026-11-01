@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31 09:27",
+  "updatedAt": "2026-11-01 08:50",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济日报：“速成车”标签不可乱贴 效率提升非偷换概念",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261031/49830272.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-10-31 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261031/89e764fd-2b9e-4565-b0db-686f97674e66.jpg"
+      },
+      {
         "title": "经济日报：没了最低价的“双11”还有啥",
         "description": "",
         "url": "https://www.163.com/dy/article/LAAFPPEG0514R9P4.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-09-24 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20260924/daf0cf43-ab8c-4e98-94a6-40c3bdb40aec.jpg"
-      },
-      {
-        "title": "经济学家预言明年美经济股市双崩 AI泡沫破裂在即",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260916/49744476.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-16 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20260916/d60cbbfa-812a-4362-acb3-90a63f946b40.jpg"
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股“认清现实”的一周 巨头财报接连失守",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261101/49830741.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-01 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261031/52c1b8e4-498a-4a6a-8ebb-8da861bdb20a.jpg"
+      },
+      {
         "title": "科技股跌到头了吗 估值已处历史低位区间",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261030/49828517.html",
@@ -197,16 +207,6 @@
         },
         "publishedAt": "2026-10-26 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20261026/de7c9fa1-8b6d-41ba-8edb-a29d94c0b72a.jpg"
-      },
-      {
-        "title": "科技股砸出“订单底”了吗 市场仍在重新校准预期",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261024/49814525.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-24 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261023/e3d1d21b-b1be-412b-846b-6184a726ba4c.jpg"
       }
     ],
     "world": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01 08:50",
+  "updatedAt": "2026-11-02 09:22",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济大省三季报释放什么新信号 总量强增速快",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261101/49831693.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-01 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261101/2c2d3262-f038-48fc-8a7e-8108627a00b4.jpg"
+      },
+      {
         "title": "经济日报：“速成车”标签不可乱贴 效率提升非偷换概念",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261031/49830272.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-09-29 07:44:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle5270a254c5ej00tm3k6t00qtd200u000csg01hd00mq.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "经济降速，物价却在狂飙，英国正陷入可怕的“滞胀”陷阱？服务业降温制造业仍扩张",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20260924/49763200.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-09-24 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20260924/daf0cf43-ab8c-4e98-94a6-40c3bdb40aec.jpg"
       }
     ],
     "military": [

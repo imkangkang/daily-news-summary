@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03 11:22",
+  "updatedAt": "2026-11-04 10:01",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技早报｜红果免费短剧成抖音集团第二大应用；",
+        "description": "",
+        "url": "https://www.163.com/dy/article/LASLDU8B0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-11-04 08:59:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle6872566222bj00tnyckc002jd000zk00idg.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
+        "title": "科技早报 | 红果免费短剧成抖音集团第二大应用",
+        "description": "",
+        "url": "https://www.163.com/dy/article/LASIDD7S0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-11-04 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1104%2F0cc3db25j00tnyay1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技股“认清现实”的一周 巨头财报接连失守",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261101/49830741.html",
@@ -187,29 +207,39 @@
         },
         "publishedAt": "2026-10-29 10:32:00",
         "image": ""
-      },
-      {
-        "title": "科技早报 | 抖音李亮：腾讯短剧、短视频增速远",
-        "description": "",
-        "url": "https://www.163.com/dy/article/LAAHKC2R0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-10-28 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1028%2F0cc3db25j00tnlca1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技新一谈多客户取消iPhoneDuo订单 品控问题引发退订潮",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261026/49818875.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-26 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261026/de7c9fa1-8b6d-41ba-8edb-a29d94c0b72a.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价连续两天大跌 美伊谈判预期升温",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261104/49837622.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-04 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261104/508f6bb9-c97a-4595-8817-a159fd9662f8.jpg"
+      },
+      {
+        "title": "国际油价大跌超7% 霍尔木兹海峡通航信号引发",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261103/49836301.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-03 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261103/086f5b1a-2b9c-41c8-9563-c492a274e168.jpg"
+      },
+      {
+        "title": "国际金价，跌回一年前 购金热再现市场",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261103/49835975.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-03 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261103/7d05283c-6006-4f48-8036-181dceaf0090.jpg"
+      },
       {
         "title": "国际油价大幅下跌 车主迎来利好",
         "description": "",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-11-02 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261102/b6061ea0-236a-49d0-a704-358351cc27cf.jpg"
-      },
-      {
-        "title": "国际原油降价国内油价为何上涨 调价机制解析",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261028/49823490.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-28 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261028/50e7f022-c9e3-4559-b8b6-dabdc90b2e4b.jpg"
-      },
-      {
-        "title": "国际乒联最新世界排名公布 松岛辉空男单登顶",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261026/49819463.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-26 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261026/77356065-0055-40f0-8e38-8cb32e041eea.png"
-      },
-      {
-        "title": "国际油价直线下挫，黄金重回4000美元 市场波动加剧",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261026/49819144.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-26 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261026/cfef0603-9a73-4d2c-b9c7-d7d4c1e6c86e.jpg"
       }
     ]
   }

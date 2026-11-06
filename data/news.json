@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05 10:04",
+  "updatedAt": "2026-11-06 10:05",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,46 @@
     ],
     "world": [
       {
+        "title": "国际足联官方发布C罗退役海报 未来可期",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261106/49845873.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-06 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261106/a55926f2-1dfc-4d9b-99bb-196db2cfb1e7.jpg"
+      },
+      {
+        "title": "国际油价重挫超8% 战争恐慌撤单引发市场调整",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261105/49844949.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-05 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261105/69df7042-8c50-4775-8488-705b85167f4b.jpg"
+      },
+      {
+        "title": "国际油价4日大幅下跌",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20261105/49843599.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-05 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261105/6ddde7e1-da67-4e3e-8853-c2380f4e6fbb.jpg"
+      },
+      {
+        "title": "国际油价暴跌 和谈与产量不变推动下跌",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261105/49842395.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-05 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261105/6cb89db8-ebd1-4be3-812f-9f40b49bc79f.jpg"
+      },
+      {
         "title": "国际油价连续两天大跌 美伊谈判预期升温",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261104/49837622.html",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-11-04 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261104/508f6bb9-c97a-4595-8817-a159fd9662f8.jpg"
-      },
-      {
-        "title": "国际油价大跌超7% 霍尔木兹海峡通航信号引发",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261103/49836301.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-03 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261103/086f5b1a-2b9c-41c8-9563-c492a274e168.jpg"
-      },
-      {
-        "title": "国际金价，跌回一年前 购金热再现市场",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261103/49835975.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-03 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261103/7d05283c-6006-4f48-8036-181dceaf0090.jpg"
-      },
-      {
-        "title": "国际油价大幅下跌 车主迎来利好",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261103/49835029.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-03 00:00:00",
-        "image": ""
-      },
-      {
-        "title": "国际金价跌回一年前 金银价格遭遇重挫",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261102/49833595.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-02 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261102/b6061ea0-236a-49d0-a704-358351cc27cf.jpg"
       }
     ]
   }

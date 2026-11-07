@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06 10:05",
+  "updatedAt": "2026-11-07 09:43",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股重挫引发避险需求 全球科技股共振下跌",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261106/49847360.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-06 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261106/3b00ae60-e24b-4f4a-9c8e-6a0bca73a605.png"
+      },
+      {
         "title": "科技早报｜红果免费短剧成抖音集团第二大应用；",
         "description": "",
         "url": "https://www.163.com/dy/article/LASLDU8B0534A4SC.html",
@@ -197,19 +207,29 @@
         },
         "publishedAt": "2026-10-30 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20261030/fda48a14-f2e5-4141-8e67-9def7b38e9d3.jpg"
-      },
-      {
-        "title": "科技育繁花 种芯绽杨凌",
-        "description": "科技育繁花种芯绽杨凌【详细】",
-        "url": "https://kepu.gmw.cn/agri/2026-10/29/content_39072809.htm",
-        "source": {
-          "name": "农业新闻"
-        },
-        "publishedAt": "2026-10-29 10:32:00",
-        "image": ""
       }
     ],
     "world": [
+      {
+        "title": "国际期刊系统评估中国健康扶贫成效向全球推广中国经验",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261106/49848175.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-06 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261106/3a5c1df2-bbaa-41d8-a2fd-cfcd2d58ac39.jpg"
+      },
+      {
+        "title": "国际金融领袖峰会热议投资中国 经济向新向优态势",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261106/49848268.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-06 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261106/0884fc32-a7a0-4c0b-8d57-92630f0b4fa3.jpg"
+      },
       {
         "title": "国际足联官方发布C罗退役海报 未来可期",
         "description": "",
@@ -239,26 +259,6 @@
         },
         "publishedAt": "2026-11-05 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20261105/6ddde7e1-da67-4e3e-8853-c2380f4e6fbb.jpg"
-      },
-      {
-        "title": "国际油价暴跌 和谈与产量不变推动下跌",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261105/49842395.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-05 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261105/6cb89db8-ebd1-4be3-812f-9f40b49bc79f.jpg"
-      },
-      {
-        "title": "国际油价连续两天大跌 美伊谈判预期升温",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261104/49837622.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-04 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261104/508f6bb9-c97a-4595-8817-a159fd9662f8.jpg"
       }
     ]
   }

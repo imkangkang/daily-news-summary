@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08 09:12",
+  "updatedAt": "2026-11-09 09:31",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际酒店“集体抢滩”新疆 高端市场迎来爆发潮",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261108/49850907.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-08 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261108/9cb944a9-5b09-4f74-b86e-dfb454c75fec.jpg"
+      },
+      {
         "title": "国际原子能机构：乌克兰核设施面临持续安全风险",
         "description": "",
         "url": "https://mil.ifeng.com/c/8xr81mxpd7l",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-11-06 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261106/a55926f2-1dfc-4d9b-99bb-196db2cfb1e7.jpg"
-      },
-      {
-        "title": "国际油价重挫超8% 战争恐慌撤单引发市场调整",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261105/49844949.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-05 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261105/69df7042-8c50-4775-8488-705b85167f4b.jpg"
       }
     ]
   }

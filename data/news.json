@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-11-09 09:31",
+  "updatedAt": "2026-11-10 11:59",
   "categories": {
     "politics": [
+      {
+        "title": "政治分歧日益蔓延，多名高管紧急应对，美科技巨头面临国会“传票威胁” 人工智能监",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261109/49853981.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-09 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261109/6a8b2fdc-879c-4fce-a4a8-41da9ff70484.jpg"
+      },
       {
         "title": "政治局会议对货币政策有新提法 强调综合运用与调整工具",
         "description": "",
@@ -41,16 +51,6 @@
         },
         "publishedAt": "2026-05-14 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20260513/eeaad8d4-5005-4f4f-86ef-8b65ca140379.png"
-      },
-      {
-        "title": "政治加速右转，日本滑向何方",
-        "description": "查看详情",
-        "url": "https://news.southcn.com/node_179d29f1ce/f276a6955d.shtml",
-        "source": {
-          "name": "南方社会"
-        },
-        "publishedAt": "2025-12-28 19:39:00",
-        "image": "https://nfassetoss.southcn.com/__asset/edf5bb69a5/f8514f28f1.jpeg?t=1766921949443&amp;w=800&amp;h=450&amp;imageMogr2/thumbnail/214x"
       }
     ],
     "economy": [
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际金价突然直线拉升 中东局势缓和推动",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261110/49855983.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-10 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261110/7b7131f7-f11b-4828-864d-fc3e01b98ebe.jpg"
+      },
+      {
+        "title": "国际品牌的中国生意，从天猫开始",
+        "description": "",
+        "url": "https://www.163.com/dy/article/LBAQQVO00511HHB5.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-11-09 21:25:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle1069b54ccdbj00to8ik400z7d0010w00q0g.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
+        "title": "国际乒联世界排名：日乒包揽男单前二，张本智和升至次席",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261109/49855141.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-09 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261109/457a5510-dab2-4556-9b2d-8368b2695866.jpg"
+      },
+      {
         "title": "国际酒店“集体抢滩”新疆 高端市场迎来爆发潮",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261108/49850907.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-11-07 22:00:04",
         "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_45/0597AEB1532B4968CADB7B4A73B1FC7022C46B0E_size819_w975_h549.png"
-      },
-      {
-        "title": "国际期刊系统评估中国健康扶贫成效向全球推广中国经验",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261106/49848175.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-06 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261106/3a5c1df2-bbaa-41d8-a2fd-cfcd2d58ac39.jpg"
-      },
-      {
-        "title": "国际金融领袖峰会热议投资中国 经济向新向优态势",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261106/49848268.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-06 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261106/0884fc32-a7a0-4c0b-8d57-92630f0b4fa3.jpg"
-      },
-      {
-        "title": "国际足联官方发布C罗退役海报 未来可期",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261106/49845873.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-06 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261106/a55926f2-1dfc-4d9b-99bb-196db2cfb1e7.jpg"
       }
     ]
   }

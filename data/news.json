@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10 11:59",
+  "updatedAt": "2026-11-11 09:45",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际油价又大跌了 地缘风险溢价回吐",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261111/49859595.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-11 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261111/b29a0cab-6d08-4249-8815-0d5b9b30454e.jpg"
+      },
+      {
         "title": "国际金价突然直线拉升 中东局势缓和推动",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261110/49855983.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-11-08 00:00:00",
         "image": "https://img3.utuku.imgcdc.com/300x200/news/20261108/9cb944a9-5b09-4f74-b86e-dfb454c75fec.jpg"
-      },
-      {
-        "title": "国际原子能机构：乌克兰核设施面临持续安全风险",
-        "description": "",
-        "url": "https://mil.ifeng.com/c/8xr81mxpd7l",
-        "source": {
-          "name": "凤凰军事"
-        },
-        "publishedAt": "2026-11-07 22:00:04",
-        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_45/0597AEB1532B4968CADB7B4A73B1FC7022C46B0E_size819_w975_h549.png"
       }
     ]
   }

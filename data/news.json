@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11 09:45",
+  "updatedAt": "2026-11-12 10:46",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际油价，突然大跌！",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261111/49862926.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-11 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261111/00741a72-8e18-4064-9fd7-e246d60dbc28.jpg"
+      },
+      {
         "title": "国际油价又大跌了 地缘风险溢价回吐",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261111/49859595.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-11-09 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20261109/457a5510-dab2-4556-9b2d-8368b2695866.jpg"
-      },
-      {
-        "title": "国际酒店“集体抢滩”新疆 高端市场迎来爆发潮",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261108/49850907.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-08 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261108/9cb944a9-5b09-4f74-b86e-dfb454c75fec.jpg"
       }
     ]
   }

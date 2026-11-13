@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12 10:46",
+  "updatedAt": "2026-11-13 10:28",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 知情人士称腾讯“裁员50%”说法不属",
+        "description": "",
+        "url": "https://www.163.com/dy/article/LBJNVSAK0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-11-13 08:06:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1113%2F0cc3db25j00toeyy1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
+        "title": "科技早报｜知情人士称腾讯“裁员50%”说法不属",
+        "description": "",
+        "url": "https://www.163.com/dy/article/LBJOV1HQ0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-11-13 08:23:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle262e76df20cj00toeywc000wd000jg00b2g.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
         "title": "科技股还要跌多久 短期或迎更多波动",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261107/49850373.html",
@@ -187,26 +207,6 @@
         },
         "publishedAt": "2026-11-04 08:59:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle6872566222bj00tnyckc002jd000zk00idg.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技早报 | 红果免费短剧成抖音集团第二大应用",
-        "description": "",
-        "url": "https://www.163.com/dy/article/LASIDD7S0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-11-04 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1104%2F0cc3db25j00tnyay1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技股“认清现实”的一周 巨头财报接连失守",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261101/49830741.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-01 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261031/52c1b8e4-498a-4a6a-8ebb-8da861bdb20a.jpg"
       }
     ],
     "world": [

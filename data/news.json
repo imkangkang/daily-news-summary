@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13 10:28",
+  "updatedAt": "2026-11-14 10:05",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,16 @@
     ],
     "world": [
       {
+        "title": "国际中文教育垂直大模型亮相，为全球中文学习者等群体提供智能化服务",
+        "description": "该模型将人工智能技术与国际中文教育实际需求相结合，深度融入专业知识、教学规律与真实场景，专项适配教与学各个环节，推动优质教学资源与智能服务共享，助力国际中文教育数智化发展。",
+        "url": "https://www.ithome.com/1/026/801.htm",
+        "source": {
+          "name": "IT家人工智能"
+        },
+        "publishedAt": "2026-11-13 17:00:06",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1026801_240.jpg?x-bce-process=image/format,f_auto"
+      },
+      {
         "title": "国际油价，突然大跌！",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261111/49862926.html",
@@ -249,16 +259,6 @@
         },
         "publishedAt": "2026-11-09 21:25:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle1069b54ccdbj00to8ik400z7d0010w00q0g.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "国际乒联世界排名：日乒包揽男单前二，张本智和升至次席",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261109/49855141.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-09 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261109/457a5510-dab2-4556-9b2d-8368b2695866.jpg"
       }
     ]
   }

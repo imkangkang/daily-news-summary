@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20 10:53",
+  "updatedAt": "2026-11-21 11:01",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技赋能让小包裹“加速跑”",
+        "description": "",
+        "url": "https://news.china.com/domestic/945/20261121/49893028.html",
+        "source": {
+          "name": "中华国内"
+        },
+        "publishedAt": "2026-11-21 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261121/f4c2d5ef-eda9-4360-9f1d-1f72771fb58c.jpg"
+      },
+      {
         "title": "科技厂商加码AI眼镜 产品研发路线持续分化",
         "description": "",
         "url": "https://www.163.com/dy/article/LC348REG0552C2FY.html",
@@ -197,19 +207,49 @@
         },
         "publishedAt": "2026-11-13 08:23:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle262e76df20cj00toeywc000wd000jg00b2g.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技股还要跌多久 短期或迎更多波动",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261107/49850373.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-07 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261107/f7531331-de18-4ad5-a70d-ccd3ea161312.jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际能源署：中东冲突或重塑全球能源格局",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20261121/49893159.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-21 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261121/c068771b-3a7c-4de7-91be-8ed0b1a8169a.jpg"
+      },
+      {
+        "title": "国际能源署预警：到 2030 年，全球数据中心用电量或将翻倍",
+        "description": "除了电网容量不足，供应链紧张和当地居民反对也存在拖慢建设进度的可能性。",
+        "url": "https://www.ithome.com/1/030/065.htm",
+        "source": {
+          "name": "IT家科学探索"
+        },
+        "publishedAt": "2026-11-20 17:00:11",
+        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030065_240.jpg?x-bce-process=image/format,f_auto"
+      },
+      {
+        "title": "国际足联主席选举三名候选人揭晓 角逐明年展开",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261120/49892207.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-20 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261120/9369764c-4a0a-4e78-8595-6a80ed70efd4.jpg"
+      },
+      {
+        "title": "国际原子能机构：扎波罗热核电站核风险持续上升",
+        "description": "",
+        "url": "https://mil.ifeng.com/c/8yAugwkuqhY",
+        "source": {
+          "name": "凤凰军事"
+        },
+        "publishedAt": "2026-11-20 15:00:07",
+        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_47/B9172B57D4AAFB5D942AC29C018657525D485FBA_size888_w975_h549.png"
+      },
       {
         "title": "国际货币基金组织总裁警告：AI 投资热情过高影响，金融市场或现进一步调整",
         "description": "IMF总裁格奥尔基耶娃表示，受AI投资热情过高影响，金融市场或现进一步调整。目前AI产业循环融资规模约1万亿美元，债务融资占比高，存在金融稳定风险，AI今年将为全球经济增长贡献0.5个百分点。",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-11-19 20:00:08",
         "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029648_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "国际金价跌破3800美元 跌幅超过3%",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20261119/49888232.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-19 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261119/03999521-cd3e-4242-a22a-05987e503d6c.jpg"
-      },
-      {
-        "title": "国际金价跌破3800美元",
-        "description": "2026-11-1913:17",
-        "url": "//caijing.chinadaily.com.cn/a/202611/19/WS6afe8686e4b0e14252fcc1bb.html",
-        "source": {
-          "name": "中国日报财经"
-        },
-        "publishedAt": "2026-11-19 13:17:00",
-        "image": "//img3.chinadaily.com.cn/images/202611/19/6afe8686e4b0e1427c737a03.jpeg"
-      },
-      {
-        "title": "国际原子能机构：扎波罗热核电站核安全风险持续上升",
-        "description": "",
-        "url": "https://mil.ifeng.com/c/8yAsP0DkrSn",
-        "source": {
-          "name": "凤凰军事"
-        },
-        "publishedAt": "2026-11-19 11:00:05",
-        "image": "//d.ifengimg.com/w198_h112_ablur_q90/x0.ifengimg.com/ucms/2026_47/83CB5FB0AA6446C7056F1DA2E8399A3DD47C827D_size1008_w1035_h582.png"
-      },
-      {
-        "title": "国际油价延续下跌 市场定价转向供需 风险与供应重新评估",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261119/49886354.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-19 00:00:00",
-        "image": ""
       }
     ]
   }

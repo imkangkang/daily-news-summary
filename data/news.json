@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23 10:24",
+  "updatedAt": "2026-11-24 13:47",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,16 @@
     ],
     "economy": [
       {
+        "title": "经济增长为啥大家感受不一样 政策实招缩小“温差”",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261123/49898280.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-23 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261123/9c9ea871-0d39-49c0-a773-4880c95313a4.png"
+      },
+      {
         "title": "经济保持增长 为什么有人感受不一样 个体体验差异明显",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261123/49896468.html",
@@ -93,16 +103,6 @@
         },
         "publishedAt": "2026-10-31 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20261031/89e764fd-2b9e-4565-b0db-686f97674e66.jpg"
-      },
-      {
-        "title": "经济日报：没了最低价的“双11”还有啥",
-        "description": "",
-        "url": "https://www.163.com/dy/article/LAAFPPEG0514R9P4.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-10-28 07:34:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1028%2Fa4ed1540j00tnl8vt001zd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "military": [
@@ -159,6 +159,16 @@
     ],
     "tech": [
       {
+        "title": "科技股崩盘后华尔街聚焦对冲基金 市场情绪恐慌加剧",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261123/49898359.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-23 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261123/ea045401-91f8-4380-8d90-ba4b145373d9.jpg"
+      },
+      {
         "title": "科技赋能让小包裹“加速跑”",
         "description": "",
         "url": "https://news.china.com/domestic/945/20261121/49893028.html",
@@ -197,19 +207,49 @@
         },
         "publishedAt": "2026-11-13 08:06:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1113%2F0cc3db25j00toeyy1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技早报｜知情人士称腾讯“裁员50%”说法不属",
-        "description": "",
-        "url": "https://www.163.com/dy/article/LBJOV1HQ0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-11-13 08:23:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle262e76df20cj00toeywc000wd000jg00b2g.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [
+      {
+        "title": "国际油价大跌，国内仅降几毛钱 调价机制揭秘",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261124/49901930.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-24 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261124/45f5264b-737c-470f-bf9b-23f7e028a6f4.jpg"
+      },
+      {
+        "title": "国际刑事法院是滥用管辖权吗？中方回应 应秉持客观公正立场",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261124/49901005.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-24 00:00:00",
+        "image": ""
+      },
+      {
+        "title": "国际金价大幅回调 买黄金是消费还是投资？",
+        "description": "",
+        "url": "https://news.china.com/domestic/945/20261124/49900233.html",
+        "source": {
+          "name": "中华国内"
+        },
+        "publishedAt": "2026-11-24 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261123/000b5527-1f71-4786-8340-067a674c2445.jpg"
+      },
+      {
+        "title": "国际金价显著反弹 终结连续五日下跌",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261124/49900448.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-24 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261124/536eee92-c696-4b2f-b198-24672c730589.jpg"
+      },
       {
         "title": "国际金价跌破3600美元原因何在 美联储政策急转引发下跌",
         "description": "",
@@ -219,46 +259,6 @@
         },
         "publishedAt": "2026-11-23 00:00:00",
         "image": "https://img1.utuku.imgcdc.com/300x200/news/20261123/24ae8dfb-efd2-4a6d-97e9-cbfb4da30481.jpg"
-      },
-      {
-        "title": "国际金价走势与地缘政治局势变化有何关联？",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20261123/49896306.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-23 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261123/fa705507-2762-462f-8d9e-5d9d1dcdfed2.jpg"
-      },
-      {
-        "title": "国际金价为何持续下跌 美联储加息预期成“导火索”",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261122/49895216.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-22 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261122/41d123f7-29bb-421e-a6a3-5c2f6b4fd3fb.jpg"
-      },
-      {
-        "title": "国际能源署：中东冲突或重塑全球能源格局",
-        "description": "",
-        "url": "https://news.china.com/international/1000/20261121/49893159.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-21 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261121/c068771b-3a7c-4de7-91be-8ed0b1a8169a.jpg"
-      },
-      {
-        "title": "国际能源署预警：到 2030 年，全球数据中心用电量或将翻倍",
-        "description": "除了电网容量不足，供应链紧张和当地居民反对也存在拖慢建设进度的可能性。",
-        "url": "https://www.ithome.com/1/030/065.htm",
-        "source": {
-          "name": "IT家科学探索"
-        },
-        "publishedAt": "2026-11-20 17:00:11",
-        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030065_240.jpg?x-bce-process=image/format,f_auto"
       }
     ]
   }

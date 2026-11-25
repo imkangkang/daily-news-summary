@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24 13:47",
+  "updatedAt": "2026-11-25 12:49",
   "categories": {
     "politics": [
       {
@@ -55,6 +55,26 @@
     ],
     "economy": [
       {
+        "title": "经济下行期，港星都在努力“存肌肉”",
+        "description": "",
+        "url": "https://www.163.com/dy/article/LCHUJKMV051787EK.html",
+        "source": {
+          "name": "网易明星"
+        },
+        "publishedAt": "2026-11-25 01:39:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fbjnewsrec-cv.ws.126.net%2Flittle5681fe4c411j00tp0p0j00ddd200nj00g5g00nj00g5.jpg&thumbnail=130y90&quality=100&type=jpg"
+      },
+      {
+        "title": "经济体量超过8个省会城市，“最强县级市”还在“狂飙”！",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261124/49902382.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-24 00:00:00",
+        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261124/deffa3e7-79bb-4f5f-8c9d-800b61d3d2bc.jpg"
+      },
+      {
         "title": "经济增长为啥大家感受不一样 政策实招缩小“温差”",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261123/49898280.html",
@@ -83,26 +103,6 @@
         },
         "publishedAt": "2026-11-20 00:00:00",
         "image": "https://img2.utuku.imgcdc.com/300x200/news/20261120/0138b807-771e-467f-8e8f-8232046e13d5.jpg"
-      },
-      {
-        "title": "经济大省三季报释放什么新信号 总量强增速快",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261101/49831693.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-01 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261101/2c2d3262-f038-48fc-8a7e-8108627a00b4.jpg"
-      },
-      {
-        "title": "经济日报：“速成车”标签不可乱贴 效率提升非偷换概念",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261031/49830272.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-10-31 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261031/89e764fd-2b9e-4565-b0db-686f97674e66.jpg"
       }
     ],
     "military": [
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际刑事法院日籍院长跑去要钱，高市大笔一挥：将全额支付 日本支持立场坚定",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261125/49905304.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-25 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261125/21cc52e6-08dc-4a14-a2f0-12a1572b5060.jpg"
+      },
+      {
+        "title": "国际高血压指南更新 降压门槛更低",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261125/49904034.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-25 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261125/c18dab54-ef22-415d-8168-d7e1afaa1e10.jpg"
+      },
+      {
+        "title": "国际油价大跌！黄金白银齐涨！美股科技股飙升",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261124/49903729.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-24 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261124/0c78aad0-a164-45b8-a0da-cb8292cef02a.jpg"
+      },
+      {
         "title": "国际油价大跌，国内仅降几毛钱 调价机制揭秘",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261124/49901930.html",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-11-24 00:00:00",
         "image": ""
-      },
-      {
-        "title": "国际金价大幅回调 买黄金是消费还是投资？",
-        "description": "",
-        "url": "https://news.china.com/domestic/945/20261124/49900233.html",
-        "source": {
-          "name": "中华国内"
-        },
-        "publishedAt": "2026-11-24 00:00:00",
-        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261123/000b5527-1f71-4786-8340-067a674c2445.jpg"
-      },
-      {
-        "title": "国际金价显著反弹 终结连续五日下跌",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261124/49900448.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-24 00:00:00",
-        "image": "https://img2.utuku.imgcdc.com/300x200/news/20261124/536eee92-c696-4b2f-b198-24672c730589.jpg"
-      },
-      {
-        "title": "国际金价跌破3600美元原因何在 美联储政策急转引发下跌",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261123/49896603.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-23 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261123/24ae8dfb-efd2-4a6d-97e9-cbfb4da30481.jpg"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26 12:01",
+  "updatedAt": "2026-11-27 11:59",
   "categories": {
     "politics": [
       {
@@ -211,6 +211,36 @@
     ],
     "world": [
       {
+        "title": "国际金价继续下跌 金银价格承压显著",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261127/49912695.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-27 00:00:00",
+        "image": "https://img3.utuku.imgcdc.com/300x200/news/20261127/32e49753-71e8-4d28-b1cf-4bfba0ffb080.jpg"
+      },
+      {
+        "title": "国际人士：应敦促日本正视侵略历史 履行国际义务销毁化武",
+        "description": "",
+        "url": "https://news.china.com/socialgd/10000169/20261126/49910049.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-26 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261126/4bc33e11-4601-497d-94e3-1a90a2025a31.jpg"
+      },
+      {
+        "title": "国际油价25日上涨",
+        "description": "",
+        "url": "https://news.china.com/international/1000/20261126/49910139.html",
+        "source": {
+          "name": "中华国际"
+        },
+        "publishedAt": "2026-11-26 00:00:00",
+        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261126/70dd20c5-31f2-4859-83f2-c8f377ca7ee1.jpg"
+      },
+      {
         "title": "国际首次，我国科研人员助力宇宙中性氢 21 厘米信号直接探测",
         "description": "中性氢是宇宙里未被电离的氢原子，是科学家看懂宇宙演化的重要“探针”，会发出21厘米射电辐射。通过观测这种信号，科学家们就能看清物质如何在引力作用下聚拢，慢慢形成星系、星系团，以及串联起整个宇宙的网状大尺度结构。",
         "url": "https://www.ithome.com/1/032/707.htm",
@@ -229,36 +259,6 @@
         },
         "publishedAt": "2026-11-25 00:00:00",
         "image": "https://img0.utuku.imgcdc.com/300x200/news/20261125/9f317659-1eed-4fc2-a180-0be9b8a97711.jpg"
-      },
-      {
-        "title": "国际首套 600MW 级压缩空气储能系统膨胀机在我国顺利下线，100% 自主知识产权",
-        "description": "由中国科学院工程热物理研究所联合中储国能（北京）技术有限公司研制的国际首套600MW级压缩空气储能系统膨胀机完成集成测试，顺利下线。",
-        "url": "https://www.ithome.com/1/032/098.htm",
-        "source": {
-          "name": "IT家科学探索"
-        },
-        "publishedAt": "2026-11-25 14:00:09",
-        "image": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1032098_240.jpg?x-bce-process=image/format,f_auto"
-      },
-      {
-        "title": "国际刑事法院日籍院长跑去要钱，高市大笔一挥：将全额支付 日本支持立场坚定",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261125/49905304.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-25 00:00:00",
-        "image": "https://img1.utuku.imgcdc.com/300x200/news/20261125/21cc52e6-08dc-4a14-a2f0-12a1572b5060.jpg"
-      },
-      {
-        "title": "国际高血压指南更新 降压门槛更低",
-        "description": "",
-        "url": "https://news.china.com/socialgd/10000169/20261125/49904034.html",
-        "source": {
-          "name": "中华国际"
-        },
-        "publishedAt": "2026-11-25 00:00:00",
-        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261125/c18dab54-ef22-415d-8168-d7e1afaa1e10.jpg"
       }
     ]
   }

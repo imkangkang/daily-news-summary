@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27 11:59",
+  "updatedAt": "2026-11-28 11:47",
   "categories": {
     "politics": [
       {
@@ -159,6 +159,26 @@
     ],
     "tech": [
       {
+        "title": "科技早报 | 骑手准时拿工资需买“工资险”？美",
+        "description": "",
+        "url": "https://www.163.com/dy/article/LCQE7SNP0534A4SC.html",
+        "source": {
+          "name": "网易互联网"
+        },
+        "publishedAt": "2026-11-28 08:46:00",
+        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1128%2F0cc3db25j00tp6ssp000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
+      },
+      {
+        "title": "科技加持让冬日美丽经济“一路生花”",
+        "description": "",
+        "url": "https://news.china.com/social/1007/20261128/49915043.html",
+        "source": {
+          "name": "中华社会"
+        },
+        "publishedAt": "2026-11-28 00:00:00",
+        "image": "https://img0.utuku.imgcdc.com/300x200/news/20261128/a1e5f08b-c497-481f-b467-e1d45498957b.png"
+      },
+      {
         "title": "科技股崩盘后华尔街聚焦对冲基金 市场情绪恐慌加剧",
         "description": "",
         "url": "https://news.china.com/socialgd/10000169/20261123/49898359.html",
@@ -187,26 +207,6 @@
         },
         "publishedAt": "2026-11-19 07:29:00",
         "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1118%2F089043d7j00toov7v00dxd000p000ang.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技周报|阿里拟分拆平头哥独立上市；双11电商",
-        "description": "",
-        "url": "https://www.163.com/dy/article/LBPDNONC0519DDQ2.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-11-15 13:02:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1115%2F00cdaff5j00toixco00cod0019o00tqg.jpg&thumbnail=200y140&quality=100&type=jpg"
-      },
-      {
-        "title": "科技早报 | 知情人士称腾讯“裁员50%”说法不属",
-        "description": "",
-        "url": "https://www.163.com/dy/article/LBJNVSAK0534A4SC.html",
-        "source": {
-          "name": "网易互联网"
-        },
-        "publishedAt": "2026-11-13 08:06:00",
-        "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1113%2F0cc3db25j00toeyy1000cd0009c005uc.jpg&thumbnail=200y140&quality=100&type=jpg"
       }
     ],
     "world": [
